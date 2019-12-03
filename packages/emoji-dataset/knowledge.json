@@ -1,0 +1,10379 @@
+[
+  {
+    "emoji": "0⃣",
+    "tags": ["0", "keycap", "zero"]
+  },
+  {
+    "emoji": "1⃣",
+    "tags": ["1", "number", "one"]
+  },
+  {
+    "emoji": "🕐",
+    "tags": ["1", "00", "1:00", "clock", "one", "time"]
+  },
+  {
+    "emoji": "🕜",
+    "tags": ["1", "30", "1:30", "clock", "one", "one-thirty", "thirty", "time"]
+  },
+  {
+    "emoji": "🕑",
+    "tags": ["2", "00", "2:00", "clock", "time", "two"]
+  },
+  {
+    "emoji": "2⃣",
+    "tags": ["2", "number", "two"]
+  },
+  {
+    "emoji": "🕝",
+    "tags": ["2", "30", "2:30", "clock", "thirty", "time", "two", "two-thirty"]
+  },
+  {
+    "emoji": "🕒",
+    "tags": ["3", "00", "3:00", "clock", "three", "time"]
+  },
+  {
+    "emoji": "🕞",
+    "tags": [
+      "3",
+      "30",
+      "3:30",
+      "clock",
+      "thirty",
+      "three",
+      "three-thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "3⃣",
+    "tags": ["3", "keycap", "three"]
+  },
+  {
+    "emoji": "🕓",
+    "tags": ["4", "00", "4:00", "clock", "four", "time"]
+  },
+  {
+    "emoji": "🍀",
+    "tags": ["4", "clover", "four", "leaf", "irish", "lucky", "plant"]
+  },
+  {
+    "emoji": "🕟",
+    "tags": [
+      "4",
+      "30",
+      "4:30",
+      "clock",
+      "four",
+      "four-thirty",
+      "thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "4⃣",
+    "tags": ["4", "four", "number"]
+  },
+  {
+    "emoji": "🕠",
+    "tags": [
+      "5",
+      "30",
+      "5:30",
+      "clock",
+      "five",
+      "five-thirty",
+      "thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "5⃣",
+    "tags": ["5", "five", "number"]
+  },
+  {
+    "emoji": "🕔",
+    "tags": ["5", "00", "5:00", "clock", "five", "time"]
+  },
+  {
+    "emoji": "🕡",
+    "tags": ["6", "30", "6:30", "clock", "six", "six-thirty", "thirty"]
+  },
+  {
+    "emoji": "🕕",
+    "tags": ["6", "00", "6:00", "clock", "six", "time"]
+  },
+  {
+    "emoji": "6⃣",
+    "tags": ["6", "number", "six"]
+  },
+  {
+    "emoji": "🕢",
+    "tags": ["7", "30", "7:30", "clock", "seven", "seven-thirty", "thirty"]
+  },
+  {
+    "emoji": "7⃣",
+    "tags": ["7", "number", "seven"]
+  },
+  {
+    "emoji": "🕖",
+    "tags": ["7", "00", "7:00", "clock", "seven"]
+  },
+  {
+    "emoji": "🕣",
+    "tags": [
+      "8",
+      "30",
+      "8:30",
+      "clock",
+      "eight",
+      "eight-thirty",
+      "thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "🕗",
+    "tags": ["8", "00", "8:00", "clock", "eight", "time"]
+  },
+  {
+    "emoji": "🎱",
+    "tags": ["8", "ball", "8ball", "billiard", "eight", "game", "pool"]
+  },
+  {
+    "emoji": "8⃣",
+    "tags": ["8", "eight", "number"]
+  },
+  {
+    "emoji": "9⃣",
+    "tags": ["9", "nine", "number"]
+  },
+  {
+    "emoji": "🕤",
+    "tags": [
+      "9",
+      "30",
+      "9:30",
+      "clock",
+      "nine",
+      "nine-thirty",
+      "thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "🕘",
+    "tags": ["9", "00", "9:00", "clock", "nine", "time"]
+  },
+  {
+    "emoji": "🕥",
+    "tags": [
+      "10",
+      "30",
+      "10:30",
+      "clock",
+      "ten",
+      "ten-thirty",
+      "thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "🕙",
+    "tags": ["10", "00", "10:00", "clock", "ten"]
+  },
+  {
+    "emoji": "🕦",
+    "tags": [
+      "11",
+      "30",
+      "11:30",
+      "clock",
+      "eleven",
+      "eleven-thirty",
+      "thirty",
+      "time"
+    ]
+  },
+  {
+    "emoji": "🕚",
+    "tags": ["11", "00", "11:00", "clock", "eleven", "time"]
+  },
+  {
+    "emoji": "🕧",
+    "tags": [
+      "12",
+      "30",
+      "12:30",
+      "clock",
+      "thirty",
+      "time",
+      "twelve",
+      "twelve-thirty"
+    ]
+  },
+  {
+    "emoji": "🕛",
+    "tags": ["12", "00", "12:00", "clock", "time", "twelve"]
+  },
+  {
+    "emoji": "🔞",
+    "tags": [
+      "18",
+      "agerestriction",
+      "eighteen",
+      "forbidden",
+      "no",
+      "one",
+      "under",
+      "not",
+      "prohibited",
+      "underage"
+    ]
+  },
+  {
+    "emoji": "🏪",
+    "tags": ["24", "hours", "building", "convenience", "store"]
+  },
+  {
+    "emoji": "💶",
+    "tags": [
+      "100",
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "euro",
+      "money",
+      "note",
+      "rich"
+    ]
+  },
+  {
+    "emoji": "💯",
+    "tags": [
+      "100",
+      "a+",
+      "agree",
+      "bruh",
+      "clearly",
+      "definitely",
+      "faithful",
+      "fleek",
+      "full",
+      "hbd",
+      "homie",
+      "hundred",
+      "points",
+      "keep",
+      "it",
+      "kidding",
+      "on",
+      "point",
+      "perfect",
+      "score",
+      "true",
+      "truth",
+      "yup"
+    ]
+  },
+  {
+    "emoji": "😍",
+    "tags": [
+      "143",
+      "bae",
+      "eye",
+      "face",
+      "feels",
+      "heart",
+      "ily",
+      "in",
+      "love",
+      "kisses",
+      "loving",
+      "romance",
+      "romantic",
+      "smile",
+      "smiling",
+      "with",
+      "heart-eyes",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "💓",
+    "tags": [
+      "143",
+      "beating",
+      "heart",
+      "cardio",
+      "emotion",
+      "heartbeat",
+      "ily",
+      "love",
+      "pulsating",
+      "pulse"
+    ]
+  },
+  {
+    "emoji": "💕",
+    "tags": [
+      "143",
+      "anniversary",
+      "date",
+      "dating",
+      "emotion",
+      "heart",
+      "ily",
+      "kisses",
+      "love",
+      "loving",
+      "two",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "💘",
+    "tags": [
+      "143",
+      "adorbs",
+      "arrow",
+      "cupid",
+      "date",
+      "emotion",
+      "heart",
+      "with",
+      "ily",
+      "love",
+      "romance",
+      "valentine"
+    ]
+  },
+  {
+    "emoji": "💙",
+    "tags": ["143", "blue", "heart", "emotion", "ily", "love", "romance"]
+  },
+  {
+    "emoji": "😚",
+    "tags": [
+      "143",
+      "bae",
+      "blush",
+      "closed",
+      "date",
+      "dating",
+      "eye",
+      "face",
+      "flirt",
+      "ily",
+      "kiss",
+      "kisses",
+      "kissing",
+      "with",
+      "eyes",
+      "smooches",
+      "under",
+      "the",
+      "tuscan",
+      "sun",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "😘",
+    "tags": [
+      "143",
+      "adorbs",
+      "bae",
+      "face",
+      "blowing",
+      "a",
+      "kiss",
+      "flirt",
+      "heart",
+      "ily",
+      "kisses",
+      "love",
+      "you",
+      "lover",
+      "miss",
+      "morning",
+      "muah",
+      "night",
+      "romance",
+      "romantic",
+      "smooch",
+      "smooches",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "😙",
+    "tags": [
+      "143",
+      "closed",
+      "eyes",
+      "date",
+      "dating",
+      "eye",
+      "face",
+      "flirt",
+      "ily",
+      "kiss",
+      "kisses",
+      "kissing",
+      "with",
+      "smiling",
+      "love",
+      "night",
+      "smile"
+    ]
+  },
+  {
+    "emoji": "💚",
+    "tags": ["143", "emotion", "green", "heart", "ily", "love", "romantic"]
+  },
+  {
+    "emoji": "😗",
+    "tags": [
+      "143",
+      "date",
+      "dating",
+      "face",
+      "flirt",
+      "ily",
+      "kiss",
+      "kisses",
+      "kissing",
+      "love",
+      "you",
+      "smooch",
+      "smooches",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "💖",
+    "tags": [
+      "143",
+      "emotion",
+      "excited",
+      "good",
+      "night",
+      "heart",
+      "ily",
+      "kisses",
+      "morning",
+      "sparkle",
+      "sparkling",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "💗",
+    "tags": [
+      "143",
+      "emotion",
+      "excited",
+      "growing",
+      "heart",
+      "heartpulse",
+      "ily",
+      "kisses",
+      "muah",
+      "nervous",
+      "pulse",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "💞",
+    "tags": [
+      "143",
+      "adorbs",
+      "anniversary",
+      "emotion",
+      "heart",
+      "revolving",
+      "hearts"
+    ]
+  },
+  {
+    "emoji": "💟",
+    "tags": [
+      "143",
+      "emotion",
+      "heart",
+      "decoration",
+      "purple",
+      "white",
+      "hearth"
+    ]
+  },
+  {
+    "emoji": "💛",
+    "tags": ["143", "cardiac", "emotion", "heart", "ily", "love", "yellow"]
+  },
+  {
+    "emoji": "💜",
+    "tags": ["143", "bestest", "emotion", "heart", "ily", "love", "purple"]
+  },
+  {
+    "emoji": "💝",
+    "tags": [
+      "143",
+      "anniversary",
+      "emotion",
+      "heart",
+      "with",
+      "ribbon",
+      "ily",
+      "kisses",
+      "valentine",
+      "xoxo"
+    ]
+  },
+  {
+    "emoji": "🔢",
+    "tags": ["1234", "input", "numbers"]
+  },
+  {
+    "emoji": "❗",
+    "tags": ["!", "exclamation", "mark", "punctuation"]
+  },
+  {
+    "emoji": "❕",
+    "tags": ["!", "exclamation", "mark", "outlined", "punctuation", "white"]
+  },
+  {
+    "emoji": "👍",
+    "tags": [
+      "+1",
+      "awesome",
+      "dope",
+      "fleek",
+      "good",
+      "gotcha",
+      "great",
+      "hand",
+      "legit",
+      "like",
+      "nice",
+      "okay",
+      "rad",
+      "thumb",
+      "thumbs",
+      "up",
+      "tubular",
+      "yeah",
+      "yes"
+    ]
+  },
+  {
+    "emoji": "👎",
+    "tags": [
+      "-1",
+      "bad",
+      "dislike",
+      "down",
+      "hand",
+      "no",
+      "good",
+      "nope",
+      "thumb",
+      "thumbs"
+    ]
+  },
+  {
+    "emoji": "😒",
+    "tags": [
+      "...",
+      "bored",
+      "coolstorybro",
+      "face",
+      "fine",
+      "jealous",
+      "jel",
+      "jelly",
+      "pissed",
+      "smh",
+      "ugh",
+      "uhh",
+      "unamused",
+      "unhappy",
+      "weird",
+      "whatever",
+      "wtf"
+    ]
+  },
+  {
+    "emoji": "👁",
+    "tags": ["1", "eye", "body", "one"]
+  },
+  {
+    "emoji": "🚓",
+    "tags": ["5-0", "car", "cops", "patrol", "police"]
+  },
+  {
+    "emoji": "❔",
+    "tags": ["?", "outlined", "punctuation", "question", "mark", "white"]
+  },
+  {
+    "emoji": "❓",
+    "tags": ["?", "mark", "punctuation", "question"]
+  },
+  {
+    "emoji": "🆎",
+    "tags": ["ab", "button", "blood", "type"]
+  },
+  {
+    "emoji": "🔠",
+    "tags": ["abcd", "input", "latin", "uppercase", "letters"]
+  },
+  {
+    "emoji": "🏧",
+    "tags": ["atm", "sign", "automated", "bank", "cash", "money", "teller"]
+  },
+  {
+    "emoji": "🇦🇫",
+    "tags": ["afghanistan", "flag"]
+  },
+  {
+    "emoji": "🌍",
+    "tags": [
+      "africa",
+      "europe",
+      "earth",
+      "globe",
+      "showing",
+      "europe-africa",
+      "world"
+    ]
+  },
+  {
+    "emoji": "🇦🇱",
+    "tags": ["albania", "flag"]
+  },
+  {
+    "emoji": "🇩🇿",
+    "tags": ["algeria", "flag"]
+  },
+  {
+    "emoji": "🇦🇸",
+    "tags": ["american", "samoa", "flag"]
+  },
+  {
+    "emoji": "🌎",
+    "tags": ["americas", "earth", "globe", "showing", "world"]
+  },
+  {
+    "emoji": "🇦🇩",
+    "tags": ["andorra", "flag"]
+  },
+  {
+    "emoji": "🇦🇴",
+    "tags": ["angola", "flag"]
+  },
+  {
+    "emoji": "🇦🇮",
+    "tags": ["anguilla", "flag"]
+  },
+  {
+    "emoji": "🇦🇶",
+    "tags": ["antarctica", "flag"]
+  },
+  {
+    "emoji": "🇦🇬",
+    "tags": ["antigua", "barbuda", "flag"]
+  },
+  {
+    "emoji": "🏺",
+    "tags": [
+      "aquarius",
+      "amphora",
+      "cooking",
+      "jug",
+      "tool",
+      "weapon",
+      "zodiac"
+    ]
+  },
+  {
+    "emoji": "♒",
+    "tags": ["aquarius", "bearer", "horoscope", "water", "zodiac"]
+  },
+  {
+    "emoji": "🇦🇷",
+    "tags": ["argentina", "flag"]
+  },
+  {
+    "emoji": "🐏",
+    "tags": [
+      "aries",
+      "animal",
+      "animals",
+      "horns",
+      "ram",
+      "sheep",
+      "zodiac",
+      "zoo"
+    ]
+  },
+  {
+    "emoji": "♈",
+    "tags": ["aries", "horoscope", "ram", "zodiac"]
+  },
+  {
+    "emoji": "🇦🇲",
+    "tags": ["armenia", "flag"]
+  },
+  {
+    "emoji": "🇦🇼",
+    "tags": ["aruba", "flag"]
+  },
+  {
+    "emoji": "🌏",
+    "tags": [
+      "asia",
+      "australia",
+      "earth",
+      "globe",
+      "showing",
+      "asia-australia",
+      "world"
+    ]
+  },
+  {
+    "emoji": "🇦🇺",
+    "tags": ["australia", "flag"]
+  },
+  {
+    "emoji": "🦘",
+    "tags": ["australia", "animal", "joey", "jump", "kangaroo", "marsupial"]
+  },
+  {
+    "emoji": "🇦🇹",
+    "tags": ["austria", "flag"]
+  },
+  {
+    "emoji": "🇦🇿",
+    "tags": ["azerbaijan", "flag"]
+  },
+  {
+    "emoji": "🅱",
+    "tags": ["b", "button", "blood", "type"]
+  },
+  {
+    "emoji": "🔙",
+    "tags": ["back", "arrow"]
+  },
+  {
+    "emoji": "🇧🇸",
+    "tags": ["bahamas", "flag"]
+  },
+  {
+    "emoji": "🇧🇭",
+    "tags": ["bahrain", "flag"]
+  },
+  {
+    "emoji": "🇧🇩",
+    "tags": ["bangladesh", "flag"]
+  },
+  {
+    "emoji": "🇧🇧",
+    "tags": ["barbados", "flag"]
+  },
+  {
+    "emoji": "🇧🇾",
+    "tags": ["belarus", "flag"]
+  },
+  {
+    "emoji": "🇧🇪",
+    "tags": ["belgium", "flag"]
+  },
+  {
+    "emoji": "🇧🇿",
+    "tags": ["belize", "flag"]
+  },
+  {
+    "emoji": "🇧🇯",
+    "tags": ["benin", "flag"]
+  },
+  {
+    "emoji": "🇧🇲",
+    "tags": ["bermuda", "flag"]
+  },
+  {
+    "emoji": "🇧🇹",
+    "tags": ["bhutan", "flag"]
+  },
+  {
+    "emoji": "🇧🇴",
+    "tags": ["bolivia", "flag"]
+  },
+  {
+    "emoji": "🇧🇦",
+    "tags": ["bosnia", "herzegovina", "flag"]
+  },
+  {
+    "emoji": "🇧🇼",
+    "tags": ["botswana", "flag"]
+  },
+  {
+    "emoji": "🇧🇷",
+    "tags": ["brazil", "flag"]
+  },
+  {
+    "emoji": "🇮🇴",
+    "tags": ["british", "indian", "ocean", "territory", "flag"]
+  },
+  {
+    "emoji": "🇻🇬",
+    "tags": ["british", "virgin", "islands", "flag"]
+  },
+  {
+    "emoji": "🇧🇳",
+    "tags": ["brunei", "flag"]
+  },
+  {
+    "emoji": "☸",
+    "tags": ["buddhist", "dharma", "religion", "wheel"]
+  },
+  {
+    "emoji": "🇧🇬",
+    "tags": ["bulgaria", "flag"]
+  },
+  {
+    "emoji": "🇧🇫",
+    "tags": ["burkina", "faso", "flag"]
+  },
+  {
+    "emoji": "🇧🇮",
+    "tags": ["burundi", "flag"]
+  },
+  {
+    "emoji": "🆑",
+    "tags": ["cl", "button"]
+  },
+  {
+    "emoji": "🆒",
+    "tags": ["cool", "button"]
+  },
+  {
+    "emoji": "🇰🇭",
+    "tags": ["cambodia", "flag"]
+  },
+  {
+    "emoji": "🇨🇲",
+    "tags": ["cameroon", "flag"]
+  },
+  {
+    "emoji": "🇨🇦",
+    "tags": ["canada", "flag"]
+  },
+  {
+    "emoji": "🇮🇨",
+    "tags": ["canary", "islands", "flag"]
+  },
+  {
+    "emoji": "♋",
+    "tags": ["cancer", "crab", "horoscope", "zodiac"]
+  },
+  {
+    "emoji": "🦀",
+    "tags": ["cancer", "crab", "zodiac"]
+  },
+  {
+    "emoji": "🇨🇻",
+    "tags": ["cape", "verde", "flag"]
+  },
+  {
+    "emoji": "🐐",
+    "tags": ["capricorn", "animal", "animals", "farm", "goat", "milk", "zodiac"]
+  },
+  {
+    "emoji": "♑",
+    "tags": ["capricorn", "goat", "horoscope", "zodiac"]
+  },
+  {
+    "emoji": "🇧🇶",
+    "tags": ["caribbean", "netherlands", "flag"]
+  },
+  {
+    "emoji": "🇰🇾",
+    "tags": ["cayman", "islands", "flag"]
+  },
+  {
+    "emoji": "🇨🇫",
+    "tags": ["central", "african", "republic", "flag"]
+  },
+  {
+    "emoji": "🇹🇩",
+    "tags": ["chad", "flag"]
+  },
+  {
+    "emoji": "🇨🇱",
+    "tags": ["chile", "flag"]
+  },
+  {
+    "emoji": "🇨🇳",
+    "tags": ["china", "flag"]
+  },
+  {
+    "emoji": "✝",
+    "tags": ["christian", "christ", "cross", "latin", "religion"]
+  },
+  {
+    "emoji": "⛪",
+    "tags": ["christian", "bless", "chapel", "church", "cross", "religion"]
+  },
+  {
+    "emoji": "☦",
+    "tags": ["christian", "cross", "orthodox", "religion"]
+  },
+  {
+    "emoji": "🤶",
+    "tags": ["christmas", "mrs.", "celebration", "claus", "mother", "santa"]
+  },
+  {
+    "emoji": "🎅",
+    "tags": [
+      "christmas",
+      "santa",
+      "claus",
+      "celebration",
+      "fairy",
+      "tale",
+      "fantasy",
+      "father"
+    ]
+  },
+  {
+    "emoji": "🎄",
+    "tags": ["christmas", "tree", "celebration"]
+  },
+  {
+    "emoji": "🇨🇽",
+    "tags": ["christmas", "island", "flag"]
+  },
+  {
+    "emoji": "🇨🇨",
+    "tags": ["cocos", "keeling", "islands", "flag"]
+  },
+  {
+    "emoji": "🇨🇴",
+    "tags": ["colombia", "flag"]
+  },
+  {
+    "emoji": "🇰🇲",
+    "tags": ["comoros", "flag"]
+  },
+  {
+    "emoji": "🇨🇬",
+    "tags": ["congo", "brazzaville", "republic", "the", "flag"]
+  },
+  {
+    "emoji": "🇨🇩",
+    "tags": ["congo", "kinshasa", "democratic", "republic", "the", "flag"]
+  },
+  {
+    "emoji": "🇨🇰",
+    "tags": ["cook", "islands", "flag"]
+  },
+  {
+    "emoji": "🇨🇷",
+    "tags": ["costa", "rica", "flag"]
+  },
+  {
+    "emoji": "🇭🇷",
+    "tags": ["croatia", "flag"]
+  },
+  {
+    "emoji": "🇨🇺",
+    "tags": ["cuba", "flag"]
+  },
+  {
+    "emoji": "🇨🇼",
+    "tags": ["curaçao", "flag"]
+  },
+  {
+    "emoji": "🇨🇾",
+    "tags": ["cyprus", "flag"]
+  },
+  {
+    "emoji": "🇨🇿",
+    "tags": ["czech", "republic", "flag"]
+  },
+  {
+    "emoji": "🇨🇮",
+    "tags": ["côte", "d’ivoire", "flag"]
+  },
+  {
+    "emoji": "🇩🇰",
+    "tags": ["denmark", "flag"]
+  },
+  {
+    "emoji": "🇩🇯",
+    "tags": ["djibouti", "flag"]
+  },
+  {
+    "emoji": "🇩🇲",
+    "tags": ["dominica", "flag"]
+  },
+  {
+    "emoji": "🇩🇴",
+    "tags": ["dominican", "republic", "flag"]
+  },
+  {
+    "emoji": "🧛‍♂",
+    "tags": ["dracula", "blood", "fangs", "man", "vampire", "teeth", "undead"]
+  },
+  {
+    "emoji": "🔚",
+    "tags": ["end", "arrow"]
+  },
+  {
+    "emoji": "🇪🇨",
+    "tags": ["ecuador", "flag"]
+  },
+  {
+    "emoji": "🇪🇬",
+    "tags": ["egypt", "flag"]
+  },
+  {
+    "emoji": "🇸🇻",
+    "tags": ["el", "salvador", "flag"]
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "tags": ["england", "flag"]
+  },
+  {
+    "emoji": "🇬🇶",
+    "tags": ["equatorial", "guinea", "flag"]
+  },
+  {
+    "emoji": "🇪🇷",
+    "tags": ["eritrea", "flag"]
+  },
+  {
+    "emoji": "🇪🇪",
+    "tags": ["estonia", "flag"]
+  },
+  {
+    "emoji": "🇪🇹",
+    "tags": ["ethiopia", "flag"]
+  },
+  {
+    "emoji": "🏤",
+    "tags": ["european", "building", "post", "office"]
+  },
+  {
+    "emoji": "🏰",
+    "tags": ["european", "building", "castle"]
+  },
+  {
+    "emoji": "🇪🇺",
+    "tags": ["european", "union", "flag"]
+  },
+  {
+    "emoji": "🆓",
+    "tags": ["free", "button"]
+  },
+  {
+    "emoji": "🇫🇰",
+    "tags": ["falkland", "islands", "flag"]
+  },
+  {
+    "emoji": "🇫🇴",
+    "tags": ["faroe", "islands", "flag"]
+  },
+  {
+    "emoji": "🇫🇯",
+    "tags": ["fiji", "flag"]
+  },
+  {
+    "emoji": "🇫🇮",
+    "tags": ["finland", "flag"]
+  },
+  {
+    "emoji": "🇫🇷",
+    "tags": ["france", "flag"]
+  },
+  {
+    "emoji": "🇬🇫",
+    "tags": ["french", "guiana", "flag"]
+  },
+  {
+    "emoji": "🇵🇫",
+    "tags": ["french", "polynesia", "flag"]
+  },
+  {
+    "emoji": "🇹🇫",
+    "tags": ["french", "southern", "territories", "flag"]
+  },
+  {
+    "emoji": "🇬🇦",
+    "tags": ["gabon", "flag"]
+  },
+  {
+    "emoji": "🇬🇲",
+    "tags": ["gambia", "flag"]
+  },
+  {
+    "emoji": "♊",
+    "tags": ["gemini", "horoscope", "twins", "zodiac"]
+  },
+  {
+    "emoji": "🇬🇪",
+    "tags": ["georgia", "flag"]
+  },
+  {
+    "emoji": "🇩🇪",
+    "tags": ["germany", "flag"]
+  },
+  {
+    "emoji": "🇬🇭",
+    "tags": ["ghana", "flag"]
+  },
+  {
+    "emoji": "🇬🇮",
+    "tags": ["gibraltar", "flag"]
+  },
+  {
+    "emoji": "🇬🇷",
+    "tags": ["greece", "flag"]
+  },
+  {
+    "emoji": "🇬🇱",
+    "tags": ["greenland", "flag"]
+  },
+  {
+    "emoji": "🇬🇩",
+    "tags": ["grenada", "flag"]
+  },
+  {
+    "emoji": "🇬🇵",
+    "tags": ["guadeloupe", "flag"]
+  },
+  {
+    "emoji": "🇬🇺",
+    "tags": ["guam", "flag"]
+  },
+  {
+    "emoji": "🇬🇹",
+    "tags": ["guatemala", "flag"]
+  },
+  {
+    "emoji": "🇬🇬",
+    "tags": ["guernsey", "flag"]
+  },
+  {
+    "emoji": "🇬🇳",
+    "tags": ["guinea", "flag"]
+  },
+  {
+    "emoji": "🇬🇼",
+    "tags": ["guinea-bissau", "flag"]
+  },
+  {
+    "emoji": "🇬🇾",
+    "tags": ["guyana", "flag"]
+  },
+  {
+    "emoji": "🇭🇹",
+    "tags": ["haiti", "flag"]
+  },
+  {
+    "emoji": "🕉",
+    "tags": ["hindu", "om", "religion"]
+  },
+  {
+    "emoji": "🇭🇳",
+    "tags": ["honduras", "flag"]
+  },
+  {
+    "emoji": "🇭🇰",
+    "tags": ["hong", "kong", "sar", "china", "flag"]
+  },
+  {
+    "emoji": "🇭🇺",
+    "tags": ["hungary", "flag"]
+  },
+  {
+    "emoji": "🆔",
+    "tags": ["id", "button", "identity"]
+  },
+  {
+    "emoji": "🤟",
+    "tags": [
+      "ily",
+      "hand",
+      "i",
+      "love",
+      "you",
+      "love-you",
+      "gesture",
+      "three",
+      "fingers"
+    ]
+  },
+  {
+    "emoji": "🇮🇸",
+    "tags": ["iceland", "flag"]
+  },
+  {
+    "emoji": "🇮🇳",
+    "tags": ["india", "flag"]
+  },
+  {
+    "emoji": "🇮🇩",
+    "tags": ["indonesia", "flag"]
+  },
+  {
+    "emoji": "🇮🇷",
+    "tags": ["iran", "flag"]
+  },
+  {
+    "emoji": "🇮🇶",
+    "tags": ["iraq", "flag"]
+  },
+  {
+    "emoji": "🇮🇪",
+    "tags": ["ireland", "flag"]
+  },
+  {
+    "emoji": "🇮🇲",
+    "tags": ["isle", "man", "flag"]
+  },
+  {
+    "emoji": "🇮🇱",
+    "tags": ["israel", "flag"]
+  },
+  {
+    "emoji": "🇮🇹",
+    "tags": ["italy", "flag"]
+  },
+  {
+    "emoji": "🇯🇲",
+    "tags": ["jamaica", "flag"]
+  },
+  {
+    "emoji": "🗾",
+    "tags": ["japan", "map"]
+  },
+  {
+    "emoji": "🇯🇵",
+    "tags": ["japan", "flag"]
+  },
+  {
+    "emoji": "🎍",
+    "tags": ["japanese", "bamboo", "pine", "decoration", "plant"]
+  },
+  {
+    "emoji": "🈷",
+    "tags": ["japanese", "monthly", "amount", "button", "ideograph", "月"]
+  },
+  {
+    "emoji": "🎌",
+    "tags": ["japanese", "cross", "crossed", "flags"]
+  },
+  {
+    "emoji": "👹",
+    "tags": [
+      "japanese",
+      "creature",
+      "devil",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "mask",
+      "monster",
+      "ogre",
+      "scary"
+    ]
+  },
+  {
+    "emoji": "🍡",
+    "tags": ["japanese", "dango", "dessert", "skewer", "stick", "sweet"]
+  },
+  {
+    "emoji": "🎋",
+    "tags": ["japanese", "banner", "celebration", "tanabata", "tree"]
+  },
+  {
+    "emoji": "🈶",
+    "tags": ["japanese", "not", "free", "charge", "button", "ideograph", "有"]
+  },
+  {
+    "emoji": "👺",
+    "tags": [
+      "japanese",
+      "angry",
+      "creature",
+      "face",
+      "fairytale",
+      "fantasy",
+      "goblin",
+      "mask",
+      "mean",
+      "monster"
+    ]
+  },
+  {
+    "emoji": "🈺",
+    "tags": ["japanese", "open", "for", "business", "button", "ideograph", "営"]
+  },
+  {
+    "emoji": "🈸",
+    "tags": ["japanese", "application", "button", "ideograph", "申"]
+  },
+  {
+    "emoji": "🎎",
+    "tags": ["japanese", "dolls", "doll", "festival"]
+  },
+  {
+    "emoji": "🏣",
+    "tags": ["japanese", "post", "office", "building"]
+  },
+  {
+    "emoji": "🈹",
+    "tags": ["japanese", "discount", "button", "ideograph", "割"]
+  },
+  {
+    "emoji": "🉐",
+    "tags": ["japanese", "bargain", "button", "ideograph", "得"]
+  },
+  {
+    "emoji": "🉑",
+    "tags": ["japanese", "acceptable", "button", "ideograph", "可"]
+  },
+  {
+    "emoji": "㊗",
+    "tags": ["japanese", "congratulations", "button", "ideograph", "祝"]
+  },
+  {
+    "emoji": "🈂",
+    "tags": ["japanese", "service", "charge", "button", "katakana", "サ"]
+  },
+  {
+    "emoji": "🈁",
+    "tags": ["japanese", "here", "button", "katakana", "ココ"]
+  },
+  {
+    "emoji": "🈯",
+    "tags": ["japanese", "reserved", "button", "ideograph", "指"]
+  },
+  {
+    "emoji": "🈚",
+    "tags": ["japanese", "free", "charge", "button", "ideograph", "無"]
+  },
+  {
+    "emoji": "🏯",
+    "tags": ["japanese", "castle", "building"]
+  },
+  {
+    "emoji": "🍙",
+    "tags": ["japanese", "ball", "food", "rice"]
+  },
+  {
+    "emoji": "🏮",
+    "tags": [
+      "japanese",
+      "bar",
+      "lantern",
+      "light",
+      "red",
+      "paper",
+      "restaurant"
+    ]
+  },
+  {
+    "emoji": "㊙",
+    "tags": ["japanese", "secret", "button", "ideograph", "秘"]
+  },
+  {
+    "emoji": "🈲",
+    "tags": ["japanese", "prohibited", "button", "ideograph", "禁"]
+  },
+  {
+    "emoji": "🈴",
+    "tags": ["japanese", "passing", "grade", "button", "ideograph", "合"]
+  },
+  {
+    "emoji": "🔰",
+    "tags": [
+      "japanese",
+      "symbol",
+      "for",
+      "beginner",
+      "chevron",
+      "green",
+      "leaf",
+      "tool",
+      "yellow"
+    ]
+  },
+  {
+    "emoji": "🈵",
+    "tags": ["japanese", "no", "vacancy", "button", "ideograph", "満"]
+  },
+  {
+    "emoji": "🎴",
+    "tags": ["japanese", "card", "flower", "playing", "cards", "game"]
+  },
+  {
+    "emoji": "🈳",
+    "tags": ["japanese", "vacancy", "button", "ideograph", "空"]
+  },
+  {
+    "emoji": "🇯🇪",
+    "tags": ["jersey", "flag"]
+  },
+  {
+    "emoji": "🕍",
+    "tags": ["jew", "jewish", "judaism", "religion", "synagogue", "temple"]
+  },
+  {
+    "emoji": "✡",
+    "tags": ["jewish", "david", "judaism", "religion", "star"]
+  },
+  {
+    "emoji": "🏴‍☠",
+    "tags": ["jolly", "roger", "pirate", "flag", "plunder", "treasure"]
+  },
+  {
+    "emoji": "🇯🇴",
+    "tags": ["jordan", "flag"]
+  },
+  {
+    "emoji": "🌊",
+    "tags": [
+      "kanagawa",
+      "nature",
+      "ocean",
+      "surf",
+      "surfer",
+      "surfing",
+      "water",
+      "wave"
+    ]
+  },
+  {
+    "emoji": "🇰🇿",
+    "tags": ["kazakhstan", "flag"]
+  },
+  {
+    "emoji": "🇰🇪",
+    "tags": ["kenya", "flag"]
+  },
+  {
+    "emoji": "🇰🇮",
+    "tags": ["kiribati", "flag"]
+  },
+  {
+    "emoji": "🇽🇰",
+    "tags": ["kosovo", "flag"]
+  },
+  {
+    "emoji": "🇰🇼",
+    "tags": ["kuwait", "flag"]
+  },
+  {
+    "emoji": "🇰🇬",
+    "tags": ["kyrgyzstan", "flag"]
+  },
+  {
+    "emoji": "🧝‍♀",
+    "tags": ["lotr", "style", "elf", "magical", "woman"]
+  },
+  {
+    "emoji": "🇱🇦",
+    "tags": ["laos", "flag"]
+  },
+  {
+    "emoji": "🇱🇻",
+    "tags": ["latvia", "flag"]
+  },
+  {
+    "emoji": "🇱🇧",
+    "tags": ["lebanon", "flag"]
+  },
+  {
+    "emoji": "🦁",
+    "tags": [
+      "leo",
+      "alpha",
+      "animal",
+      "face",
+      "lion",
+      "order",
+      "mane",
+      "rawr",
+      "roar",
+      "safari",
+      "strong",
+      "zodiac"
+    ]
+  },
+  {
+    "emoji": "♌",
+    "tags": ["leo", "horoscope", "lion", "zodiac"]
+  },
+  {
+    "emoji": "🇱🇸",
+    "tags": ["lesotho", "flag"]
+  },
+  {
+    "emoji": "🇱🇷",
+    "tags": ["liberia", "flag"]
+  },
+  {
+    "emoji": "⚖",
+    "tags": [
+      "libra",
+      "balance",
+      "scale",
+      "justice",
+      "scales",
+      "tool",
+      "weight",
+      "zodiac"
+    ]
+  },
+  {
+    "emoji": "♎",
+    "tags": ["libra", "balance", "horoscope", "justice", "scales", "zodiac"]
+  },
+  {
+    "emoji": "🇱🇾",
+    "tags": ["libya", "flag"]
+  },
+  {
+    "emoji": "🇱🇮",
+    "tags": ["liechtenstein", "flag"]
+  },
+  {
+    "emoji": "🇱🇹",
+    "tags": ["lithuania", "flag"]
+  },
+  {
+    "emoji": "🇱🇺",
+    "tags": ["luxembourg", "flag"]
+  },
+  {
+    "emoji": "🇲🇴",
+    "tags": ["macau", "sar", "china", "flag"]
+  },
+  {
+    "emoji": "🇲🇰",
+    "tags": ["macedonia", "flag"]
+  },
+  {
+    "emoji": "🇲🇬",
+    "tags": ["madagascar", "flag"]
+  },
+  {
+    "emoji": "🇲🇼",
+    "tags": ["malawi", "flag"]
+  },
+  {
+    "emoji": "🇲🇾",
+    "tags": ["malaysia", "flag"]
+  },
+  {
+    "emoji": "🇲🇻",
+    "tags": ["maldives", "flag"]
+  },
+  {
+    "emoji": "🇲🇱",
+    "tags": ["mali", "flag"]
+  },
+  {
+    "emoji": "🇲🇹",
+    "tags": ["malta", "flag"]
+  },
+  {
+    "emoji": "🇲🇭",
+    "tags": ["marshall", "islands", "flag"]
+  },
+  {
+    "emoji": "🇲🇶",
+    "tags": ["martinique", "flag"]
+  },
+  {
+    "emoji": "🇲🇷",
+    "tags": ["mauritania", "flag"]
+  },
+  {
+    "emoji": "🇲🇺",
+    "tags": ["mauritius", "flag"]
+  },
+  {
+    "emoji": "🇾🇹",
+    "tags": ["mayotte", "flag"]
+  },
+  {
+    "emoji": "🇲🇽",
+    "tags": ["mexico", "flag"]
+  },
+  {
+    "emoji": "🇫🇲",
+    "tags": ["micronesia", "flag"]
+  },
+  {
+    "emoji": "🇲🇩",
+    "tags": ["moldova", "flag"]
+  },
+  {
+    "emoji": "🇲🇨",
+    "tags": ["monaco", "flag"]
+  },
+  {
+    "emoji": "🇲🇳",
+    "tags": ["mongolia", "flag"]
+  },
+  {
+    "emoji": "🇲🇪",
+    "tags": ["montenegro", "flag"]
+  },
+  {
+    "emoji": "🇲🇸",
+    "tags": ["montserrat", "flag"]
+  },
+  {
+    "emoji": "🇲🇦",
+    "tags": ["morocco", "flag"]
+  },
+  {
+    "emoji": "🇲🇿",
+    "tags": ["mozambique", "flag"]
+  },
+  {
+    "emoji": "🕋",
+    "tags": ["muslim", "hajj", "islam", "kaaba", "religion", "umrah"]
+  },
+  {
+    "emoji": "🕌",
+    "tags": ["muslim", "islam", "masjid", "mosque", "religion"]
+  },
+  {
+    "emoji": "☪",
+    "tags": [
+      "muslim",
+      "islam",
+      "ramadan",
+      "religion",
+      "star",
+      "and",
+      "crescent"
+    ]
+  },
+  {
+    "emoji": "🇲🇲",
+    "tags": ["myanmar", "burma", "flag"]
+  },
+  {
+    "emoji": "🆕",
+    "tags": ["new", "button"]
+  },
+  {
+    "emoji": "🆖",
+    "tags": ["ng", "button"]
+  },
+  {
+    "emoji": "🇳🇦",
+    "tags": ["namibia", "flag"]
+  },
+  {
+    "emoji": "🇳🇷",
+    "tags": ["nauru", "flag"]
+  },
+  {
+    "emoji": "🇳🇵",
+    "tags": ["nepal", "flag"]
+  },
+  {
+    "emoji": "🇳🇱",
+    "tags": ["netherlands", "flag"]
+  },
+  {
+    "emoji": "🇳🇨",
+    "tags": ["new", "caledonia", "flag"]
+  },
+  {
+    "emoji": "🇳🇿",
+    "tags": ["new", "zealand", "flag"]
+  },
+  {
+    "emoji": "🇳🇮",
+    "tags": ["nicaragua", "flag"]
+  },
+  {
+    "emoji": "🇳🇪",
+    "tags": ["niger", "flag"]
+  },
+  {
+    "emoji": "🇳🇬",
+    "tags": ["nigeria", "flag"]
+  },
+  {
+    "emoji": "🇳🇺",
+    "tags": ["niue", "flag"]
+  },
+  {
+    "emoji": "🇳🇫",
+    "tags": ["norfolk", "island", "flag"]
+  },
+  {
+    "emoji": "🇰🇵",
+    "tags": ["north", "korea", "flag"]
+  },
+  {
+    "emoji": "🇲🇵",
+    "tags": ["northern", "mariana", "islands", "flag"]
+  },
+  {
+    "emoji": "🇳🇴",
+    "tags": ["norway", "flag"]
+  },
+  {
+    "emoji": "🅾",
+    "tags": ["o", "button", "blood", "type"]
+  },
+  {
+    "emoji": "👌",
+    "tags": [
+      "ok",
+      "hand",
+      "awesome",
+      "bet",
+      "dope",
+      "fleek",
+      "got",
+      "it",
+      "gotcha",
+      "legit",
+      "okay",
+      "pinch",
+      "rad",
+      "sweet",
+      "three"
+    ]
+  },
+  {
+    "emoji": "🆗",
+    "tags": ["ok", "button", "okay"]
+  },
+  {
+    "emoji": "🙆",
+    "tags": [
+      "ok",
+      "exercise",
+      "gesture",
+      "hand",
+      "omg",
+      "person",
+      "gesturing",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🙆‍♂",
+    "tags": ["ok", "exercise", "gesture", "hand", "man", "gesturing", "omg"]
+  },
+  {
+    "emoji": "🔛",
+    "tags": ["on!", "arrow", "mark", "on"]
+  },
+  {
+    "emoji": "🧚‍♂",
+    "tags": ["oberon", "puck", "fairy", "man", "wings"]
+  },
+  {
+    "emoji": "🇴🇲",
+    "tags": ["oman", "flag"]
+  },
+  {
+    "emoji": "🐍",
+    "tags": ["ophiuchus", "animal", "bearer", "serpent", "snake", "zodiac"]
+  },
+  {
+    "emoji": "⛎",
+    "tags": ["ophiuchus", "bearer", "serpent", "snake", "zodiac"]
+  },
+  {
+    "emoji": "🦗",
+    "tags": ["orthoptera", "bug", "cricket", "grasshopper", "insect"]
+  },
+  {
+    "emoji": "🅿",
+    "tags": ["p", "button", "parking"]
+  },
+  {
+    "emoji": "🇵🇰",
+    "tags": ["pakistan", "flag"]
+  },
+  {
+    "emoji": "🇵🇼",
+    "tags": ["palau", "flag"]
+  },
+  {
+    "emoji": "🇵🇸",
+    "tags": ["palestine", "palestinian", "territories", "flag"]
+  },
+  {
+    "emoji": "🇵🇦",
+    "tags": ["panama", "flag"]
+  },
+  {
+    "emoji": "🇵🇬",
+    "tags": ["papua", "new", "guinea", "flag"]
+  },
+  {
+    "emoji": "🇵🇾",
+    "tags": ["paraguay", "flag"]
+  },
+  {
+    "emoji": "🇵🇪",
+    "tags": ["peru", "flag"]
+  },
+  {
+    "emoji": "🇵🇭",
+    "tags": ["philippines", "flag"]
+  },
+  {
+    "emoji": "🐟",
+    "tags": [
+      "pisces",
+      "animal",
+      "dinner",
+      "fish",
+      "fishes",
+      "fishing",
+      "zodiac"
+    ]
+  },
+  {
+    "emoji": "♓",
+    "tags": ["pisces", "fish", "horoscope", "zodiac"]
+  },
+  {
+    "emoji": "🇵🇳",
+    "tags": ["pitcairn", "islands", "flag"]
+  },
+  {
+    "emoji": "🇵🇱",
+    "tags": ["poland", "flag"]
+  },
+  {
+    "emoji": "🇵🇹",
+    "tags": ["portugal", "flag"]
+  },
+  {
+    "emoji": "🇵🇷",
+    "tags": ["puerto", "rico", "flag"]
+  },
+  {
+    "emoji": "🇶🇦",
+    "tags": ["qatar", "flag"]
+  },
+  {
+    "emoji": "🇷🇴",
+    "tags": ["romania", "flag"]
+  },
+  {
+    "emoji": "🇷🇺",
+    "tags": ["russia", "flag"]
+  },
+  {
+    "emoji": "🇷🇼",
+    "tags": ["rwanda", "flag"]
+  },
+  {
+    "emoji": "🇷🇪",
+    "tags": ["réunion", "flag"]
+  },
+  {
+    "emoji": "🔜",
+    "tags": ["soon", "arrow", "brb", "omw"]
+  },
+  {
+    "emoji": "🆘",
+    "tags": ["sos", "button", "help"]
+  },
+  {
+    "emoji": "🏹",
+    "tags": [
+      "sagittarius",
+      "archer",
+      "archery",
+      "arrow",
+      "bow",
+      "and",
+      "tool",
+      "weapon",
+      "zodiac"
+    ]
+  },
+  {
+    "emoji": "♐",
+    "tags": ["sagittarius", "archer", "horoscope", "zodiac"]
+  },
+  {
+    "emoji": "🇼🇸",
+    "tags": ["samoa", "flag"]
+  },
+  {
+    "emoji": "🇸🇲",
+    "tags": ["san", "marino", "flag"]
+  },
+  {
+    "emoji": "🇸🇦",
+    "tags": ["saudi", "arabia", "flag"]
+  },
+  {
+    "emoji": "♏",
+    "tags": ["scorpius", "horoscope", "scorpio", "scorpion", "zodiac"]
+  },
+  {
+    "emoji": "🦂",
+    "tags": ["scorpius", "scorpio", "scorpion", "zodiac"]
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "tags": ["scotland", "flag"]
+  },
+  {
+    "emoji": "🇸🇳",
+    "tags": ["senegal", "flag"]
+  },
+  {
+    "emoji": "🇷🇸",
+    "tags": ["serbia", "flag"]
+  },
+  {
+    "emoji": "🇸🇨",
+    "tags": ["seychelles", "flag"]
+  },
+  {
+    "emoji": "🇸🇱",
+    "tags": ["sierra", "leone", "flag"]
+  },
+  {
+    "emoji": "🇸🇬",
+    "tags": ["singapore", "flag"]
+  },
+  {
+    "emoji": "🇸🇽",
+    "tags": ["sint", "maarten", "flag"]
+  },
+  {
+    "emoji": "🇸🇰",
+    "tags": ["slovakia", "flag"]
+  },
+  {
+    "emoji": "🇸🇮",
+    "tags": ["slovenia", "flag"]
+  },
+  {
+    "emoji": "🇸🇧",
+    "tags": ["solomon", "islands", "flag"]
+  },
+  {
+    "emoji": "🇸🇴",
+    "tags": ["somalia", "flag"]
+  },
+  {
+    "emoji": "🇿🇦",
+    "tags": ["south", "africa", "flag"]
+  },
+  {
+    "emoji": "🇬🇸",
+    "tags": ["south", "georgia", "sandwich", "islands", "flag"]
+  },
+  {
+    "emoji": "🇰🇷",
+    "tags": ["south", "korea", "flag"]
+  },
+  {
+    "emoji": "🇸🇸",
+    "tags": ["south", "sudan", "flag"]
+  },
+  {
+    "emoji": "🇪🇸",
+    "tags": ["spain", "flag"]
+  },
+  {
+    "emoji": "🇱🇰",
+    "tags": ["sri", "lanka", "flag"]
+  },
+  {
+    "emoji": "🇧🇱",
+    "tags": ["st.", "barthélemy", "flag"]
+  },
+  {
+    "emoji": "🇸🇭",
+    "tags": ["st.", "helena", "flag"]
+  },
+  {
+    "emoji": "🇰🇳",
+    "tags": ["st.", "kitts", "nevis", "flag"]
+  },
+  {
+    "emoji": "🇱🇨",
+    "tags": ["st.", "lucia", "flag"]
+  },
+  {
+    "emoji": "🇵🇲",
+    "tags": ["st.", "pierre", "miquelon", "flag"]
+  },
+  {
+    "emoji": "🇻🇨",
+    "tags": ["st.", "vincent", "grenadines", "flag"]
+  },
+  {
+    "emoji": "🗽",
+    "tags": ["statue", "liberty", "new", "york", "ny", "nyc"]
+  },
+  {
+    "emoji": "🇸🇩",
+    "tags": ["sudan", "flag"]
+  },
+  {
+    "emoji": "🇸🇷",
+    "tags": ["suriname", "flag"]
+  },
+  {
+    "emoji": "🇸🇿",
+    "tags": ["swaziland", "flag"]
+  },
+  {
+    "emoji": "🇸🇪",
+    "tags": ["sweden", "flag"]
+  },
+  {
+    "emoji": "🇨🇭",
+    "tags": ["switzerland", "flag"]
+  },
+  {
+    "emoji": "🇸🇾",
+    "tags": ["syria", "flag"]
+  },
+  {
+    "emoji": "🇸🇹",
+    "tags": ["são", "tomé", "príncipe", "flag"]
+  },
+  {
+    "emoji": "🦖",
+    "tags": ["t-rex", "tyrannosaurus", "rex", "dinosaur", "t"]
+  },
+  {
+    "emoji": "🔝",
+    "tags": ["top", "arrow", "homie", "up"]
+  },
+  {
+    "emoji": "🇹🇼",
+    "tags": ["taiwan", "flag"]
+  },
+  {
+    "emoji": "🇹🇯",
+    "tags": ["tajikistan", "flag"]
+  },
+  {
+    "emoji": "🇹🇿",
+    "tags": ["tanzania", "flag"]
+  },
+  {
+    "emoji": "♉",
+    "tags": ["taurus", "bull", "horoscope", "ox", "zodiac"]
+  },
+  {
+    "emoji": "🐂",
+    "tags": ["taurus", "animal", "animals", "bull", "farm", "ox", "zodiac"]
+  },
+  {
+    "emoji": "🇹🇭",
+    "tags": ["thailand", "flag"]
+  },
+  {
+    "emoji": "🇹🇱",
+    "tags": ["timor-leste", "flag"]
+  },
+  {
+    "emoji": "🧚‍♀",
+    "tags": ["titania", "fairy", "wings", "woman"]
+  },
+  {
+    "emoji": "🇹🇬",
+    "tags": ["togo", "flag"]
+  },
+  {
+    "emoji": "🇹🇰",
+    "tags": ["tokelau", "flag"]
+  },
+  {
+    "emoji": "🗼",
+    "tags": ["tokyo", "tower"]
+  },
+  {
+    "emoji": "🇹🇴",
+    "tags": ["tonga", "flag"]
+  },
+  {
+    "emoji": "🇹🇹",
+    "tags": ["trinidad", "tobago", "flag"]
+  },
+  {
+    "emoji": "🧜‍♂",
+    "tags": ["triton", "merman"]
+  },
+  {
+    "emoji": "🇹🇳",
+    "tags": ["tunisia", "flag"]
+  },
+  {
+    "emoji": "🇹🇷",
+    "tags": ["turkey", "flag"]
+  },
+  {
+    "emoji": "🇹🇲",
+    "tags": ["turkmenistan", "flag"]
+  },
+  {
+    "emoji": "🇹🇨",
+    "tags": ["turks", "caicos", "islands", "flag"]
+  },
+  {
+    "emoji": "🇹🇻",
+    "tags": ["tuvalu", "flag"]
+  },
+  {
+    "emoji": "🇻🇮",
+    "tags": ["u.s.", "virgin", "islands", "flag"]
+  },
+  {
+    "emoji": "🛸",
+    "tags": ["ufo", "aliens", "extra", "terrestrial", "flying", "saucer"]
+  },
+  {
+    "emoji": "🆙",
+    "tags": ["up!", "button", "up"]
+  },
+  {
+    "emoji": "🇺🇬",
+    "tags": ["uganda", "flag"]
+  },
+  {
+    "emoji": "🇺🇦",
+    "tags": ["ukraine", "flag"]
+  },
+  {
+    "emoji": "🇦🇪",
+    "tags": ["united", "arab", "emirates", "flag"]
+  },
+  {
+    "emoji": "🇬🇧",
+    "tags": ["united", "kingdom", "flag", "uk"]
+  },
+  {
+    "emoji": "🇺🇸",
+    "tags": ["united", "states", "flag", "usa"]
+  },
+  {
+    "emoji": "🇺🇾",
+    "tags": ["uruguay", "flag"]
+  },
+  {
+    "emoji": "🇺🇿",
+    "tags": ["uzbekistan", "flag"]
+  },
+  {
+    "emoji": "🆚",
+    "tags": ["vs", "button", "versus"]
+  },
+  {
+    "emoji": "🇻🇺",
+    "tags": ["vanuatu", "flag"]
+  },
+  {
+    "emoji": "🇻🇦",
+    "tags": ["vatican", "city", "flag"]
+  },
+  {
+    "emoji": "🇻🇪",
+    "tags": ["venezuela", "flag"]
+  },
+  {
+    "emoji": "🇻🇳",
+    "tags": ["vietnam", "flag"]
+  },
+  {
+    "emoji": "♍",
+    "tags": ["virgo", "horoscope", "zodiac"]
+  },
+  {
+    "emoji": "🚻",
+    "tags": ["wc", "lavatory", "restroom"]
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "tags": ["wales", "flag"]
+  },
+  {
+    "emoji": "🇼🇫",
+    "tags": ["wallis", "futuna", "flag"]
+  },
+  {
+    "emoji": "🇪🇭",
+    "tags": ["western", "sahara", "flag"]
+  },
+  {
+    "emoji": "🇾🇪",
+    "tags": ["yemen", "flag"]
+  },
+  {
+    "emoji": "🇿🇲",
+    "tags": ["zambia", "flag"]
+  },
+  {
+    "emoji": "🇿🇼",
+    "tags": ["zimbabwe", "flag"]
+  },
+  {
+    "emoji": "🅰",
+    "tags": ["a", "blood", "type", "button"]
+  },
+  {
+    "emoji": "🧮",
+    "tags": ["abacus", "calculation", "calculator"]
+  },
+  {
+    "emoji": "🔤",
+    "tags": ["abc", "alphabet", "input", "latin", "letters"]
+  },
+  {
+    "emoji": "🔡",
+    "tags": ["abcd", "input", "latin", "lowercase", "letters"]
+  },
+  {
+    "emoji": "🎩",
+    "tags": [
+      "abraham",
+      "clothes",
+      "clothing",
+      "fancy",
+      "formal",
+      "hat",
+      "hats",
+      "lincoln",
+      "magic",
+      "top",
+      "tophat"
+    ]
+  },
+  {
+    "emoji": "👊",
+    "tags": [
+      "absolutely",
+      "agree",
+      "boom",
+      "bro",
+      "bruh",
+      "bump",
+      "clenched",
+      "correct",
+      "fist",
+      "hand",
+      "knuckle",
+      "oncoming",
+      "pound",
+      "punch",
+      "rock",
+      "ttyl"
+    ]
+  },
+  {
+    "emoji": "🧽",
+    "tags": ["absorbing", "cleaning", "porous", "soak", "sponge"]
+  },
+  {
+    "emoji": "♿",
+    "tags": ["access", "handicap", "wheelchair", "symbol"]
+  },
+  {
+    "emoji": "🧾",
+    "tags": [
+      "accounting",
+      "bookkeeping",
+      "evidence",
+      "invoice",
+      "proof",
+      "receipt"
+    ]
+  },
+  {
+    "emoji": "🎬",
+    "tags": ["action", "clapper", "board", "movie"]
+  },
+  {
+    "emoji": "🎭",
+    "tags": [
+      "actor",
+      "actress",
+      "art",
+      "entertainment",
+      "mask",
+      "performing",
+      "arts",
+      "shakespeare",
+      "theater",
+      "theatre",
+      "thesbian"
+    ]
+  },
+  {
+    "emoji": "👩‍🎤",
+    "tags": [
+      "actor",
+      "entertainer",
+      "rock",
+      "rockstar",
+      "singer",
+      "star",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👨‍🎤",
+    "tags": [
+      "actor",
+      "entertainer",
+      "man",
+      "rock",
+      "rockstar",
+      "singer",
+      "star"
+    ]
+  },
+  {
+    "emoji": "🎫",
+    "tags": ["admission", "stub", "ticket"]
+  },
+  {
+    "emoji": "🎟",
+    "tags": ["admission", "tickets", "ticket"]
+  },
+  {
+    "emoji": "🐶",
+    "tags": ["adorbs", "animal", "dog", "face", "pet", "puppies", "puppy"]
+  },
+  {
+    "emoji": "🥰",
+    "tags": [
+      "adore",
+      "crush",
+      "face",
+      "heart",
+      "i",
+      "love",
+      "you",
+      "ily",
+      "in",
+      "romance",
+      "smile",
+      "smiling",
+      "with",
+      "3"
+    ]
+  },
+  {
+    "emoji": "🧑",
+    "tags": ["adult", "gender-neutral"]
+  },
+  {
+    "emoji": "👨‍🦰",
+    "tags": ["adult", "man", "person", "red", "hair"]
+  },
+  {
+    "emoji": "👨‍🦱",
+    "tags": ["adult", "curly", "hair", "man", "person"]
+  },
+  {
+    "emoji": "👨‍🦲",
+    "tags": ["adult", "bald", "man", "shaved", "head"]
+  },
+  {
+    "emoji": "👨‍🦳",
+    "tags": ["adult", "man", "person", "white", "hair"]
+  },
+  {
+    "emoji": "👩‍🦱",
+    "tags": ["adult", "curly", "hair", "person", "woman"]
+  },
+  {
+    "emoji": "👩‍🦰",
+    "tags": ["adult", "person", "red", "hair", "woman"]
+  },
+  {
+    "emoji": "👩‍🦳",
+    "tags": ["adult", "person", "white", "hair", "woman"]
+  },
+  {
+    "emoji": "👩‍🦲",
+    "tags": ["adult", "bald", "shaved", "head", "woman"]
+  },
+  {
+    "emoji": "🚡",
+    "tags": ["aerial", "tramway", "cable", "car", "gondola", "ropeway"]
+  },
+  {
+    "emoji": "🛩",
+    "tags": ["aeroplane", "airplane", "plane", "small"]
+  },
+  {
+    "emoji": "🛫",
+    "tags": [
+      "aeroplane",
+      "airplane",
+      "departure",
+      "check-in",
+      "departures",
+      "plane"
+    ]
+  },
+  {
+    "emoji": "🛬",
+    "tags": [
+      "aeroplane",
+      "airplane",
+      "arrival",
+      "arrivals",
+      "arriving",
+      "landing",
+      "plane"
+    ]
+  },
+  {
+    "emoji": "⚕",
+    "tags": ["aesculapius", "medicine", "staff"]
+  },
+  {
+    "emoji": "😨",
+    "tags": [
+      "afraid",
+      "anxious",
+      "blame",
+      "face",
+      "fear",
+      "fearful",
+      "scared",
+      "worried"
+    ]
+  },
+  {
+    "emoji": "🔄",
+    "tags": [
+      "again",
+      "anticlockwise",
+      "arrows",
+      "button",
+      "arrow",
+      "counterclockwise",
+      "dejavu",
+      "refresh",
+      "rewind",
+      "withershins"
+    ]
+  },
+  {
+    "emoji": "🤝",
+    "tags": ["agreement", "deal", "hand", "handshake", "meeting", "shake"]
+  },
+  {
+    "emoji": "⛑",
+    "tags": ["aid", "cross", "face", "hat", "helmet", "rescue", "worker’s"]
+  },
+  {
+    "emoji": "✈",
+    "tags": ["airplane", "fly", "flying", "jet", "plane", "travel"]
+  },
+  {
+    "emoji": "🚨",
+    "tags": [
+      "alarm",
+      "alert",
+      "beacon",
+      "car",
+      "emergency",
+      "light",
+      "police",
+      "revolving",
+      "siren"
+    ]
+  },
+  {
+    "emoji": "⏰",
+    "tags": ["alarm", "clock", "hours", "hrs", "late", "time", "waiting"]
+  },
+  {
+    "emoji": "🍷",
+    "tags": [
+      "alcohol",
+      "bar",
+      "beverage",
+      "booze",
+      "club",
+      "drink",
+      "drinking",
+      "drinks",
+      "glass",
+      "restaurant",
+      "wine"
+    ]
+  },
+  {
+    "emoji": "🍺",
+    "tags": [
+      "alcohol",
+      "bar",
+      "beer",
+      "mug",
+      "booze",
+      "drinking",
+      "drinks",
+      "octoberfest",
+      "oktoberfest",
+      "pint",
+      "stein",
+      "summer",
+      "ale"
+    ]
+  },
+  {
+    "emoji": "🍹",
+    "tags": [
+      "alcohol",
+      "bar",
+      "booze",
+      "club",
+      "cocktail",
+      "drink",
+      "drinking",
+      "drinks",
+      "drunk",
+      "mai",
+      "tai",
+      "party",
+      "tropical",
+      "tropics"
+    ]
+  },
+  {
+    "emoji": "🍸",
+    "tags": [
+      "alcohol",
+      "bar",
+      "booze",
+      "club",
+      "cocktail",
+      "glass",
+      "drink",
+      "drinking",
+      "drinks",
+      "mad",
+      "men",
+      "martini"
+    ]
+  },
+  {
+    "emoji": "🍻",
+    "tags": [
+      "alcohol",
+      "bar",
+      "beer",
+      "booze",
+      "bottoms",
+      "up",
+      "cheers",
+      "clink",
+      "clinking",
+      "mugs",
+      "drinking",
+      "drinks"
+    ]
+  },
+  {
+    "emoji": "⚗",
+    "tags": ["alembic", "chemistry", "tool"]
+  },
+  {
+    "emoji": "👾",
+    "tags": [
+      "alien",
+      "monster",
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "game",
+      "gamer",
+      "games",
+      "pixellated",
+      "space",
+      "invaders",
+      "ufo"
+    ]
+  },
+  {
+    "emoji": "👽",
+    "tags": [
+      "alien",
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "monster",
+      "skrillex",
+      "space",
+      "ufo"
+    ]
+  },
+  {
+    "emoji": "📡",
+    "tags": ["aliens", "antenna", "contact", "dish", "satellite", "science"]
+  },
+  {
+    "emoji": "🌰",
+    "tags": ["almond", "chestnut"]
+  },
+  {
+    "emoji": "🦙",
+    "tags": ["alpaca", "animal", "guanaco", "llama", "vicuña", "wool"]
+  },
+  {
+    "emoji": "😳",
+    "tags": [
+      "amazed",
+      "awk",
+      "awkward",
+      "blame",
+      "dazed",
+      "dead",
+      "disbelief",
+      "embarrassed",
+      "exercise",
+      "face",
+      "flushed",
+      "geez",
+      "heat",
+      "hot",
+      "impressed",
+      "jeez",
+      "that's",
+      "crazy",
+      "what",
+      "wow"
+    ]
+  },
+  {
+    "emoji": "🚶",
+    "tags": [
+      "amble",
+      "hike",
+      "man",
+      "walking",
+      "pedestrian",
+      "person",
+      "saunter",
+      "stride",
+      "stroll",
+      "swagger",
+      "walk"
+    ]
+  },
+  {
+    "emoji": "🚶‍♀",
+    "tags": [
+      "amble",
+      "hike",
+      "pedestrian",
+      "saunter",
+      "stride",
+      "stroll",
+      "swagger",
+      "walk",
+      "walking",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🚑",
+    "tags": ["ambulance", "emergency", "vehicle"]
+  },
+  {
+    "emoji": "🏈",
+    "tags": ["american", "football", "ball", "sport", "super", "bowl"]
+  },
+  {
+    "emoji": "🦠",
+    "tags": ["amoeba", "bacteria", "microbe", "science", "virus"]
+  },
+  {
+    "emoji": "🚄",
+    "tags": ["amtrak", "high-speed", "train", "railway", "shinkansen", "speed"]
+  },
+  {
+    "emoji": "🚅",
+    "tags": [
+      "amtrak",
+      "bullet",
+      "high-speed",
+      "train",
+      "with",
+      "nose",
+      "railway",
+      "shinkansen",
+      "speed",
+      "travel"
+    ]
+  },
+  {
+    "emoji": "🎡",
+    "tags": ["amusement", "park", "amusementpark", "ferris", "wheel"]
+  },
+  {
+    "emoji": "🎢",
+    "tags": ["amusement", "park", "amusementpark", "coaster", "roller"]
+  },
+  {
+    "emoji": "⚓",
+    "tags": ["anchor", "ship", "tool"]
+  },
+  {
+    "emoji": "🔱",
+    "tags": ["anchor", "emblem", "poseidon", "ship", "tool", "trident"]
+  },
+  {
+    "emoji": "👼",
+    "tags": [
+      "angel",
+      "baby",
+      "church",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy"
+    ]
+  },
+  {
+    "emoji": "😇",
+    "tags": [
+      "angel",
+      "angelic",
+      "angels",
+      "bible",
+      "blessed",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "halo",
+      "happy",
+      "innocent",
+      "peaceful",
+      "smile",
+      "smiling",
+      "with",
+      "spirit"
+    ]
+  },
+  {
+    "emoji": "😤",
+    "tags": [
+      "anger",
+      "angry",
+      "face",
+      "with",
+      "steam",
+      "from",
+      "nose",
+      "feels",
+      "fume",
+      "fuming",
+      "furious",
+      "fury",
+      "mad",
+      "unhappy"
+    ]
+  },
+  {
+    "emoji": "😠",
+    "tags": [
+      "anger",
+      "angry",
+      "face",
+      "blame",
+      "feels",
+      "frustrated",
+      "mad",
+      "maddening",
+      "rage",
+      "shade",
+      "unhappy",
+      "upset"
+    ]
+  },
+  {
+    "emoji": "😡",
+    "tags": [
+      "anger",
+      "angry",
+      "face",
+      "feels",
+      "mad",
+      "maddening",
+      "pouting",
+      "rage",
+      "red",
+      "shade",
+      "unhappy",
+      "upset"
+    ]
+  },
+  {
+    "emoji": "💢",
+    "tags": ["anger", "symbol", "angry", "comic", "mad", "upset"]
+  },
+  {
+    "emoji": "📐",
+    "tags": [
+      "angle",
+      "math",
+      "ruler",
+      "set",
+      "slide",
+      "rule",
+      "triangle",
+      "triangular"
+    ]
+  },
+  {
+    "emoji": "📏",
+    "tags": ["angle", "math", "ruler", "straight", "edge", "straightedge"]
+  },
+  {
+    "emoji": "🗯",
+    "tags": ["angry", "balloon", "bubble", "mad", "right", "anger"]
+  },
+  {
+    "emoji": "👿",
+    "tags": [
+      "angry",
+      "face",
+      "with",
+      "horns",
+      "demon",
+      "devil",
+      "evil",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "imp",
+      "mischievous",
+      "shade"
+    ]
+  },
+  {
+    "emoji": "😧",
+    "tags": [
+      "anguished",
+      "face",
+      "forgot",
+      "scared",
+      "scary",
+      "stressed",
+      "suprise",
+      "unhappy",
+      "what",
+      "wow"
+    ]
+  },
+  {
+    "emoji": "🦑",
+    "tags": ["animal", "food", "molusc", "squid"]
+  },
+  {
+    "emoji": "🐸",
+    "tags": ["animal", "face", "frog", "princess"]
+  },
+  {
+    "emoji": "🐎",
+    "tags": [
+      "animal",
+      "belmont",
+      "stakes",
+      "equestrian",
+      "farm",
+      "horse",
+      "kentucky",
+      "derby",
+      "preakness",
+      "racehorse",
+      "racing",
+      "triple",
+      "crown"
+    ]
+  },
+  {
+    "emoji": "😺",
+    "tags": [
+      "animal",
+      "cat",
+      "face",
+      "mouth",
+      "open",
+      "smile",
+      "smiling",
+      "with"
+    ]
+  },
+  {
+    "emoji": "🐹",
+    "tags": ["animal", "face", "hamster", "pet"]
+  },
+  {
+    "emoji": "🐤",
+    "tags": ["animal", "baby", "chick", "bird"]
+  },
+  {
+    "emoji": "😸",
+    "tags": [
+      "animal",
+      "cat",
+      "eye",
+      "face",
+      "grin",
+      "grinning",
+      "with",
+      "smiling",
+      "eyes",
+      "smile"
+    ]
+  },
+  {
+    "emoji": "🐺",
+    "tags": ["animal", "face", "wolf"]
+  },
+  {
+    "emoji": "🐥",
+    "tags": ["animal", "baby", "chick", "front-facing", "newborn"]
+  },
+  {
+    "emoji": "😹",
+    "tags": [
+      "animal",
+      "cat",
+      "face",
+      "with",
+      "tears",
+      "joy",
+      "laugh",
+      "laughing",
+      "lol",
+      "tear"
+    ]
+  },
+  {
+    "emoji": "🐣",
+    "tags": ["animal", "baby", "bird", "chick", "egg", "hatching"]
+  },
+  {
+    "emoji": "🐠",
+    "tags": ["animal", "fish", "fishes", "tropical"]
+  },
+  {
+    "emoji": "🐋",
+    "tags": ["animal", "beach", "ocean", "whale"]
+  },
+  {
+    "emoji": "🐡",
+    "tags": ["animal", "blowfish", "fish"]
+  },
+  {
+    "emoji": "🐌",
+    "tags": ["animal", "escargot", "garden", "nature", "slug", "snail"]
+  },
+  {
+    "emoji": "🐷",
+    "tags": ["animal", "bacon", "face", "farm", "pig", "pork", "wilbur"]
+  },
+  {
+    "emoji": "🐢",
+    "tags": ["animal", "terrapin", "tortoise", "turtle", "turtles"]
+  },
+  {
+    "emoji": "🐨",
+    "tags": ["animal", "australia", "bear", "down", "under", "koala"]
+  },
+  {
+    "emoji": "🐓",
+    "tags": ["animal", "animals", "birds", "rooster"]
+  },
+  {
+    "emoji": "😿",
+    "tags": ["animal", "cat", "cry", "crying", "face", "sad", "tear"]
+  },
+  {
+    "emoji": "🐩",
+    "tags": ["animal", "dog", "fluffy", "poodle"]
+  },
+  {
+    "emoji": "🦍",
+    "tags": ["animal", "gorilla"]
+  },
+  {
+    "emoji": "🐔",
+    "tags": ["animal", "chicken"]
+  },
+  {
+    "emoji": "🐪",
+    "tags": ["animal", "camel", "desrt", "dromedary", "hump", "one"]
+  },
+  {
+    "emoji": "😾",
+    "tags": ["animal", "cat", "face", "pouting"]
+  },
+  {
+    "emoji": "🦌",
+    "tags": ["animal", "deer"]
+  },
+  {
+    "emoji": "🐕",
+    "tags": ["animal", "animals", "dog", "dogs", "pet"]
+  },
+  {
+    "emoji": "😼",
+    "tags": ["animal", "cat", "face", "with", "wry", "smile", "ironic"]
+  },
+  {
+    "emoji": "🦎",
+    "tags": ["animal", "lizard", "reptile"]
+  },
+  {
+    "emoji": "🐻",
+    "tags": ["animal", "bear", "face", "grizzly", "growl", "honey", "yosemite"]
+  },
+  {
+    "emoji": "🐦",
+    "tags": ["animal", "bird", "ornithology"]
+  },
+  {
+    "emoji": "🐑",
+    "tags": ["animal", "baa", "ewe", "farm", "fluffy", "lamb", "sheep", "wool"]
+  },
+  {
+    "emoji": "😽",
+    "tags": [
+      "animal",
+      "cat",
+      "eye",
+      "face",
+      "kiss",
+      "kissing",
+      "with",
+      "closed",
+      "eyes"
+    ]
+  },
+  {
+    "emoji": "🐼",
+    "tags": ["animal", "bamboo", "face", "panda"]
+  },
+  {
+    "emoji": "🐧",
+    "tags": ["animal", "antartica", "penguin"]
+  },
+  {
+    "emoji": "😻",
+    "tags": [
+      "animal",
+      "cat",
+      "eye",
+      "face",
+      "heart",
+      "love",
+      "smile",
+      "smiling",
+      "with",
+      "heart-eyes"
+    ]
+  },
+  {
+    "emoji": "🦏",
+    "tags": ["animal", "rhinoceros"]
+  },
+  {
+    "emoji": "🐒",
+    "tags": ["animal", "banana", "monkey"]
+  },
+  {
+    "emoji": "🐽",
+    "tags": ["animal", "face", "farm", "nose", "pig", "smel", "snout"]
+  },
+  {
+    "emoji": "🐘",
+    "tags": ["animal", "elephant"]
+  },
+  {
+    "emoji": "🐈",
+    "tags": ["animal", "animals", "cat", "cats", "kitten", "pet"]
+  },
+  {
+    "emoji": "🐃",
+    "tags": ["animal", "animals", "buffalo", "water", "zoo"]
+  },
+  {
+    "emoji": "🦆",
+    "tags": ["animal", "bird", "duck"]
+  },
+  {
+    "emoji": "🐮",
+    "tags": ["animal", "cow", "face", "farm", "milk", "moo"]
+  },
+  {
+    "emoji": "🐙",
+    "tags": ["animal", "creature", "ocean", "octopus"]
+  },
+  {
+    "emoji": "🐄",
+    "tags": ["animal", "animals", "cow", "farm", "milk", "moo"]
+  },
+  {
+    "emoji": "🦇",
+    "tags": ["animal", "bat", "vampire"]
+  },
+  {
+    "emoji": "🐯",
+    "tags": ["animal", "big", "cat", "face", "predator", "tiger"]
+  },
+  {
+    "emoji": "🐚",
+    "tags": ["animal", "beach", "conch", "sea", "shell", "spiral"]
+  },
+  {
+    "emoji": "🐅",
+    "tags": ["animal", "animals", "big", "cat", "predator", "tiger", "zoo"]
+  },
+  {
+    "emoji": "🐀",
+    "tags": ["animal", "rat"]
+  },
+  {
+    "emoji": "🦉",
+    "tags": ["animal", "bird", "owl", "wise"]
+  },
+  {
+    "emoji": "🐫",
+    "tags": ["animal", "bactrian", "camel", "desert", "hump", "two", "two-hump"]
+  },
+  {
+    "emoji": "🐖",
+    "tags": ["animal", "animals", "bacon", "farm", "fat", "pig", "pork", "sow"]
+  },
+  {
+    "emoji": "🐁",
+    "tags": ["animal", "animals", "mouse"]
+  },
+  {
+    "emoji": "🦈",
+    "tags": ["animal", "fish", "shark"]
+  },
+  {
+    "emoji": "🐬",
+    "tags": ["animal", "beach", "dolphin", "flipper", "ocean"]
+  },
+  {
+    "emoji": "🙀",
+    "tags": ["animal", "cat", "face", "oh", "surprised", "weary"]
+  },
+  {
+    "emoji": "🦊",
+    "tags": ["animal", "face", "fox"]
+  },
+  {
+    "emoji": "🐗",
+    "tags": ["animal", "boar", "game", "thrones", "pig"]
+  },
+  {
+    "emoji": "🐭",
+    "tags": ["animal", "face", "mouse"]
+  },
+  {
+    "emoji": "🐳",
+    "tags": ["animal", "beach", "face", "ocean", "spouting", "whale"]
+  },
+  {
+    "emoji": "🐞",
+    "tags": [
+      "animal",
+      "beetle",
+      "garden",
+      "insect",
+      "lady",
+      "ladybird",
+      "ladybug",
+      "nature"
+    ]
+  },
+  {
+    "emoji": "🙊",
+    "tags": [
+      "animal",
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "monkey",
+      "no",
+      "not",
+      "oops",
+      "prohibited",
+      "quiet",
+      "secret",
+      "speak",
+      "speak-no-evil",
+      "stealth"
+    ]
+  },
+  {
+    "emoji": "🐉",
+    "tags": [
+      "animal",
+      "chinese",
+      "dragon",
+      "fairy",
+      "tale",
+      "fairytale",
+      "game",
+      "thrones",
+      "knights"
+    ]
+  },
+  {
+    "emoji": "🐴",
+    "tags": ["animal", "dressage", "equine", "face", "farm", "horse", "horses"]
+  },
+  {
+    "emoji": "🐊",
+    "tags": ["animal", "animals", "crocodile", "dundee", "florida", "zoo"]
+  },
+  {
+    "emoji": "🐵",
+    "tags": ["animal", "banana", "curious", "george", "face", "monkey"]
+  },
+  {
+    "emoji": "🙉",
+    "tags": [
+      "animal",
+      "ears",
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "hear",
+      "no",
+      "hear-no-evil",
+      "monkey",
+      "listen",
+      "not",
+      "prohibited",
+      "secret",
+      "shh",
+      "tmi"
+    ]
+  },
+  {
+    "emoji": "🐰",
+    "tags": ["animal", "bunny", "face", "pet", "rabbit"]
+  },
+  {
+    "emoji": "🐛",
+    "tags": ["animal", "bug", "garden", "insect"]
+  },
+  {
+    "emoji": "🐆",
+    "tags": ["animal", "animals", "big", "cat", "leopard", "predator", "zoo"]
+  },
+  {
+    "emoji": "🐱",
+    "tags": ["animal", "cat", "face", "kitten", "kitty", "pet"]
+  },
+  {
+    "emoji": "🙈",
+    "tags": [
+      "animal",
+      "cant",
+      "watch",
+      "embarassed",
+      "evil",
+      "face",
+      "forbidden",
+      "forgot",
+      "gesture",
+      "hide",
+      "monkey",
+      "no",
+      "nono",
+      "not",
+      "omg",
+      "prohibited",
+      "scared",
+      "secret",
+      "see",
+      "see-no-evil",
+      "smh"
+    ]
+  },
+  {
+    "emoji": "🦅",
+    "tags": ["animal", "bird", "eagle"]
+  },
+  {
+    "emoji": "🐜",
+    "tags": ["animal", "ant", "garden", "insect"]
+  },
+  {
+    "emoji": "🐇",
+    "tags": ["animal", "animals", "bunny", "pet", "rabbit"]
+  },
+  {
+    "emoji": "🐲",
+    "tags": ["animal", "dragon", "face", "fairy", "tale", "fairytale"]
+  },
+  {
+    "emoji": "🐝",
+    "tags": [
+      "animal",
+      "bee",
+      "bumblebee",
+      "honey",
+      "honeybee",
+      "insect",
+      "nature",
+      "spring"
+    ]
+  },
+  {
+    "emoji": "🦡",
+    "tags": ["animal", "badger", "honey", "pester"]
+  },
+  {
+    "emoji": "🦢",
+    "tags": ["animal", "bird", "cygnet", "swan", "ugly", "duckling"]
+  },
+  {
+    "emoji": "🦛",
+    "tags": ["animal", "hippo", "hippopotamus"]
+  },
+  {
+    "emoji": "🦝",
+    "tags": ["animal", "curious", "raccoon", "sly"]
+  },
+  {
+    "emoji": "🦜",
+    "tags": ["animal", "bird", "parrot", "pirate", "talk"]
+  },
+  {
+    "emoji": "🦞",
+    "tags": ["animal", "bisque", "claws", "lobster", "red", "seafood"]
+  },
+  {
+    "emoji": "🦚",
+    "tags": [
+      "animal",
+      "bird",
+      "colorful",
+      "ostentatious",
+      "peacock",
+      "peahen",
+      "pretty",
+      "proud"
+    ]
+  },
+  {
+    "emoji": "🦶",
+    "tags": ["ankle", "feet", "foot", "kick", "stomp"]
+  },
+  {
+    "emoji": "💏",
+    "tags": [
+      "anniversary",
+      "bae",
+      "couple",
+      "date",
+      "heart",
+      "kiss",
+      "love",
+      "romance"
+    ]
+  },
+  {
+    "emoji": "💐",
+    "tags": [
+      "anniversary",
+      "birthday",
+      "bouquet",
+      "date",
+      "flower",
+      "love",
+      "plant",
+      "romance"
+    ]
+  },
+  {
+    "emoji": "💑",
+    "tags": [
+      "anniversary",
+      "bae",
+      "couple",
+      "with",
+      "heart",
+      "kiss",
+      "love",
+      "romance"
+    ]
+  },
+  {
+    "emoji": "👩‍❤‍💋‍👩",
+    "tags": [
+      "anniversary",
+      "bisexual",
+      "gay",
+      "glbt",
+      "glbtq",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "queer"
+    ]
+  },
+  {
+    "emoji": "👩‍❤‍👩",
+    "tags": [
+      "anniversary",
+      "bae",
+      "bisexual",
+      "couple",
+      "with",
+      "heart",
+      "gay",
+      "glbt",
+      "glbtq",
+      "kiss",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "love",
+      "queer",
+      "romance"
+    ]
+  },
+  {
+    "emoji": "👨‍❤‍👨",
+    "tags": [
+      "anniversary",
+      "bisexual",
+      "gay",
+      "glbt",
+      "glbtq",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "queer"
+    ]
+  },
+  {
+    "emoji": "😖",
+    "tags": [
+      "annoyed",
+      "confounded",
+      "face",
+      "confused",
+      "cringe",
+      "distraught",
+      "feels",
+      "frustrated",
+      "mad",
+      "sad"
+    ]
+  },
+  {
+    "emoji": "📶",
+    "tags": [
+      "antenna",
+      "bars",
+      "bar",
+      "cell",
+      "communication",
+      "mobile",
+      "phone",
+      "signal",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "😥",
+    "tags": [
+      "anxious",
+      "close",
+      "call",
+      "complicated",
+      "disappointed",
+      "but",
+      "relieved",
+      "face",
+      "not",
+      "this",
+      "time",
+      "sad",
+      "sweat",
+      "whew"
+    ]
+  },
+  {
+    "emoji": "😟",
+    "tags": [
+      "anxious",
+      "butterflies",
+      "face",
+      "nerves",
+      "nervous",
+      "sad",
+      "stress",
+      "stressed",
+      "surprised",
+      "worried",
+      "worry"
+    ]
+  },
+  {
+    "emoji": "🙇",
+    "tags": [
+      "apology",
+      "bow",
+      "gesture",
+      "man",
+      "bowing",
+      "meditate",
+      "meditation",
+      "person",
+      "sorry"
+    ]
+  },
+  {
+    "emoji": "🙇‍♀",
+    "tags": [
+      "apology",
+      "bow",
+      "gesture",
+      "meditate",
+      "meditation",
+      "sorry",
+      "woman",
+      "bowing"
+    ]
+  },
+  {
+    "emoji": "👏",
+    "tags": [
+      "applause",
+      "approval",
+      "awesome",
+      "clap",
+      "clapping",
+      "hands",
+      "congrats",
+      "congratulations",
+      "excited",
+      "good",
+      "job",
+      "great",
+      "hand",
+      "homie",
+      "nice",
+      "prayed",
+      "well",
+      "done",
+      "yay"
+    ]
+  },
+  {
+    "emoji": "🍏",
+    "tags": ["apple", "fruit", "green"]
+  },
+  {
+    "emoji": "🍎",
+    "tags": ["apple", "diet", "food", "fruit", "health", "red", "ripe"]
+  },
+  {
+    "emoji": "🥧",
+    "tags": [
+      "apple",
+      "pie",
+      "filling",
+      "fruit",
+      "meat",
+      "pastry",
+      "pumpkin",
+      "slice"
+    ]
+  },
+  {
+    "emoji": "🙏",
+    "tags": [
+      "appreciate",
+      "ask",
+      "beg",
+      "blessed",
+      "bow",
+      "cmon",
+      "five",
+      "folded",
+      "hands",
+      "gesture",
+      "hand",
+      "high",
+      "please",
+      "pray",
+      "thank",
+      "you",
+      "thanks",
+      "thx"
+    ]
+  },
+  {
+    "emoji": "👩‍💼",
+    "tags": ["architect", "business", "manager", "office", "woman"]
+  },
+  {
+    "emoji": "👨‍💼",
+    "tags": ["architect", "business", "man", "manager", "office"]
+  },
+  {
+    "emoji": "💪",
+    "tags": [
+      "arm",
+      "beast",
+      "bench",
+      "press",
+      "biceps",
+      "body",
+      "bodybuilder",
+      "bro",
+      "comic",
+      "curls",
+      "flex",
+      "flexed",
+      "flexing",
+      "gains",
+      "gym",
+      "jacked",
+      "muscle",
+      "ripped",
+      "strong",
+      "weightlift",
+      "weightlifter"
+    ]
+  },
+  {
+    "emoji": "🛄",
+    "tags": [
+      "arrived",
+      "baggage",
+      "claim",
+      "bags",
+      "case",
+      "checked",
+      "journey",
+      "packing",
+      "plane",
+      "ready",
+      "travel",
+      "trip"
+    ]
+  },
+  {
+    "emoji": "🚈",
+    "tags": ["arrived", "bart", "light", "rail", "monorail", "railway"]
+  },
+  {
+    "emoji": "🚆",
+    "tags": ["arrived", "choo", "railway", "train"]
+  },
+  {
+    "emoji": "⏭",
+    "tags": [
+      "arrow",
+      "next",
+      "scene",
+      "track",
+      "button",
+      "nexttrack",
+      "triangle"
+    ]
+  },
+  {
+    "emoji": "↖",
+    "tags": ["arrow", "direction", "intercardinal", "northwest", "up-left"]
+  },
+  {
+    "emoji": "⬇",
+    "tags": ["arrow", "cardinal", "direction", "down", "south"]
+  },
+  {
+    "emoji": "⏬",
+    "tags": ["arrow", "double", "down", "fast", "button"]
+  },
+  {
+    "emoji": "⬆",
+    "tags": ["arrow", "cardinal", "direction", "north", "up"]
+  },
+  {
+    "emoji": "↗",
+    "tags": ["arrow", "direction", "intercardinal", "northeast", "up-right"]
+  },
+  {
+    "emoji": "⏫",
+    "tags": ["arrow", "double", "fast", "up", "button"]
+  },
+  {
+    "emoji": "↙",
+    "tags": ["arrow", "direction", "down-left", "intercardinal", "southwest"]
+  },
+  {
+    "emoji": "⏯",
+    "tags": ["arrow", "pause", "play", "or", "button", "right", "triangle"]
+  },
+  {
+    "emoji": "↘",
+    "tags": ["arrow", "direction", "down-right", "intercardinal", "southeast"]
+  },
+  {
+    "emoji": "◀",
+    "tags": ["arrow", "left", "reverse", "button", "triangle"]
+  },
+  {
+    "emoji": "⤵",
+    "tags": ["arrow", "down", "right", "curving"]
+  },
+  {
+    "emoji": "⏮",
+    "tags": [
+      "arrow",
+      "last",
+      "track",
+      "button",
+      "previous",
+      "scene",
+      "triangle"
+    ]
+  },
+  {
+    "emoji": "⤴",
+    "tags": ["arrow", "right", "curving", "up"]
+  },
+  {
+    "emoji": "📩",
+    "tags": [
+      "arrow",
+      "communication",
+      "down",
+      "e-mail",
+      "email",
+      "envelope",
+      "with",
+      "letter",
+      "mail",
+      "outgoing",
+      "send",
+      "sent"
+    ]
+  },
+  {
+    "emoji": "⬅",
+    "tags": ["arrow", "cardinal", "direction", "left", "west"]
+  },
+  {
+    "emoji": "🔽",
+    "tags": ["arrow", "button", "down", "red"]
+  },
+  {
+    "emoji": "🔼",
+    "tags": ["arrow", "button", "red", "up"]
+  },
+  {
+    "emoji": "🔃",
+    "tags": ["arrow", "clockwise", "vertical", "arrows", "refresh", "reload"]
+  },
+  {
+    "emoji": "🔁",
+    "tags": ["arrow", "clockwise", "repeat", "button"]
+  },
+  {
+    "emoji": "▶",
+    "tags": ["arrow", "play", "button", "right", "triangle"]
+  },
+  {
+    "emoji": "🔀",
+    "tags": ["arrow", "crossed", "shuffle", "tracks", "button"]
+  },
+  {
+    "emoji": "🔂",
+    "tags": ["arrow", "clockwise", "once", "repeat", "single", "button"]
+  },
+  {
+    "emoji": "➡",
+    "tags": ["arrow", "cardinal", "direction", "east", "right"]
+  },
+  {
+    "emoji": "↩",
+    "tags": ["arrow", "right", "curving", "left"]
+  },
+  {
+    "emoji": "⏪",
+    "tags": ["arrow", "double", "fast", "reverse", "button", "rewind"]
+  },
+  {
+    "emoji": "↕",
+    "tags": ["arrow", "up-down"]
+  },
+  {
+    "emoji": "⏩",
+    "tags": ["arrow", "double", "fast", "fast-forward", "button", "forward"]
+  },
+  {
+    "emoji": "↪",
+    "tags": ["arrow", "left", "curving", "right"]
+  },
+  {
+    "emoji": "↔",
+    "tags": ["arrow", "left-right"]
+  },
+  {
+    "emoji": "📲",
+    "tags": [
+      "arrow",
+      "build",
+      "call",
+      "cell",
+      "communication",
+      "mobile",
+      "phone",
+      "with",
+      "receive",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "🎨",
+    "tags": [
+      "art",
+      "artist",
+      "palette",
+      "artsy",
+      "arty",
+      "colorful",
+      "creative",
+      "entertainment",
+      "museum",
+      "painter",
+      "painting"
+    ]
+  },
+  {
+    "emoji": "🖼",
+    "tags": ["art", "frame", "framed", "picture", "museum", "painting"]
+  },
+  {
+    "emoji": "🚛",
+    "tags": [
+      "articulated",
+      "lorry",
+      "car",
+      "drive",
+      "move",
+      "semi",
+      "truck",
+      "vehicle"
+    ]
+  },
+  {
+    "emoji": "👨‍🎨",
+    "tags": ["artist", "man", "palette"]
+  },
+  {
+    "emoji": "👩‍🎨",
+    "tags": ["artist", "palette", "woman"]
+  },
+  {
+    "emoji": "⚱",
+    "tags": ["ashes", "death", "funeral", "urn"]
+  },
+  {
+    "emoji": "👨‍🏭",
+    "tags": ["assembly", "factory", "industrial", "man", "worker"]
+  },
+  {
+    "emoji": "👩‍🏭",
+    "tags": ["assembly", "factory", "industrial", "woman", "worker"]
+  },
+  {
+    "emoji": "✳",
+    "tags": ["asterisk", "eight-spoked"]
+  },
+  {
+    "emoji": "😲",
+    "tags": [
+      "astonished",
+      "face",
+      "cost",
+      "gtfo",
+      "no",
+      "way",
+      "omfg",
+      "omg",
+      "shocked",
+      "totally",
+      "wtf"
+    ]
+  },
+  {
+    "emoji": "👩‍🚀",
+    "tags": ["astronaut", "rocket", "space", "woman"]
+  },
+  {
+    "emoji": "👨‍🚀",
+    "tags": ["astronaut", "man", "rocket", "space"]
+  },
+  {
+    "emoji": "⭐",
+    "tags": ["astronomy", "star", "stars", "white", "medium"]
+  },
+  {
+    "emoji": "⚛",
+    "tags": ["atheist", "atom", "symbol"]
+  },
+  {
+    "emoji": "👟",
+    "tags": [
+      "athletic",
+      "clothes",
+      "clothing",
+      "fast",
+      "kick",
+      "running",
+      "shoe",
+      "shoes",
+      "shopping",
+      "sneaker",
+      "tennis"
+    ]
+  },
+  {
+    "emoji": "🎽",
+    "tags": ["athletics", "running", "shirt", "sash"]
+  },
+  {
+    "emoji": "🧲",
+    "tags": [
+      "attraction",
+      "horseshoe",
+      "magnet",
+      "magnetic",
+      "positive",
+      "negative",
+      "u",
+      "shape"
+    ]
+  },
+  {
+    "emoji": "🍆",
+    "tags": ["aubergine", "eggplant", "vegetable"]
+  },
+  {
+    "emoji": "🚘",
+    "tags": ["automobile", "car", "cars", "drove", "oncoming", "vehicle"]
+  },
+  {
+    "emoji": "🚗",
+    "tags": ["automobile", "car", "driving", "vehicle"]
+  },
+  {
+    "emoji": "🍂",
+    "tags": ["autumn", "fall", "fallen", "leaf", "falling"]
+  },
+  {
+    "emoji": "🥮",
+    "tags": ["autumn", "festival", "moon", "cake", "yuèbǐng"]
+  },
+  {
+    "emoji": "🥑",
+    "tags": ["avocado", "food", "fruit"]
+  },
+  {
+    "emoji": "🎖",
+    "tags": ["award", "celebration", "medal", "military"]
+  },
+  {
+    "emoji": "🏅",
+    "tags": ["award", "gold", "medal", "sports", "winner"]
+  },
+  {
+    "emoji": "😎",
+    "tags": [
+      "awesome",
+      "beach",
+      "bright",
+      "bro",
+      "chillin",
+      "cool",
+      "eye",
+      "eyewear",
+      "face",
+      "fly",
+      "glasses",
+      "maverick",
+      "rad",
+      "relaxed",
+      "shades",
+      "slay",
+      "smile",
+      "smiling",
+      "with",
+      "sunglasses",
+      "stunner",
+      "style",
+      "sun",
+      "swag",
+      "swagger",
+      "win",
+      "winning",
+      "yeah"
+    ]
+  },
+  {
+    "emoji": "😃",
+    "tags": [
+      "awesome",
+      "face",
+      "grin",
+      "happy",
+      "mouth",
+      "open",
+      "smile",
+      "smiling",
+      "with",
+      "teeth",
+      "yay"
+    ]
+  },
+  {
+    "emoji": "🎉",
+    "tags": [
+      "awesome",
+      "birthday",
+      "celebrate",
+      "celebration",
+      "excited",
+      "hooray",
+      "party",
+      "popper",
+      "tada",
+      "woohoo"
+    ]
+  },
+  {
+    "emoji": "😛",
+    "tags": [
+      "awesome",
+      "cool",
+      "face",
+      "with",
+      "stuck-out",
+      "tongue",
+      "nice",
+      "party",
+      "sweet"
+    ]
+  },
+  {
+    "emoji": "😢",
+    "tags": [
+      "awful",
+      "cry",
+      "crying",
+      "face",
+      "feels",
+      "miss",
+      "sad",
+      "tear",
+      "triste",
+      "unhappy"
+    ]
+  },
+  {
+    "emoji": "😔",
+    "tags": [
+      "awful",
+      "bored",
+      "dejected",
+      "died",
+      "disappointed",
+      "face",
+      "losing",
+      "lost",
+      "pensive",
+      "sad",
+      "sucks"
+    ]
+  },
+  {
+    "emoji": "😞",
+    "tags": [
+      "awful",
+      "blame",
+      "dejected",
+      "disappointed",
+      "face",
+      "fail",
+      "losing",
+      "sad",
+      "unhappy"
+    ]
+  },
+  {
+    "emoji": "😐",
+    "tags": [
+      "awk",
+      "awkward",
+      "bad",
+      "basic",
+      "blank",
+      "dead",
+      "deadpan",
+      "expressionless",
+      "face",
+      "fine",
+      "jealous",
+      "jel",
+      "jelly",
+      "neutral",
+      "not",
+      "amused",
+      "funny",
+      "impressed",
+      "laughing",
+      "shade",
+      "straight",
+      "uh",
+      "oh",
+      "unamused",
+      "unhappy",
+      "unimpressed",
+      "whatever",
+      "wtf"
+    ]
+  },
+  {
+    "emoji": "😑",
+    "tags": [
+      "awk",
+      "awkward",
+      "bad",
+      "basic",
+      "cost",
+      "dead",
+      "expressionless",
+      "face",
+      "fine",
+      "inexpressive",
+      "jealous",
+      "jel",
+      "jelly",
+      "no",
+      "not\nimpressed",
+      "not",
+      "impressed",
+      "omg",
+      "straight",
+      "uh",
+      "uh\noh",
+      "oh",
+      "unexpressive",
+      "unhappy",
+      "unimpressed",
+      "whatever",
+      "wtf"
+    ]
+  },
+  {
+    "emoji": "😬",
+    "tags": [
+      "awk",
+      "awkward",
+      "dentist",
+      "face",
+      "grimace",
+      "grimacing",
+      "grinning",
+      "nothing",
+      "smile",
+      "smiling"
+    ]
+  },
+  {
+    "emoji": "😶",
+    "tags": [
+      "awkward",
+      "blank",
+      "cant",
+      "even",
+      "expressionless",
+      "face",
+      "without",
+      "mouth",
+      "mouthless",
+      "mute",
+      "quiet",
+      "secret",
+      "silence",
+      "silent",
+      "speechless"
+    ]
+  },
+  {
+    "emoji": "👶",
+    "tags": [
+      "babies",
+      "baby",
+      "children",
+      "goo",
+      "infant",
+      "newborn",
+      "pregnant",
+      "young"
+    ]
+  },
+  {
+    "emoji": "🍼",
+    "tags": [
+      "babies",
+      "baby",
+      "bottle",
+      "birth",
+      "born",
+      "drink",
+      "infant",
+      "milk",
+      "newborn"
+    ]
+  },
+  {
+    "emoji": "🚼",
+    "tags": ["baby", "symbol", "changing"]
+  },
+  {
+    "emoji": "🤱",
+    "tags": ["baby", "breast", "feeding", "breast-feeding", "nursing"]
+  },
+  {
+    "emoji": "🚪",
+    "tags": ["back", "door", "closet", "front"]
+  },
+  {
+    "emoji": "👈",
+    "tags": ["backhand", "index", "pointing", "left", "finger", "hand", "point"]
+  },
+  {
+    "emoji": "👉",
+    "tags": [
+      "backhand",
+      "index",
+      "pointing",
+      "right",
+      "finger",
+      "hand",
+      "point"
+    ]
+  },
+  {
+    "emoji": "👆",
+    "tags": ["backhand", "index", "pointing", "up", "finger", "hand", "point"]
+  },
+  {
+    "emoji": "🤚",
+    "tags": ["backhand", "raised"]
+  },
+  {
+    "emoji": "👇",
+    "tags": ["backhand", "index", "pointing", "down", "finger", "hand", "point"]
+  },
+  {
+    "emoji": "🎒",
+    "tags": [
+      "backpack",
+      "backpacking",
+      "bag",
+      "bookbag",
+      "education",
+      "satchel",
+      "school"
+    ]
+  },
+  {
+    "emoji": "🥾",
+    "tags": [
+      "backpacking",
+      "boot",
+      "brown",
+      "shoe",
+      "camping",
+      "hiking",
+      "outdoors"
+    ]
+  },
+  {
+    "emoji": "🥓",
+    "tags": ["bacon", "food", "meat"]
+  },
+  {
+    "emoji": "🧫",
+    "tags": [
+      "bacteria",
+      "biologist",
+      "biology",
+      "culture",
+      "lab",
+      "petri",
+      "dish"
+    ]
+  },
+  {
+    "emoji": "🦹‍♀",
+    "tags": [
+      "bad",
+      "criminal",
+      "evil",
+      "superpower",
+      "superpowers",
+      "supervillain",
+      "villain",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🦹",
+    "tags": [
+      "bad",
+      "criminal",
+      "evil",
+      "superpower",
+      "superpowers",
+      "supervillain",
+      "villain"
+    ]
+  },
+  {
+    "emoji": "🦹‍♂",
+    "tags": [
+      "bad",
+      "guy",
+      "criminal",
+      "evil",
+      "man",
+      "superpower",
+      "superpowers",
+      "supervillain",
+      "villain"
+    ]
+  },
+  {
+    "emoji": "👵",
+    "tags": [
+      "bad",
+      "haircut",
+      "blond",
+      "blondie",
+      "grandma",
+      "grandmother",
+      "granny",
+      "lady",
+      "old",
+      "woman",
+      "wise"
+    ]
+  },
+  {
+    "emoji": "📛",
+    "tags": ["badge", "name"]
+  },
+  {
+    "emoji": "🏸",
+    "tags": ["badminton", "birdie", "game", "racquet", "shuttlecock"]
+  },
+  {
+    "emoji": "👫",
+    "tags": [
+      "bae",
+      "couple",
+      "dating",
+      "everyone",
+      "flirt",
+      "friend",
+      "friends",
+      "hold",
+      "in",
+      "love",
+      "man",
+      "and",
+      "woman",
+      "holding",
+      "hands"
+    ]
+  },
+  {
+    "emoji": "👬",
+    "tags": [
+      "bae",
+      "boys",
+      "couple",
+      "dating",
+      "everyone",
+      "friend",
+      "friends",
+      "gay",
+      "glbt",
+      "glbtq",
+      "hand",
+      "hold",
+      "in",
+      "love",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "man",
+      "queer",
+      "twins",
+      "two",
+      "men",
+      "holding",
+      "hands",
+      "zodiac"
+    ]
+  },
+  {
+    "emoji": "👭",
+    "tags": [
+      "bae",
+      "bestfriend",
+      "bestfriends",
+      "bestie",
+      "bff",
+      "bond",
+      "bonding",
+      "couple",
+      "dating",
+      "daughters",
+      "everyone",
+      "friend",
+      "friends",
+      "friendship",
+      "gay",
+      "girls",
+      "glbt",
+      "glbtq",
+      "hand",
+      "hold",
+      "ladies",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "queer",
+      "sis",
+      "sister",
+      "sisters",
+      "two",
+      "women",
+      "holding",
+      "hands",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🛍",
+    "tags": ["bag", "hotel", "shopping", "bags"]
+  },
+  {
+    "emoji": "💰",
+    "tags": [
+      "bag",
+      "bank",
+      "bet",
+      "billion",
+      "cash",
+      "out",
+      "cost",
+      "dollar",
+      "million",
+      "money",
+      "moneybag",
+      "paid",
+      "paying",
+      "pot",
+      "gold",
+      "rich",
+      "scrooge",
+      "win"
+    ]
+  },
+  {
+    "emoji": "👜",
+    "tags": [
+      "bag",
+      "clothes",
+      "clothing",
+      "dress",
+      "handbag",
+      "lady",
+      "purse",
+      "shopping"
+    ]
+  },
+  {
+    "emoji": "👝",
+    "tags": [
+      "bag",
+      "clothes",
+      "clothing",
+      "clutch",
+      "dress",
+      "handbag",
+      "pouch",
+      "purse"
+    ]
+  },
+  {
+    "emoji": "🥯",
+    "tags": ["bagel", "bakery", "bread", "breakfast", "schmear"]
+  },
+  {
+    "emoji": "🛅",
+    "tags": ["baggage", "case", "left", "luggage", "locker"]
+  },
+  {
+    "emoji": "🥖",
+    "tags": ["baguette", "bread", "food", "french"]
+  },
+  {
+    "emoji": "🧁",
+    "tags": [
+      "bakery",
+      "cupcake",
+      "dessert",
+      "sprinkles",
+      "sugar",
+      "sweet",
+      "treat"
+    ]
+  },
+  {
+    "emoji": "👴",
+    "tags": [
+      "bald",
+      "elderly",
+      "grandfather",
+      "grandpa",
+      "losing",
+      "hair",
+      "man",
+      "old",
+      "dude",
+      "wise"
+    ]
+  },
+  {
+    "emoji": "🏌",
+    "tags": ["ball", "driving", "range", "golf", "man", "golfing", "person"]
+  },
+  {
+    "emoji": "🏏",
+    "tags": ["ball", "bat", "cricket", "game"]
+  },
+  {
+    "emoji": "🏑",
+    "tags": ["ball", "field", "hockey", "game", "stick"]
+  },
+  {
+    "emoji": "🏐",
+    "tags": ["ball", "game", "volleyball"]
+  },
+  {
+    "emoji": "🎾",
+    "tags": ["ball", "racquet", "sport", "tennis"]
+  },
+  {
+    "emoji": "🏓",
+    "tags": [
+      "ball",
+      "bat",
+      "game",
+      "paddle",
+      "ping",
+      "pong",
+      "pingpong",
+      "table",
+      "tennis"
+    ]
+  },
+  {
+    "emoji": "🔮",
+    "tags": [
+      "ball",
+      "crystal",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "fortune",
+      "future",
+      "magic",
+      "tool"
+    ]
+  },
+  {
+    "emoji": "⛹",
+    "tags": ["ball", "basketball", "player", "man", "bouncing", "person"]
+  },
+  {
+    "emoji": "🏀",
+    "tags": ["ball", "basketball", "hoop", "sport"]
+  },
+  {
+    "emoji": "⚾",
+    "tags": ["ball", "baseball", "sport"]
+  },
+  {
+    "emoji": "🎊",
+    "tags": ["ball", "celebrate", "celebration", "confetti", "party", "woohoo"]
+  },
+  {
+    "emoji": "⚽",
+    "tags": [
+      "ball",
+      "football",
+      "futbol",
+      "messi",
+      "ronaldo",
+      "soccer",
+      "sport"
+    ]
+  },
+  {
+    "emoji": "🏉",
+    "tags": ["ball", "football", "rugby", "sport"]
+  },
+  {
+    "emoji": "🎳",
+    "tags": ["ball", "bowling", "game", "sport", "strike"]
+  },
+  {
+    "emoji": "⛹‍♀",
+    "tags": ["ball"]
+  },
+  {
+    "emoji": "🏌‍♀",
+    "tags": ["ball"]
+  },
+  {
+    "emoji": "🧶",
+    "tags": ["ball", "crochet", "knit", "yarn"]
+  },
+  {
+    "emoji": "🥍",
+    "tags": ["ball", "goal", "lacrosse", "sports", "stick"]
+  },
+  {
+    "emoji": "🥎",
+    "tags": ["ball", "glove", "softball", "sports", "underarm"]
+  },
+  {
+    "emoji": "🥿",
+    "tags": ["ballet", "flat", "comfy", "shoe", "flats", "slip-on", "slipper"]
+  },
+  {
+    "emoji": "💬",
+    "tags": [
+      "balloon",
+      "bubble",
+      "comic",
+      "dialog",
+      "message",
+      "sms",
+      "speech",
+      "talk",
+      "text",
+      "typing"
+    ]
+  },
+  {
+    "emoji": "💭",
+    "tags": [
+      "balloon",
+      "bubble",
+      "cartoon",
+      "cloud",
+      "comic",
+      "daydream",
+      "decisions",
+      "dream",
+      "dreams",
+      "idea",
+      "invent",
+      "invention",
+      "realize",
+      "think",
+      "thinking",
+      "thought",
+      "thoughts",
+      "wonder"
+    ]
+  },
+  {
+    "emoji": "🎈",
+    "tags": ["balloon", "birthday", "celebrate", "celebration"]
+  },
+  {
+    "emoji": "🗳",
+    "tags": ["ballot", "box", "with"]
+  },
+  {
+    "emoji": "☑",
+    "tags": ["ballot", "box", "check", "checked", "off", "done", "tick"]
+  },
+  {
+    "emoji": "🖊",
+    "tags": ["ballpoint", "pen"]
+  },
+  {
+    "emoji": "🍌",
+    "tags": ["banana", "fruit", "potassium"]
+  },
+  {
+    "emoji": "🤕",
+    "tags": [
+      "bandage",
+      "face",
+      "with",
+      "head-bandage",
+      "hurt",
+      "injury",
+      "ouch"
+    ]
+  },
+  {
+    "emoji": "🧕",
+    "tags": [
+      "bandana",
+      "head\nkerchief",
+      "headscarf",
+      "hijab",
+      "mantilla",
+      "tichel",
+      "woman",
+      "with"
+    ]
+  },
+  {
+    "emoji": "‼",
+    "tags": ["bangbang", "double", "exclamation", "mark", "punctuation"]
+  },
+  {
+    "emoji": "👧",
+    "tags": [
+      "bangs",
+      "bright-eyed",
+      "daughter",
+      "girl",
+      "lady",
+      "pigtails",
+      "young"
+    ]
+  },
+  {
+    "emoji": "💹",
+    "tags": [
+      "bank",
+      "chart",
+      "increasing",
+      "with",
+      "yen",
+      "currency",
+      "graph",
+      "growth",
+      "market",
+      "money",
+      "rise",
+      "trend",
+      "upward"
+    ]
+  },
+  {
+    "emoji": "💸",
+    "tags": [
+      "bank",
+      "banknote",
+      "bill",
+      "billion",
+      "cash",
+      "dollar",
+      "fly",
+      "million",
+      "money",
+      "with",
+      "wings",
+      "note",
+      "pay"
+    ]
+  },
+  {
+    "emoji": "💷",
+    "tags": [
+      "bank",
+      "banknote",
+      "bill",
+      "billion",
+      "cash",
+      "currency",
+      "money",
+      "note",
+      "pound",
+      "pounds"
+    ]
+  },
+  {
+    "emoji": "🏦",
+    "tags": ["bank", "building"]
+  },
+  {
+    "emoji": "💳",
+    "tags": ["bank", "card", "cash", "charge", "it", "credit", "money", "pay"]
+  },
+  {
+    "emoji": "💴",
+    "tags": ["bank", "banknote", "bill", "currency", "money", "note", "yen"]
+  },
+  {
+    "emoji": "💵",
+    "tags": ["bank", "banknote", "bill", "currency", "dollar", "money", "note"]
+  },
+  {
+    "emoji": "💱",
+    "tags": ["bank", "currency", "exchange", "money"]
+  },
+  {
+    "emoji": "🍶",
+    "tags": ["bar", "bottle", "cup", "drink", "restaurant", "sake"]
+  },
+  {
+    "emoji": "🍾",
+    "tags": ["bar", "bottle", "with", "popping", "cork", "drink"]
+  },
+  {
+    "emoji": "🍫",
+    "tags": ["bar", "candy", "chocolate", "halloween", "sweet", "tooth"]
+  },
+  {
+    "emoji": "📊",
+    "tags": ["bar", "chart", "data", "graph"]
+  },
+  {
+    "emoji": "🧼",
+    "tags": [
+      "bar",
+      "bathing",
+      "clean",
+      "cleaning",
+      "lather",
+      "soap",
+      "soapdish"
+    ]
+  },
+  {
+    "emoji": "💈",
+    "tags": ["barber", "pole", "fresh", "cut", "haircut", "shave"]
+  },
+  {
+    "emoji": "💇",
+    "tags": [
+      "barber",
+      "beauty",
+      "hair",
+      "haircut",
+      "parlor",
+      "person",
+      "getting",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "💇‍♂",
+    "tags": ["barber", "beauty", "hair", "haircut", "man", "getting", "parlor"]
+  },
+  {
+    "emoji": "👣",
+    "tags": [
+      "barefoot",
+      "clothing",
+      "footprint",
+      "footprints",
+      "omw",
+      "print",
+      "walk"
+    ]
+  },
+  {
+    "emoji": "🍯",
+    "tags": [
+      "barrel",
+      "bear",
+      "food",
+      "honey",
+      "jar",
+      "pot",
+      "honeypot",
+      "pooh",
+      "sweet",
+      "winnie",
+      "the"
+    ]
+  },
+  {
+    "emoji": "🚧",
+    "tags": ["barrier", "construction"]
+  },
+  {
+    "emoji": "🚊",
+    "tags": ["bart", "tram", "trolleybus"]
+  },
+  {
+    "emoji": "🚉",
+    "tags": ["bart", "railway", "station", "train"]
+  },
+  {
+    "emoji": "🧢",
+    "tags": ["baseball", "cap", "bent", "hat", "billed", "dad"]
+  },
+  {
+    "emoji": "🧺",
+    "tags": ["basket", "farming", "laundry", "picnic"]
+  },
+  {
+    "emoji": "🛀",
+    "tags": ["bath", "bathtub", "person", "taking", "tub"]
+  },
+  {
+    "emoji": "🛁",
+    "tags": ["bath", "bathtub"]
+  },
+  {
+    "emoji": "👙",
+    "tags": ["bathing", "suit", "beach", "bikini", "clothing", "pool", "swim"]
+  },
+  {
+    "emoji": "🚽",
+    "tags": ["bathroom", "toilet"]
+  },
+  {
+    "emoji": "🦸",
+    "tags": [
+      "batman",
+      "good",
+      "hero",
+      "heroine",
+      "superhero",
+      "superman",
+      "superpower",
+      "superpowers"
+    ]
+  },
+  {
+    "emoji": "🦸‍♂",
+    "tags": [
+      "batman",
+      "good",
+      "guy",
+      "hero",
+      "man",
+      "superhero",
+      "superman",
+      "superpower",
+      "superpowers"
+    ]
+  },
+  {
+    "emoji": "🔋",
+    "tags": ["battery"]
+  },
+  {
+    "emoji": "🦸‍♀",
+    "tags": [
+      "batwoman",
+      "good",
+      "hero",
+      "heroine",
+      "superhero",
+      "superpower",
+      "superpowers",
+      "superwoman",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "😭",
+    "tags": [
+      "bawling",
+      "cry",
+      "crying",
+      "face",
+      "loudly",
+      "sad",
+      "sob",
+      "tear",
+      "tears",
+      "unhappy"
+    ]
+  },
+  {
+    "emoji": "🤫",
+    "tags": ["be", "quiet", "shh", "shush", "shushing", "face"]
+  },
+  {
+    "emoji": "🏖",
+    "tags": ["beach", "with", "umbrella"]
+  },
+  {
+    "emoji": "🏄",
+    "tags": [
+      "beach",
+      "man",
+      "surfing",
+      "ocean",
+      "person",
+      "sport",
+      "surfer",
+      "waves"
+    ]
+  },
+  {
+    "emoji": "🌴",
+    "tags": ["beach", "palm", "tree", "plant", "tropical"]
+  },
+  {
+    "emoji": "🌞",
+    "tags": [
+      "beach",
+      "bright",
+      "day",
+      "face",
+      "heat",
+      "shine",
+      "sun",
+      "with",
+      "sunny",
+      "sunshine",
+      "weather"
+    ]
+  },
+  {
+    "emoji": "🏄‍♀",
+    "tags": [
+      "beach",
+      "ocean",
+      "person",
+      "surfing",
+      "sport",
+      "surfer",
+      "waves",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🧿",
+    "tags": ["bead", "blue", "charm", "evil-eye", "nazar", "amulet", "talisman"]
+  },
+  {
+    "emoji": "📿",
+    "tags": ["beads", "clothing", "necklace", "prayer", "religion"]
+  },
+  {
+    "emoji": "🧸",
+    "tags": ["bear", "plaything", "plush", "stuffed", "teddy", "toy"]
+  },
+  {
+    "emoji": "🧔",
+    "tags": ["beard", "bearded", "person", "bewhiskered"]
+  },
+  {
+    "emoji": "🌹",
+    "tags": [
+      "beauty",
+      "elegant",
+      "flower",
+      "love",
+      "rose",
+      "plant",
+      "red",
+      "valentine"
+    ]
+  },
+  {
+    "emoji": "👄",
+    "tags": ["beauty", "body", "kiss", "kissing", "lips", "lipstick", "mouth"]
+  },
+  {
+    "emoji": "🛏",
+    "tags": ["bed", "hotel", "sleep"]
+  },
+  {
+    "emoji": "😴",
+    "tags": [
+      "bed",
+      "bedtime",
+      "face",
+      "good",
+      "night",
+      "nap",
+      "sleep",
+      "sleeping",
+      "tired",
+      "whatever",
+      "yawn",
+      "zzz"
+    ]
+  },
+  {
+    "emoji": "😕",
+    "tags": [
+      "befuddled",
+      "confused",
+      "face",
+      "confusing",
+      "dunno",
+      "frown",
+      "hm",
+      "i",
+      "meh",
+      "not",
+      "sure",
+      "sad",
+      "sorry"
+    ]
+  },
+  {
+    "emoji": "🥺",
+    "tags": [
+      "begging",
+      "big",
+      "eyes",
+      "face",
+      "mercy",
+      "pleading",
+      "please",
+      "pretty",
+      "puppy",
+      "sad",
+      "why",
+      "not"
+    ]
+  },
+  {
+    "emoji": "🛎",
+    "tags": ["bell", "bellhop", "hotel"]
+  },
+  {
+    "emoji": "🔕",
+    "tags": [
+      "bell",
+      "with",
+      "slash",
+      "forbidden",
+      "mute",
+      "no",
+      "not",
+      "prohibited",
+      "quiet",
+      "silent",
+      "sound"
+    ]
+  },
+  {
+    "emoji": "🔔",
+    "tags": ["bell", "break", "church", "sound"]
+  },
+  {
+    "emoji": "🎐",
+    "tags": ["bell", "chime", "wind"]
+  },
+  {
+    "emoji": "🦵",
+    "tags": ["bent", "leg", "foot", "kick", "knee", "limb"]
+  },
+  {
+    "emoji": "🍱",
+    "tags": ["bento", "box", "food"]
+  },
+  {
+    "emoji": "🍓",
+    "tags": ["berry", "fruit", "strawberry"]
+  },
+  {
+    "emoji": "☕",
+    "tags": [
+      "beverage",
+      "cafe",
+      "caffeine",
+      "coffee",
+      "drink",
+      "hot",
+      "hot\nbeverage",
+      "morning",
+      "starbucks",
+      "steaming",
+      "tea"
+    ]
+  },
+  {
+    "emoji": "🍵",
+    "tags": [
+      "beverage",
+      "cup",
+      "drink",
+      "oolong",
+      "tea",
+      "teacup",
+      "without",
+      "handle"
+    ]
+  },
+  {
+    "emoji": "💍",
+    "tags": [
+      "beyonce",
+      "diamond",
+      "engaged",
+      "engagement",
+      "married",
+      "ring",
+      "romance",
+      "shiny",
+      "sparkling",
+      "wedding"
+    ]
+  },
+  {
+    "emoji": "👥",
+    "tags": [
+      "bff",
+      "bust",
+      "busts",
+      "in",
+      "silhouette",
+      "everyone",
+      "friend",
+      "friends",
+      "people"
+    ]
+  },
+  {
+    "emoji": "👯",
+    "tags": [
+      "bff",
+      "bunny",
+      "ear",
+      "dancer",
+      "party",
+      "partying",
+      "twinsies",
+      "women"
+    ]
+  },
+  {
+    "emoji": "👯‍♂",
+    "tags": [
+      "bff",
+      "bunny",
+      "ear",
+      "dancer",
+      "men",
+      "party",
+      "partying",
+      "twinsies"
+    ]
+  },
+  {
+    "emoji": "🚴",
+    "tags": [
+      "bicycle",
+      "bicyclist",
+      "bike",
+      "biking",
+      "cyclist",
+      "man",
+      "person",
+      "riding",
+      "sport"
+    ]
+  },
+  {
+    "emoji": "🚵",
+    "tags": [
+      "bicycle",
+      "bicyclist",
+      "bike",
+      "cyclist",
+      "man",
+      "mountain",
+      "biking",
+      "person",
+      "riding",
+      "sport"
+    ]
+  },
+  {
+    "emoji": "🚳",
+    "tags": [
+      "bicycle",
+      "bike",
+      "forbidden",
+      "no",
+      "bicycles",
+      "not",
+      "prohibited"
+    ]
+  },
+  {
+    "emoji": "🚲",
+    "tags": [
+      "bicycle",
+      "bike",
+      "gang",
+      "cycle",
+      "cycling",
+      "cyclist",
+      "ride",
+      "spin",
+      "class",
+      "spinning"
+    ]
+  },
+  {
+    "emoji": "🚴‍♀",
+    "tags": [
+      "bicycle",
+      "bicyclist",
+      "bike",
+      "biking",
+      "cyclist",
+      "riding",
+      "sport",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🚵‍♀",
+    "tags": [
+      "bicycle",
+      "bicyclist",
+      "bike",
+      "cyclist",
+      "mountain",
+      "riding",
+      "sport",
+      "woman",
+      "biking"
+    ]
+  },
+  {
+    "emoji": "🔐",
+    "tags": ["bike", "lock", "closed", "key", "locked", "with", "secure"]
+  },
+  {
+    "emoji": "💲",
+    "tags": [
+      "billion",
+      "cash",
+      "charge",
+      "currency",
+      "dollar",
+      "heavy",
+      "sign",
+      "million",
+      "money",
+      "pay"
+    ]
+  },
+  {
+    "emoji": "🚤",
+    "tags": [
+      "billionaire",
+      "boat",
+      "lake",
+      "luxury",
+      "millionaire",
+      "speedboat",
+      "summer",
+      "travel"
+    ]
+  },
+  {
+    "emoji": "☣",
+    "tags": ["biohazard", "sign"]
+  },
+  {
+    "emoji": "👩‍🔬",
+    "tags": [
+      "biologist",
+      "chemist",
+      "engineer",
+      "mathematician",
+      "physicist",
+      "scientist",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👨‍🔬",
+    "tags": [
+      "biologist",
+      "chemist",
+      "engineer",
+      "man",
+      "mathematician",
+      "physicist",
+      "scientist"
+    ]
+  },
+  {
+    "emoji": "🧬",
+    "tags": ["biologist", "dna", "evolution", "gene", "genetics", "life"]
+  },
+  {
+    "emoji": "🕊",
+    "tags": ["bird", "dove", "fly", "peace"]
+  },
+  {
+    "emoji": "🎂",
+    "tags": ["birthday", "cake", "celebration", "dessert", "pastry", "sweet"]
+  },
+  {
+    "emoji": "🎁",
+    "tags": [
+      "birthday",
+      "bow",
+      "box",
+      "celebration",
+      "christmas",
+      "gift",
+      "present",
+      "surprise",
+      "wrapped"
+    ]
+  },
+  {
+    "emoji": "🥳",
+    "tags": [
+      "birthday",
+      "celebrate",
+      "celebration",
+      "excited",
+      "face",
+      "hat",
+      "hooray",
+      "horn",
+      "party",
+      "partying"
+    ]
+  },
+  {
+    "emoji": "👨‍👨‍👧‍👧",
+    "tags": [
+      "bisexual",
+      "family",
+      "gay",
+      "girl",
+      "glbt",
+      "glbtq",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "man",
+      "queer"
+    ]
+  },
+  {
+    "emoji": "👨‍👨‍👧‍👦",
+    "tags": [
+      "bisexual",
+      "boy",
+      "family",
+      "gay",
+      "girl",
+      "glbt",
+      "glbtq",
+      "lgbtq",
+      "lgbtqia",
+      "man",
+      "queer"
+    ]
+  },
+  {
+    "emoji": "👨‍👨‍👧",
+    "tags": [
+      "bisexual",
+      "family",
+      "gay",
+      "girl",
+      "glbt",
+      "glbtq",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "man"
+    ]
+  },
+  {
+    "emoji": "👨‍👨‍👦",
+    "tags": [
+      "bisexual",
+      "boy",
+      "family",
+      "gay",
+      "glbt",
+      "glbtq",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "man",
+      "queer"
+    ]
+  },
+  {
+    "emoji": "👨‍👨‍👦‍👦",
+    "tags": [
+      "bisexual",
+      "boy",
+      "family",
+      "gay",
+      "glbt",
+      "glbtq",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "man",
+      "queer"
+    ]
+  },
+  {
+    "emoji": "🌈",
+    "tags": [
+      "bisexual",
+      "gay",
+      "genderqueer",
+      "glbt",
+      "glbtq",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "nature",
+      "pride",
+      "queer",
+      "rainbow",
+      "trans",
+      "transgender",
+      "weather"
+    ]
+  },
+  {
+    "emoji": "👩‍👩‍👧",
+    "tags": [
+      "bisexual",
+      "family",
+      "gay",
+      "girl",
+      "glbt",
+      "glbtq",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "queer",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👩‍👩‍👦",
+    "tags": [
+      "bisexual",
+      "boy",
+      "family",
+      "gay",
+      "glbt",
+      "glbtq",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "queer",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🏳‍🌈",
+    "tags": [
+      "bisexual",
+      "gay",
+      "genderqueer",
+      "glbt",
+      "glbtq",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "queer",
+      "rainbow",
+      "trans",
+      "transgender"
+    ]
+  },
+  {
+    "emoji": "🦟",
+    "tags": [
+      "bite",
+      "disease",
+      "fever",
+      "insect",
+      "malaria",
+      "mosquito",
+      "virus"
+    ]
+  },
+  {
+    "emoji": "🖤",
+    "tags": ["black", "evil", "heart", "wicked"]
+  },
+  {
+    "emoji": "⚫",
+    "tags": ["black", "circle", "geometric"]
+  },
+  {
+    "emoji": "🏴",
+    "tags": ["black", "flag", "waving"]
+  },
+  {
+    "emoji": "⬛",
+    "tags": ["black", "large", "square", "geometric"]
+  },
+  {
+    "emoji": "◼",
+    "tags": ["black", "medium", "square", "geometric"]
+  },
+  {
+    "emoji": "◾",
+    "tags": ["black", "medium-small", "square", "geometric"]
+  },
+  {
+    "emoji": "✒",
+    "tags": ["black", "nib", "pen"]
+  },
+  {
+    "emoji": "▪",
+    "tags": ["black", "small", "square", "geometric"]
+  },
+  {
+    "emoji": "🔲",
+    "tags": ["black", "square", "button", "geometric"]
+  },
+  {
+    "emoji": "👱",
+    "tags": ["blond-haired", "person", "blonde", "dude", "flat", "top", "man"]
+  },
+  {
+    "emoji": "👩",
+    "tags": ["blonde", "blondie", "haircut", "lady", "woman"]
+  },
+  {
+    "emoji": "👱‍♀",
+    "tags": ["blonde", "woman"]
+  },
+  {
+    "emoji": "🧛‍♀",
+    "tags": ["blood", "fangs", "teeth", "undead", "vampire", "woman"]
+  },
+  {
+    "emoji": "🌷",
+    "tags": ["blossom", "flower", "growth", "plant", "tulip"]
+  },
+  {
+    "emoji": "🌸",
+    "tags": ["blossom", "cherry", "flower", "plant", "spring", "springtime"]
+  },
+  {
+    "emoji": "🌼",
+    "tags": ["blossom", "buttercup", "dandelion", "flower", "plant"]
+  },
+  {
+    "emoji": "👚",
+    "tags": [
+      "blouse",
+      "clothes",
+      "clothing",
+      "collar",
+      "dress",
+      "dressed",
+      "lady",
+      "shirt",
+      "shopping",
+      "woman",
+      "woman’s"
+    ]
+  },
+  {
+    "emoji": "🌬",
+    "tags": ["blow", "cloud", "face", "wind"]
+  },
+  {
+    "emoji": "🍃",
+    "tags": ["blow", "flutter", "leaf", "fluttering", "in", "wind"]
+  },
+  {
+    "emoji": "💿",
+    "tags": ["blu-ray", "cd", "computer", "disk", "dvd", "optical"]
+  },
+  {
+    "emoji": "📀",
+    "tags": ["blu-ray", "cd", "computer", "disk", "dvd", "optical"]
+  },
+  {
+    "emoji": "🔹",
+    "tags": ["blue", "diamond", "geometric", "small"]
+  },
+  {
+    "emoji": "🔷",
+    "tags": ["blue", "diamond", "geometric", "large"]
+  },
+  {
+    "emoji": "👕",
+    "tags": [
+      "blue",
+      "casual",
+      "clothes",
+      "clothing",
+      "collar",
+      "dressed",
+      "shirt",
+      "shopping",
+      "t-shirt",
+      "tshirt",
+      "weekend"
+    ]
+  },
+  {
+    "emoji": "📘",
+    "tags": ["blue", "book", "education", "fantasy", "library", "reading"]
+  },
+  {
+    "emoji": "👖",
+    "tags": [
+      "blue",
+      "casual",
+      "clothes",
+      "clothing",
+      "denim",
+      "dressed",
+      "jeans",
+      "pants",
+      "shopping",
+      "trousers",
+      "weekend"
+    ]
+  },
+  {
+    "emoji": "🔵",
+    "tags": ["blue", "circle", "geometric"]
+  },
+  {
+    "emoji": "😰",
+    "tags": [
+      "blue",
+      "cold",
+      "eek",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "sweat",
+      "nervous",
+      "rushed",
+      "scared",
+      "yikes"
+    ]
+  },
+  {
+    "emoji": "🥶",
+    "tags": [
+      "blue",
+      "blue-faced",
+      "cold",
+      "face",
+      "teeth",
+      "freezing",
+      "frostbite",
+      "icicles",
+      "subzero"
+    ]
+  },
+  {
+    "emoji": "😊",
+    "tags": [
+      "blush",
+      "eye",
+      "face",
+      "glad",
+      "satisfied",
+      "smile",
+      "smiling",
+      "with",
+      "eyes"
+    ]
+  },
+  {
+    "emoji": "🛹",
+    "tags": ["board", "skate", "skateboard", "skater", "wheels"]
+  },
+  {
+    "emoji": "♟",
+    "tags": [
+      "board",
+      "game",
+      "chess",
+      "pawn",
+      "dupe",
+      "expendable",
+      "red",
+      "shirt"
+    ]
+  },
+  {
+    "emoji": "🛥",
+    "tags": ["boat", "motor", "motorboat"]
+  },
+  {
+    "emoji": "🚣",
+    "tags": [
+      "boat",
+      "cruise",
+      "fishing",
+      "lake",
+      "man",
+      "rowing",
+      "person",
+      "river",
+      "row",
+      "rowboat"
+    ]
+  },
+  {
+    "emoji": "🚢",
+    "tags": ["boat", "passenger", "ship", "titanic", "travel"]
+  },
+  {
+    "emoji": "🛶",
+    "tags": ["boat", "canoe"]
+  },
+  {
+    "emoji": "⛴",
+    "tags": ["boat", "ferry", "passenger"]
+  },
+  {
+    "emoji": "⛵",
+    "tags": ["boat", "sailboat", "sailing", "yacht"]
+  },
+  {
+    "emoji": "🚣‍♀",
+    "tags": [
+      "boat",
+      "cruise",
+      "fishing",
+      "lake",
+      "river",
+      "row",
+      "rowboat",
+      "rowing",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👃",
+    "tags": ["body", "nose", "noses", "nosey", "odor", "smell", "smells"]
+  },
+  {
+    "emoji": "👅",
+    "tags": ["body", "lick", "slurp", "tongue"]
+  },
+  {
+    "emoji": "👀",
+    "tags": [
+      "body",
+      "eye",
+      "eyes",
+      "face",
+      "googley",
+      "look",
+      "looking",
+      "omg",
+      "peep",
+      "see",
+      "seeing"
+    ]
+  },
+  {
+    "emoji": "💀",
+    "tags": [
+      "body",
+      "dead",
+      "death",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "i'm",
+      "lmao",
+      "monster",
+      "skull",
+      "yolo"
+    ]
+  },
+  {
+    "emoji": "👂",
+    "tags": [
+      "body",
+      "ear",
+      "ears",
+      "hear",
+      "hearing",
+      "listen",
+      "listening",
+      "sound"
+    ]
+  },
+  {
+    "emoji": "🥬",
+    "tags": [
+      "bok",
+      "choy",
+      "burgers",
+      "cabbage",
+      "kale",
+      "leafy",
+      "green",
+      "lettuce",
+      "salad"
+    ]
+  },
+  {
+    "emoji": "🎥",
+    "tags": [
+      "bollywood",
+      "camera",
+      "cinema",
+      "film",
+      "hollywood",
+      "movie",
+      "record"
+    ]
+  },
+  {
+    "emoji": "🔩",
+    "tags": ["bolt", "home", "improvement", "nut", "and", "tool"]
+  },
+  {
+    "emoji": "💣",
+    "tags": ["bomb", "boom", "comic", "dangerous", "explosion", "hot"]
+  },
+  {
+    "emoji": "💥",
+    "tags": ["bomb", "boom", "collide", "collision", "comic", "explode"]
+  },
+  {
+    "emoji": "🍗",
+    "tags": [
+      "bone",
+      "chicken",
+      "drumstick",
+      "hungry",
+      "leg",
+      "poultry",
+      "turkey"
+    ]
+  },
+  {
+    "emoji": "🍖",
+    "tags": ["bone", "meat", "on"]
+  },
+  {
+    "emoji": "☠",
+    "tags": ["bone", "crossbones", "dead", "death", "monster", "skull", "and"]
+  },
+  {
+    "emoji": "🦴",
+    "tags": ["bone", "bones", "dog", "skeleton", "wishbone"]
+  },
+  {
+    "emoji": "👻",
+    "tags": [
+      "boo",
+      "creature",
+      "excited",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "ghost",
+      "ghostface",
+      "halloween",
+      "haunting",
+      "monster",
+      "scary",
+      "silly"
+    ]
+  },
+  {
+    "emoji": "📔",
+    "tags": [
+      "book",
+      "cover",
+      "decorated",
+      "education",
+      "notebook",
+      "with",
+      "decorative",
+      "school",
+      "writing"
+    ]
+  },
+  {
+    "emoji": "📕",
+    "tags": ["book", "closed", "education"]
+  },
+  {
+    "emoji": "📙",
+    "tags": ["book", "education", "fantasy", "library", "orange", "reading"]
+  },
+  {
+    "emoji": "📖",
+    "tags": [
+      "book",
+      "education",
+      "fantasy",
+      "knowledge",
+      "library",
+      "novels",
+      "open",
+      "reading"
+    ]
+  },
+  {
+    "emoji": "📗",
+    "tags": ["book", "education", "fantasy", "green", "library", "reading"]
+  },
+  {
+    "emoji": "📚",
+    "tags": [
+      "book",
+      "books",
+      "education",
+      "fantasy",
+      "knowledge",
+      "library",
+      "novels",
+      "reading",
+      "school",
+      "study"
+    ]
+  },
+  {
+    "emoji": "📑",
+    "tags": ["bookmark", "tabs", "mark", "marker"]
+  },
+  {
+    "emoji": "🔖",
+    "tags": ["bookmark", "mark"]
+  },
+  {
+    "emoji": "🎇",
+    "tags": ["boom", "celebration", "fireworks", "sparkle", "sparkler"]
+  },
+  {
+    "emoji": "🎆",
+    "tags": ["boom", "celebration", "entertainment", "fireworks", "yolo"]
+  },
+  {
+    "emoji": "👢",
+    "tags": [
+      "boot",
+      "clothes",
+      "clothing",
+      "dress",
+      "shoe",
+      "shoes",
+      "shopping",
+      "woman",
+      "woman’s"
+    ]
+  },
+  {
+    "emoji": "💅",
+    "tags": [
+      "bored",
+      "care",
+      "cosmetics",
+      "i'm",
+      "done",
+      "makeup",
+      "manicure",
+      "nail",
+      "polish",
+      "whatever"
+    ]
+  },
+  {
+    "emoji": "😏",
+    "tags": [
+      "boss",
+      "dapper",
+      "eyebrows",
+      "face",
+      "flirt",
+      "homie",
+      "kidding",
+      "leer",
+      "shade",
+      "slick",
+      "slide",
+      "sly",
+      "smirk",
+      "smirking",
+      "smug",
+      "snicker",
+      "suave",
+      "suspicious",
+      "swag",
+      "swagger",
+      "wink"
+    ]
+  },
+  {
+    "emoji": "🍜",
+    "tags": [
+      "bowl",
+      "chopsticks",
+      "food",
+      "noodle",
+      "pho",
+      "ramen",
+      "soup",
+      "steaming"
+    ]
+  },
+  {
+    "emoji": "🥣",
+    "tags": [
+      "bowl",
+      "with",
+      "spoon",
+      "breakfast",
+      "cereal",
+      "congee",
+      "oatmeal",
+      "porridge"
+    ]
+  },
+  {
+    "emoji": "📤",
+    "tags": ["box", "email", "letter", "mail", "outbox", "tray", "sent"]
+  },
+  {
+    "emoji": "📥",
+    "tags": [
+      "box",
+      "email",
+      "inbox",
+      "tray",
+      "zero",
+      "letter",
+      "mail",
+      "receive"
+    ]
+  },
+  {
+    "emoji": "📦",
+    "tags": [
+      "box",
+      "communication",
+      "delivery",
+      "package",
+      "parcel",
+      "shipping"
+    ]
+  },
+  {
+    "emoji": "🗃",
+    "tags": ["box", "card", "file"]
+  },
+  {
+    "emoji": "🧰",
+    "tags": ["box", "chest", "mechanic", "red", "tool", "toolbox"]
+  },
+  {
+    "emoji": "🥊",
+    "tags": ["boxing", "glove"]
+  },
+  {
+    "emoji": "👨‍👩‍👦‍👦",
+    "tags": ["boy", "family", "man", "woman"]
+  },
+  {
+    "emoji": "👨",
+    "tags": ["boy", "boyfriend", "bro", "friend", "man"]
+  },
+  {
+    "emoji": "👩‍👩‍👧‍👦",
+    "tags": ["boy", "family", "girl", "woman"]
+  },
+  {
+    "emoji": "👩‍👩‍👦‍👦",
+    "tags": ["boy", "family", "woman"]
+  },
+  {
+    "emoji": "👦",
+    "tags": ["boy", "kid", "young"]
+  },
+  {
+    "emoji": "👩‍👦",
+    "tags": ["boy", "family", "woman"]
+  },
+  {
+    "emoji": "👨‍👧‍👦",
+    "tags": ["boy", "family", "girl", "man"]
+  },
+  {
+    "emoji": "👨‍👦",
+    "tags": ["boy", "family", "man"]
+  },
+  {
+    "emoji": "👩‍👧‍👦",
+    "tags": ["boy", "family", "girl", "woman"]
+  },
+  {
+    "emoji": "👩‍👦‍👦",
+    "tags": ["boy", "family", "woman"]
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👦",
+    "tags": ["boy", "family", "girl", "man", "woman"]
+  },
+  {
+    "emoji": "👨‍👦‍👦",
+    "tags": ["boy", "family", "man"]
+  },
+  {
+    "emoji": "🦕",
+    "tags": [
+      "brachiosaurus",
+      "brontosaurus",
+      "dinosaur",
+      "diplodocus",
+      "sauropod"
+    ]
+  },
+  {
+    "emoji": "🧠",
+    "tags": ["brain", "intelligent", "smart"]
+  },
+  {
+    "emoji": "🥐",
+    "tags": ["bread", "crescent", "roll", "croissant", "food", "french"]
+  },
+  {
+    "emoji": "🍞",
+    "tags": [
+      "bread",
+      "carbs",
+      "food",
+      "grain",
+      "loaf",
+      "restaurant",
+      "toast",
+      "wheat"
+    ]
+  },
+  {
+    "emoji": "🥪",
+    "tags": ["bread", "sandwich"]
+  },
+  {
+    "emoji": "💔",
+    "tags": [
+      "break",
+      "broken",
+      "heart",
+      "crushed",
+      "emotion",
+      "heartbroken",
+      "lonely",
+      "sad"
+    ]
+  },
+  {
+    "emoji": "🍴",
+    "tags": [
+      "breakfast",
+      "breaky",
+      "cooking",
+      "dinner",
+      "eat",
+      "feed",
+      "food",
+      "fork",
+      "and",
+      "knife",
+      "hungry",
+      "lunch",
+      "restaurant"
+    ]
+  },
+  {
+    "emoji": "🍳",
+    "tags": [
+      "breakfast",
+      "cooking",
+      "egg",
+      "fry",
+      "frying",
+      "over",
+      "easy",
+      "pan",
+      "restaurant",
+      "sunny",
+      "side",
+      "up"
+    ]
+  },
+  {
+    "emoji": "🧱",
+    "tags": ["brick", "bricks", "clay", "mortar", "wall"]
+  },
+  {
+    "emoji": "👰",
+    "tags": ["bride", "with", "veil", "wedding"]
+  },
+  {
+    "emoji": "🌉",
+    "tags": ["bridge", "at", "night"]
+  },
+  {
+    "emoji": "💼",
+    "tags": ["briefcase", "office"]
+  },
+  {
+    "emoji": "☀",
+    "tags": ["bright", "rays", "space", "sun", "sunny", "weather"]
+  },
+  {
+    "emoji": "🌝",
+    "tags": ["bright", "face", "full", "moon", "with"]
+  },
+  {
+    "emoji": "🔆",
+    "tags": ["bright", "button", "brightness", "light"]
+  },
+  {
+    "emoji": "🔅",
+    "tags": ["brightness", "dim", "button", "low"]
+  },
+  {
+    "emoji": "🥦",
+    "tags": ["broccoli", "wild", "cabbage"]
+  },
+  {
+    "emoji": "🥉",
+    "tags": ["bronze", "medal", "third"]
+  },
+  {
+    "emoji": "🧹",
+    "tags": ["broom", "cleaning", "sweeping", "witch"]
+  },
+  {
+    "emoji": "👞",
+    "tags": [
+      "brown",
+      "clothes",
+      "clothing",
+      "feet",
+      "foot",
+      "kick",
+      "man",
+      "man’s",
+      "shoe",
+      "shoes",
+      "shopping"
+    ]
+  },
+  {
+    "emoji": "🧥",
+    "tags": ["brr", "bundle", "up", "coat", "cold", "jacket"]
+  },
+  {
+    "emoji": "💩",
+    "tags": [
+      "bs",
+      "comic",
+      "doo",
+      "dung",
+      "face",
+      "fml",
+      "monster",
+      "pile",
+      "poo",
+      "poop",
+      "smelly",
+      "smh",
+      "stink",
+      "stinks",
+      "stinky",
+      "turd"
+    ]
+  },
+  {
+    "emoji": "💂",
+    "tags": ["buckingham", "palace", "guard", "guardsman", "helmet", "london"]
+  },
+  {
+    "emoji": "💂‍♀",
+    "tags": ["buckingham", "palace", "guard", "helmet", "london", "woman"]
+  },
+  {
+    "emoji": "🏢",
+    "tags": ["building", "city", "cubical", "job", "office"]
+  },
+  {
+    "emoji": "🏡",
+    "tags": [
+      "building",
+      "country",
+      "home",
+      "garden",
+      "house",
+      "with",
+      "ranch",
+      "settle",
+      "down",
+      "simple",
+      "suburban",
+      "suburbia",
+      "where",
+      "the",
+      "heart",
+      "is"
+    ]
+  },
+  {
+    "emoji": "🏠",
+    "tags": [
+      "building",
+      "country",
+      "home",
+      "house",
+      "ranch",
+      "settle",
+      "down",
+      "simple",
+      "suburban",
+      "suburbia",
+      "where",
+      "the",
+      "heart",
+      "is"
+    ]
+  },
+  {
+    "emoji": "🏥",
+    "tags": ["building", "doctor", "hospital", "medicine"]
+  },
+  {
+    "emoji": "🏩",
+    "tags": ["building", "hotel", "love"]
+  },
+  {
+    "emoji": "🏨",
+    "tags": ["building", "hotel"]
+  },
+  {
+    "emoji": "🏭",
+    "tags": ["building", "factory"]
+  },
+  {
+    "emoji": "🏬",
+    "tags": ["building", "department", "store"]
+  },
+  {
+    "emoji": "🏫",
+    "tags": ["building", "school"]
+  },
+  {
+    "emoji": "🌇",
+    "tags": ["building", "dusk", "sun", "sunset"]
+  },
+  {
+    "emoji": "🌆",
+    "tags": ["building", "city", "dusk", "evening", "sun", "sunset"]
+  },
+  {
+    "emoji": "🏗",
+    "tags": ["building", "construction", "crane"]
+  },
+  {
+    "emoji": "💡",
+    "tags": ["bulb", "comic", "electric", "idea", "light"]
+  },
+  {
+    "emoji": "🎯",
+    "tags": [
+      "bull",
+      "bullseye",
+      "dart",
+      "direct",
+      "hit",
+      "entertainment",
+      "game",
+      "target"
+    ]
+  },
+  {
+    "emoji": "🧣",
+    "tags": ["bundle", "up", "cold", "neck", "scarf"]
+  },
+  {
+    "emoji": "🍔",
+    "tags": ["burger", "eat", "fast", "food", "hamburger", "hungry"]
+  },
+  {
+    "emoji": "🔥",
+    "tags": ["burn", "fire", "flame", "hot", "lit", "af", "litaf", "tool"]
+  },
+  {
+    "emoji": "🌯",
+    "tags": ["burrito", "mexican", "wrap"]
+  },
+  {
+    "emoji": "🚏",
+    "tags": ["bus", "stop", "busstop"]
+  },
+  {
+    "emoji": "🚎",
+    "tags": ["bus", "tram", "trolley", "trolleybus"]
+  },
+  {
+    "emoji": "🚌",
+    "tags": ["bus", "school", "vehicle"]
+  },
+  {
+    "emoji": "🚍",
+    "tags": ["bus", "cars", "oncoming"]
+  },
+  {
+    "emoji": "🚋",
+    "tags": ["bus", "car", "tram", "trolley", "trolleybus"]
+  },
+  {
+    "emoji": "🚐",
+    "tags": ["bus", "drive", "minibus", "van", "vehicle"]
+  },
+  {
+    "emoji": "🕴",
+    "tags": ["business", "man", "in", "suit", "levitating"]
+  },
+  {
+    "emoji": "👤",
+    "tags": ["bust", "in", "silhouette", "mysterious", "shadow"]
+  },
+  {
+    "emoji": "🦋",
+    "tags": ["butterfly", "insect", "pretty"]
+  },
+  {
+    "emoji": "🔘",
+    "tags": ["button", "geometric", "radio"]
+  },
+  {
+    "emoji": "🔳",
+    "tags": ["button", "geometric", "outlined", "square", "white"]
+  },
+  {
+    "emoji": "👋",
+    "tags": [
+      "bye",
+      "cya",
+      "felicia",
+      "g2g",
+      "gtg",
+      "hand",
+      "hey",
+      "hi",
+      "later",
+      "outtie",
+      "ttfn",
+      "ttyl",
+      "u",
+      "there?",
+      "wave",
+      "waving",
+      "yo"
+    ]
+  },
+  {
+    "emoji": "🚕",
+    "tags": [
+      "cab",
+      "cabbie",
+      "car",
+      "drive",
+      "taxi",
+      "uber",
+      "vehicle",
+      "yellow"
+    ]
+  },
+  {
+    "emoji": "🚖",
+    "tags": [
+      "cab",
+      "cabbie",
+      "cars",
+      "drove",
+      "hail",
+      "a",
+      "oncoming",
+      "taxi",
+      "uber",
+      "yellow"
+    ]
+  },
+  {
+    "emoji": "🗄",
+    "tags": ["cabinet", "file", "filing"]
+  },
+  {
+    "emoji": "🚠",
+    "tags": ["cable", "gondola", "mountain", "cableway", "ski", "lift"]
+  },
+  {
+    "emoji": "🚂",
+    "tags": [
+      "caboose",
+      "engine",
+      "locomotive",
+      "railway",
+      "steam",
+      "train",
+      "trains",
+      "travel"
+    ]
+  },
+  {
+    "emoji": "🌵",
+    "tags": ["cactus", "desert", "drought", "nature", "plant"]
+  },
+  {
+    "emoji": "🍥",
+    "tags": ["cake", "fish", "with", "swirl", "food", "pastry", "restaurant"]
+  },
+  {
+    "emoji": "🍰",
+    "tags": ["cake", "dessert", "pastry", "shortcake", "slice", "sweet"]
+  },
+  {
+    "emoji": "🗓",
+    "tags": ["calendar", "pad", "spiral"]
+  },
+  {
+    "emoji": "📅",
+    "tags": ["calendar", "date"]
+  },
+  {
+    "emoji": "📆",
+    "tags": ["calendar", "tear-off"]
+  },
+  {
+    "emoji": "🤙",
+    "tags": ["call", "hand"]
+  },
+  {
+    "emoji": "😌",
+    "tags": ["calm", "face", "peace", "relief", "relieved", "zen"]
+  },
+  {
+    "emoji": "📹",
+    "tags": ["camcorder", "camera", "tbt", "video"]
+  },
+  {
+    "emoji": "📸",
+    "tags": ["camera", "with", "flash", "video"]
+  },
+  {
+    "emoji": "📷",
+    "tags": [
+      "camera",
+      "instagram",
+      "photo",
+      "selfie",
+      "snap",
+      "tbt",
+      "trip",
+      "video"
+    ]
+  },
+  {
+    "emoji": "🎦",
+    "tags": ["camera", "cinema", "film", "movie"]
+  },
+  {
+    "emoji": "🤳",
+    "tags": ["camera", "phone", "selfie"]
+  },
+  {
+    "emoji": "⛺",
+    "tags": ["camping", "tent"]
+  },
+  {
+    "emoji": "🏕",
+    "tags": ["camping"]
+  },
+  {
+    "emoji": "🥫",
+    "tags": ["can", "canned", "food"]
+  },
+  {
+    "emoji": "🕎",
+    "tags": [
+      "candelabrum",
+      "candlestick",
+      "hanukkah",
+      "jewish",
+      "judaism",
+      "menorah",
+      "religion"
+    ]
+  },
+  {
+    "emoji": "🕯",
+    "tags": ["candle", "light"]
+  },
+  {
+    "emoji": "🍭",
+    "tags": [
+      "candy",
+      "confectionary",
+      "dessert",
+      "food",
+      "lollipop",
+      "restaurant",
+      "sweet",
+      "willy",
+      "wonka"
+    ]
+  },
+  {
+    "emoji": "🍬",
+    "tags": [
+      "candy",
+      "cavities",
+      "dessert",
+      "halloween",
+      "restaurant",
+      "sweet",
+      "tooth",
+      "wrapper"
+    ]
+  },
+  {
+    "emoji": "🍈",
+    "tags": ["cantaloupe", "fruit", "melon"]
+  },
+  {
+    "emoji": "🎓",
+    "tags": ["cap", "clothing", "education", "graduation", "hat", "scholar"]
+  },
+  {
+    "emoji": "🏎",
+    "tags": ["car", "racing", "zoom"]
+  },
+  {
+    "emoji": "🚔",
+    "tags": ["car", "oncoming", "police"]
+  },
+  {
+    "emoji": "🚚",
+    "tags": ["car", "delivery", "truck", "drive", "vehicle"]
+  },
+  {
+    "emoji": "🚃",
+    "tags": [
+      "car",
+      "electric",
+      "railway",
+      "train",
+      "tram",
+      "travel",
+      "trolleybus"
+    ]
+  },
+  {
+    "emoji": "🚙",
+    "tags": [
+      "car",
+      "drive",
+      "recreational",
+      "sport",
+      "utility",
+      "vehicle",
+      "sportutility"
+    ]
+  },
+  {
+    "emoji": "🚞",
+    "tags": ["car", "mountain", "railway", "trip"]
+  },
+  {
+    "emoji": "🃏",
+    "tags": ["card", "game", "joker", "wildcard"]
+  },
+  {
+    "emoji": "♥",
+    "tags": ["card", "emotion", "game", "heart", "suit", "hearts"]
+  },
+  {
+    "emoji": "♣",
+    "tags": ["card", "club", "suit", "clubs", "game"]
+  },
+  {
+    "emoji": "♠",
+    "tags": ["card", "game", "spade", "suit"]
+  },
+  {
+    "emoji": "🗂",
+    "tags": ["card", "index", "dividers"]
+  },
+  {
+    "emoji": "📇",
+    "tags": ["card", "index", "old", "school", "rolodex"]
+  },
+  {
+    "emoji": "♦",
+    "tags": ["card", "diamond", "suit", "game"]
+  },
+  {
+    "emoji": "🎠",
+    "tags": ["carousel", "horse", "entertainment"]
+  },
+  {
+    "emoji": "🎏",
+    "tags": ["carp", "streamer"]
+  },
+  {
+    "emoji": "🥕",
+    "tags": ["carrot", "food", "vegetable"]
+  },
+  {
+    "emoji": "🛒",
+    "tags": ["cart", "shopping", "trolley"]
+  },
+  {
+    "emoji": "🤸‍♀",
+    "tags": ["cartwheel", "gymnastics", "woman"]
+  },
+  {
+    "emoji": "🤸‍♂",
+    "tags": ["cartwheel", "gymnastics", "man"]
+  },
+  {
+    "emoji": "🎰",
+    "tags": ["casino", "gamble", "gambling", "game", "slot", "machine", "slots"]
+  },
+  {
+    "emoji": "🥘",
+    "tags": ["casserole", "food", "paella", "pan", "shallow"]
+  },
+  {
+    "emoji": "😦",
+    "tags": [
+      "caught",
+      "off",
+      "guard",
+      "face",
+      "frown",
+      "frowning",
+      "with",
+      "open",
+      "mouth",
+      "scared",
+      "scary",
+      "suprise",
+      "what",
+      "wow"
+    ]
+  },
+  {
+    "emoji": "⚠",
+    "tags": ["caution", "warning"]
+  },
+  {
+    "emoji": "🥂",
+    "tags": ["celebrate", "clink", "drink", "glass"]
+  },
+  {
+    "emoji": "🙌",
+    "tags": [
+      "celebration",
+      "gesture",
+      "hand",
+      "hooray",
+      "praise",
+      "raised",
+      "raising",
+      "hands"
+    ]
+  },
+  {
+    "emoji": "🎑",
+    "tags": ["celebration", "ceremony", "moon", "viewing"]
+  },
+  {
+    "emoji": "🎗",
+    "tags": ["celebration", "reminder", "ribbon"]
+  },
+  {
+    "emoji": "🎀",
+    "tags": ["celebration", "ribbon"]
+  },
+  {
+    "emoji": "📳",
+    "tags": [
+      "cell",
+      "communication",
+      "mobile",
+      "mode",
+      "phone",
+      "telephone",
+      "vibration"
+    ]
+  },
+  {
+    "emoji": "📴",
+    "tags": ["cell", "mobile", "phone", "off", "telephone"]
+  },
+  {
+    "emoji": "📵",
+    "tags": [
+      "cell",
+      "forbidden",
+      "mobile",
+      "no",
+      "phones",
+      "not",
+      "phone",
+      "prohibited",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "📱",
+    "tags": ["cell", "communication", "mobile", "phone", "telephone"]
+  },
+  {
+    "emoji": "🤬",
+    "tags": [
+      "censor",
+      "cursing",
+      "cussing",
+      "face",
+      "with",
+      "symbols",
+      "on",
+      "mouth",
+      "mad",
+      "pissed",
+      "swearing"
+    ]
+  },
+  {
+    "emoji": "⛓",
+    "tags": ["chain", "chains"]
+  },
+  {
+    "emoji": "💺",
+    "tags": ["chair", "seat"]
+  },
+  {
+    "emoji": "🏆",
+    "tags": [
+      "champion",
+      "champs",
+      "prize",
+      "slay",
+      "sport",
+      "trophy",
+      "victory",
+      "win",
+      "winning"
+    ]
+  },
+  {
+    "emoji": "💒",
+    "tags": ["chapel", "hitched", "nuptuals", "romance", "wedding"]
+  },
+  {
+    "emoji": "📈",
+    "tags": [
+      "chart",
+      "increasing",
+      "data",
+      "graph",
+      "growth",
+      "trend",
+      "up",
+      "and",
+      "to",
+      "the",
+      "right",
+      "upward"
+    ]
+  },
+  {
+    "emoji": "📉",
+    "tags": [
+      "chart",
+      "decreasing",
+      "data",
+      "down",
+      "downward",
+      "graph",
+      "negative",
+      "trend"
+    ]
+  },
+  {
+    "emoji": "✅",
+    "tags": [
+      "check",
+      "checked",
+      "checkmark",
+      "complete",
+      "completed",
+      "done",
+      "fixed",
+      "tick"
+    ]
+  },
+  {
+    "emoji": "✔",
+    "tags": ["check", "checked", "checkmark", "done", "heavy", "mark", "tick"]
+  },
+  {
+    "emoji": "🏁",
+    "tags": [
+      "checkered",
+      "chequered",
+      "flag",
+      "finish",
+      "flags",
+      "game",
+      "nascar",
+      "race",
+      "racing",
+      "sport",
+      "win"
+    ]
+  },
+  {
+    "emoji": "😀",
+    "tags": [
+      "cheerful",
+      "cheery",
+      "face",
+      "grin",
+      "grinning",
+      "happy",
+      "laugh",
+      "nice",
+      "smile",
+      "smiling",
+      "teeth"
+    ]
+  },
+  {
+    "emoji": "📣",
+    "tags": ["cheering", "megaphone", "sound"]
+  },
+  {
+    "emoji": "🍕",
+    "tags": ["cheese", "food", "hungry", "pepperoni", "pizza", "slice"]
+  },
+  {
+    "emoji": "🧀",
+    "tags": ["cheese", "wedge"]
+  },
+  {
+    "emoji": "🔪",
+    "tags": ["chef", "cooking", "hocho", "kitchen", "knife", "tool", "weapon"]
+  },
+  {
+    "emoji": "👩‍🍳",
+    "tags": ["chef", "cook", "woman"]
+  },
+  {
+    "emoji": "👨‍🍳",
+    "tags": ["chef", "cook", "man"]
+  },
+  {
+    "emoji": "🧪",
+    "tags": [
+      "chemist",
+      "chemistry",
+      "experiment",
+      "lab",
+      "science",
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "emoji": "🍒",
+    "tags": ["cherries", "cherry", "fruit"]
+  },
+  {
+    "emoji": "🚸",
+    "tags": ["child", "children", "crossing", "pedestrian", "traffic"]
+  },
+  {
+    "emoji": "👪",
+    "tags": ["child", "family"]
+  },
+  {
+    "emoji": "🧒",
+    "tags": ["child", "gender-neutral", "kid", "young"]
+  },
+  {
+    "emoji": "🤔",
+    "tags": [
+      "chin",
+      "consider",
+      "face",
+      "hmm",
+      "ponder",
+      "pondering",
+      "thinking",
+      "wondering"
+    ]
+  },
+  {
+    "emoji": "🐿",
+    "tags": ["chipmunk"]
+  },
+  {
+    "emoji": "🍪",
+    "tags": ["chocolate", "chip", "cookie", "dessert", "sweet"]
+  },
+  {
+    "emoji": "🥩",
+    "tags": ["chop", "cut", "meat", "lambchop", "porkchop", "red", "steak"]
+  },
+  {
+    "emoji": "🥡",
+    "tags": [
+      "chopsticks",
+      "food",
+      "delivery",
+      "oyster",
+      "pail",
+      "takeout",
+      "box"
+    ]
+  },
+  {
+    "emoji": "🥢",
+    "tags": ["chopsticks", "hashi", "jeotgarak", "kuaizi"]
+  },
+  {
+    "emoji": "🌲",
+    "tags": ["christmas", "tree", "evergreen", "forest", "pine"]
+  },
+  {
+    "emoji": "🚬",
+    "tags": ["cigarette", "smoking"]
+  },
+  {
+    "emoji": "📽",
+    "tags": ["cinema", "film", "projector", "movie", "video"]
+  },
+  {
+    "emoji": "🎞",
+    "tags": ["cinema", "film", "frames", "movie"]
+  },
+  {
+    "emoji": "ⓜ",
+    "tags": ["circle", "circled", "m"]
+  },
+  {
+    "emoji": "⭕",
+    "tags": ["circle", "heavy", "large", "o"]
+  },
+  {
+    "emoji": "⏺",
+    "tags": ["circle", "record", "button"]
+  },
+  {
+    "emoji": "⚪",
+    "tags": ["circle", "geometric", "white"]
+  },
+  {
+    "emoji": "🔴",
+    "tags": ["circle", "geometric", "red"]
+  },
+  {
+    "emoji": "🎪",
+    "tags": ["circus", "tent"]
+  },
+  {
+    "emoji": "🍋",
+    "tags": ["citrus", "fruit", "lemon", "sour"]
+  },
+  {
+    "emoji": "🍊",
+    "tags": [
+      "citrus",
+      "fruit",
+      "nectarine",
+      "orange",
+      "tangerine",
+      "vitamin",
+      "c"
+    ]
+  },
+  {
+    "emoji": "🏙",
+    "tags": ["city", "cityscape"]
+  },
+  {
+    "emoji": "🗜",
+    "tags": ["clamp", "compress", "tool", "vice"]
+  },
+  {
+    "emoji": "🏛",
+    "tags": ["classical", "building"]
+  },
+  {
+    "emoji": "🧐",
+    "tags": [
+      "classy",
+      "face",
+      "with",
+      "monocle",
+      "fancy",
+      "rich",
+      "stuffy",
+      "wealthy"
+    ]
+  },
+  {
+    "emoji": "✊",
+    "tags": ["clenched", "fist", "hand", "raised", "solidarity"]
+  },
+  {
+    "emoji": "🧗‍♂",
+    "tags": ["climber", "climbing", "man", "mountain", "rock"]
+  },
+  {
+    "emoji": "🧗‍♀",
+    "tags": ["climber", "climbing", "mountain", "rock", "woman"]
+  },
+  {
+    "emoji": "📋",
+    "tags": ["clipboard", "notes", "to", "do", "list"]
+  },
+  {
+    "emoji": "⌚",
+    "tags": ["clock", "time", "watch"]
+  },
+  {
+    "emoji": "⏲",
+    "tags": ["clock", "timer"]
+  },
+  {
+    "emoji": "⏱",
+    "tags": ["clock", "stopwatch", "time"]
+  },
+  {
+    "emoji": "🕰",
+    "tags": ["clock", "mantelpiece", "time"]
+  },
+  {
+    "emoji": "📪",
+    "tags": ["closed", "mailbox", "with", "lowered", "flag", "mail", "postbox"]
+  },
+  {
+    "emoji": "🔒",
+    "tags": ["closed", "lock", "locked", "private"]
+  },
+  {
+    "emoji": "📫",
+    "tags": [
+      "closed",
+      "mailbox",
+      "with",
+      "raised",
+      "flag",
+      "communication",
+      "mail",
+      "postbox"
+    ]
+  },
+  {
+    "emoji": "🌂",
+    "tags": ["closed", "umbrella", "rain"]
+  },
+  {
+    "emoji": "🚾",
+    "tags": ["closet", "lavatory", "restroom", "water", "wc"]
+  },
+  {
+    "emoji": "👠",
+    "tags": [
+      "clothes",
+      "clothing",
+      "dress",
+      "fashion",
+      "heel",
+      "heels",
+      "high-heeled",
+      "shoe",
+      "shoes",
+      "shopping",
+      "stilletto",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👒",
+    "tags": [
+      "clothes",
+      "clothing",
+      "garden",
+      "party",
+      "hat",
+      "hats",
+      "woman",
+      "woman’s"
+    ]
+  },
+  {
+    "emoji": "👗",
+    "tags": ["clothes", "clothing", "dress", "dressed", "fancy", "shopping"]
+  },
+  {
+    "emoji": "👛",
+    "tags": [
+      "clothes",
+      "clothing",
+      "coin",
+      "dress",
+      "fancy",
+      "handbag",
+      "purse",
+      "shopping"
+    ]
+  },
+  {
+    "emoji": "🥼",
+    "tags": [
+      "clothes",
+      "doctor",
+      "dr",
+      "experiment",
+      "jacket",
+      "lab",
+      "coat",
+      "scientist",
+      "white"
+    ]
+  },
+  {
+    "emoji": "👓",
+    "tags": ["clothing", "eye", "eyeglasses", "eyewear", "glasses"]
+  },
+  {
+    "emoji": "👔",
+    "tags": ["clothing", "employed", "necktie", "serious", "shirt"]
+  },
+  {
+    "emoji": "👑",
+    "tags": [
+      "clothing",
+      "crown",
+      "game",
+      "thrones",
+      "king",
+      "lebron",
+      "medieval",
+      "queen",
+      "royal",
+      "family",
+      "royalty",
+      "win"
+    ]
+  },
+  {
+    "emoji": "👘",
+    "tags": ["clothing", "comfortable", "kimono"]
+  },
+  {
+    "emoji": "⛅",
+    "tags": ["cloud", "cloudy", "sun", "weather"]
+  },
+  {
+    "emoji": "🌥",
+    "tags": ["cloud", "sun", "behind", "large", "weather"]
+  },
+  {
+    "emoji": "🌤",
+    "tags": ["cloud", "sun", "behind", "small", "weather"]
+  },
+  {
+    "emoji": "☁",
+    "tags": ["cloud", "weather"]
+  },
+  {
+    "emoji": "💨",
+    "tags": [
+      "cloud",
+      "comic",
+      "dash",
+      "dashing",
+      "away",
+      "fart",
+      "fast",
+      "gone",
+      "gotta",
+      "go",
+      "running",
+      "smoke"
+    ]
+  },
+  {
+    "emoji": "🌧",
+    "tags": ["cloud", "with", "rain", "weather"]
+  },
+  {
+    "emoji": "🌦",
+    "tags": ["cloud", "rain", "sun", "behind", "weather"]
+  },
+  {
+    "emoji": "⛈",
+    "tags": [
+      "cloud",
+      "with",
+      "lightning",
+      "and",
+      "rain",
+      "thunder",
+      "thunderstorm"
+    ]
+  },
+  {
+    "emoji": "🌪",
+    "tags": ["cloud", "tornado", "weather", "whirlwind"]
+  },
+  {
+    "emoji": "🌩",
+    "tags": ["cloud", "with", "lightning", "weather"]
+  },
+  {
+    "emoji": "🌨",
+    "tags": ["cloud", "with", "snow", "cold", "weather"]
+  },
+  {
+    "emoji": "🌫",
+    "tags": ["cloud", "fog", "weather"]
+  },
+  {
+    "emoji": "🤡",
+    "tags": ["clown", "face"]
+  },
+  {
+    "emoji": "🗝",
+    "tags": ["clue", "key", "lock", "old"]
+  },
+  {
+    "emoji": "🧩",
+    "tags": ["clue", "interlocking", "jigsaw", "piece", "puzzle"]
+  },
+  {
+    "emoji": "🥥",
+    "tags": ["coconut", "palm", "piña", "colada"]
+  },
+  {
+    "emoji": "👩‍💻",
+    "tags": [
+      "coder",
+      "computer",
+      "developer",
+      "inventor",
+      "software",
+      "technologist",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👨‍💻",
+    "tags": [
+      "coder",
+      "computer",
+      "developer",
+      "inventor",
+      "man",
+      "software",
+      "technologist"
+    ]
+  },
+  {
+    "emoji": "⚰",
+    "tags": ["coffin", "dead", "death", "vampire"]
+  },
+  {
+    "emoji": "🍍",
+    "tags": ["colada", "fruit", "pina", "pineapple", "tropical"]
+  },
+  {
+    "emoji": "🤨",
+    "tags": [
+      "colbert",
+      "emoji",
+      "disapproval",
+      "disbelief",
+      "distrust",
+      "face",
+      "with",
+      "raised",
+      "eyebrow",
+      "hmm",
+      "mild\nsurprise",
+      "scepticism",
+      "skeptic",
+      "skeptical",
+      "surprise",
+      "what"
+    ]
+  },
+  {
+    "emoji": "⛄",
+    "tags": ["cold", "snow", "snowman", "without"]
+  },
+  {
+    "emoji": "❄",
+    "tags": ["cold", "snow", "snowflake", "weather"]
+  },
+  {
+    "emoji": "☃",
+    "tags": ["cold", "snow", "snowman"]
+  },
+  {
+    "emoji": "😷",
+    "tags": [
+      "cold",
+      "dentist",
+      "dermatologist",
+      "doctor",
+      "dr",
+      "face",
+      "with",
+      "medical",
+      "mask",
+      "germs",
+      "medicine",
+      "sick"
+    ]
+  },
+  {
+    "emoji": "😓",
+    "tags": [
+      "cold",
+      "face",
+      "with",
+      "sweat",
+      "feels",
+      "headache",
+      "nervous",
+      "sad",
+      "scared",
+      "that",
+      "was",
+      "close",
+      "yikes"
+    ]
+  },
+  {
+    "emoji": "💧",
+    "tags": [
+      "cold",
+      "comic",
+      "drop",
+      "droplet",
+      "nature",
+      "sad",
+      "sweat",
+      "tear",
+      "water",
+      "weather"
+    ]
+  },
+  {
+    "emoji": "😅",
+    "tags": [
+      "cold",
+      "dejected",
+      "excited",
+      "face",
+      "nervous",
+      "open",
+      "smile",
+      "smiling",
+      "with",
+      "mouth",
+      "sweat",
+      "stress",
+      "stressed"
+    ]
+  },
+  {
+    "emoji": "🏔",
+    "tags": ["cold", "mountain", "snow", "snow-capped"]
+  },
+  {
+    "emoji": "📌",
+    "tags": ["collage", "pin", "pushpin"]
+  },
+  {
+    "emoji": "☄",
+    "tags": ["comet", "space"]
+  },
+  {
+    "emoji": "💤",
+    "tags": [
+      "comic",
+      "sleep",
+      "sleeping",
+      "sleepy",
+      "tired",
+      "zz",
+      "zzz",
+      "zzzz"
+    ]
+  },
+  {
+    "emoji": "💠",
+    "tags": ["comic", "diamond", "with", "a", "dot", "geometric", "inside"]
+  },
+  {
+    "emoji": "💦",
+    "tags": [
+      "comic",
+      "drip",
+      "droplet",
+      "droplets",
+      "drops",
+      "splashing",
+      "squirt",
+      "sweat",
+      "water",
+      "wet",
+      "work",
+      "out",
+      "workout"
+    ]
+  },
+  {
+    "emoji": "💫",
+    "tags": ["comic", "dizzy", "shining", "shooting", "star", "stars"]
+  },
+  {
+    "emoji": "🏃",
+    "tags": [
+      "coming",
+      "fast",
+      "hurry",
+      "man",
+      "running",
+      "marathon",
+      "person",
+      "quick",
+      "runner",
+      "rush",
+      "speed"
+    ]
+  },
+  {
+    "emoji": "🏃‍♀",
+    "tags": [
+      "coming",
+      "fast",
+      "hurry",
+      "marathon",
+      "quick",
+      "runner",
+      "running",
+      "rush",
+      "speed",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "📠",
+    "tags": ["communication", "fax", "machine"]
+  },
+  {
+    "emoji": "📢",
+    "tags": [
+      "communication",
+      "loud",
+      "loudspeaker",
+      "public",
+      "address",
+      "publicaddress",
+      "sound"
+    ]
+  },
+  {
+    "emoji": "📞",
+    "tags": ["communication", "phone", "receiver", "telephone", "voip"]
+  },
+  {
+    "emoji": "📟",
+    "tags": ["communication", "pager"]
+  },
+  {
+    "emoji": "📰",
+    "tags": ["communication", "news", "newspaper", "paper"]
+  },
+  {
+    "emoji": "📝",
+    "tags": ["communication", "media", "memo", "notes", "pencil"]
+  },
+  {
+    "emoji": "🧭",
+    "tags": ["compass", "direction", "magnetic", "navigation", "orienteering"]
+  },
+  {
+    "emoji": "🖥",
+    "tags": ["computer", "desktop", "monitor"]
+  },
+  {
+    "emoji": "🖨",
+    "tags": ["computer", "printer"]
+  },
+  {
+    "emoji": "💾",
+    "tags": ["computer", "disk", "floppy"]
+  },
+  {
+    "emoji": "💻",
+    "tags": ["computer", "laptop", "office", "pc", "personal"]
+  },
+  {
+    "emoji": "💽",
+    "tags": ["computer", "disk", "minidisk", "optical"]
+  },
+  {
+    "emoji": "🖱",
+    "tags": ["computer", "mouse"]
+  },
+  {
+    "emoji": "🖲",
+    "tags": ["computer", "trackball"]
+  },
+  {
+    "emoji": "⌨",
+    "tags": ["computer", "keyboard"]
+  },
+  {
+    "emoji": "😣",
+    "tags": [
+      "concentrate",
+      "concentration",
+      "face",
+      "focus",
+      "headache",
+      "persevere",
+      "persevering"
+    ]
+  },
+  {
+    "emoji": "🧂",
+    "tags": [
+      "condiment",
+      "flavor",
+      "mad",
+      "salt",
+      "salty",
+      "shaker",
+      "taste",
+      "upset"
+    ]
+  },
+  {
+    "emoji": "👷",
+    "tags": [
+      "construction",
+      "worker",
+      "hardhat",
+      "hat",
+      "helmet",
+      "man",
+      "work"
+    ]
+  },
+  {
+    "emoji": "🚩",
+    "tags": ["construction", "flag", "golf", "post", "triangular"]
+  },
+  {
+    "emoji": "👷‍♀",
+    "tags": [
+      "construction",
+      "worker",
+      "hardhat",
+      "hat",
+      "helmet",
+      "woman",
+      "work"
+    ]
+  },
+  {
+    "emoji": "🔎",
+    "tags": [
+      "contact",
+      "glass",
+      "lab",
+      "magnifying",
+      "right-pointing",
+      "science",
+      "search",
+      "tool"
+    ]
+  },
+  {
+    "emoji": "🔭",
+    "tags": ["contact", "e.t.", "science", "telescope", "tool"]
+  },
+  {
+    "emoji": "🛂",
+    "tags": ["control", "passport"]
+  },
+  {
+    "emoji": "🎛",
+    "tags": ["control", "knobs", "music"]
+  },
+  {
+    "emoji": "🎮",
+    "tags": [
+      "controller",
+      "entertainment",
+      "game",
+      "playstation",
+      "video",
+      "xbox"
+    ]
+  },
+  {
+    "emoji": "🥨",
+    "tags": ["convoluted", "pretzel", "twisted"]
+  },
+  {
+    "emoji": "🍚",
+    "tags": ["cooked", "rice", "food"]
+  },
+  {
+    "emoji": "🍽",
+    "tags": [
+      "cooking",
+      "dinner",
+      "eat",
+      "fork",
+      "and",
+      "knife",
+      "with",
+      "plate"
+    ]
+  },
+  {
+    "emoji": "👮",
+    "tags": ["cop", "man", "officer", "police", "policeman"]
+  },
+  {
+    "emoji": "👮‍♀",
+    "tags": ["cop", "officer", "police", "woman"]
+  },
+  {
+    "emoji": "🚁",
+    "tags": ["copter", "helicopter", "roflcopter", "travel", "vehicle"]
+  },
+  {
+    "emoji": "©",
+    "tags": ["copyright"]
+  },
+  {
+    "emoji": "🌽",
+    "tags": ["corn", "crops", "ear", "farm", "maize", "maze"]
+  },
+  {
+    "emoji": "💄",
+    "tags": ["cosmetics", "date", "lipstick", "makeup"]
+  },
+  {
+    "emoji": "😫",
+    "tags": ["cost", "face", "feels", "nap", "sad", "sneeze", "tired"]
+  },
+  {
+    "emoji": "🛋",
+    "tags": ["couch", "and", "lamp", "hotel"]
+  },
+  {
+    "emoji": "🤠",
+    "tags": ["cowboy", "cowgirl", "face", "hat"]
+  },
+  {
+    "emoji": "🔓",
+    "tags": ["cracked", "lock", "open", "unlock", "unlocked"]
+  },
+  {
+    "emoji": "🍘",
+    "tags": ["cracker", "food", "rice"]
+  },
+  {
+    "emoji": "🖍",
+    "tags": ["crayon"]
+  },
+  {
+    "emoji": "😜",
+    "tags": [
+      "crazy",
+      "epic",
+      "eye",
+      "face",
+      "with",
+      "stuck-out",
+      "tongue",
+      "winking",
+      "fun",
+      "funny",
+      "joke",
+      "loopy",
+      "nutty",
+      "party",
+      "wacky",
+      "weirdo",
+      "wink",
+      "yolo"
+    ]
+  },
+  {
+    "emoji": "🤪",
+    "tags": ["crazy", "eyes", "face", "eye", "large", "small"]
+  },
+  {
+    "emoji": "🍦",
+    "tags": [
+      "cream",
+      "dessert",
+      "food",
+      "ice",
+      "restaurant",
+      "soft",
+      "serve",
+      "sweet"
+    ]
+  },
+  {
+    "emoji": "🍨",
+    "tags": ["cream", "dessert", "food", "ice", "restaurant", "sweet"]
+  },
+  {
+    "emoji": "🌒",
+    "tags": ["crescent", "dreams", "moon", "space", "waxing"]
+  },
+  {
+    "emoji": "🌙",
+    "tags": ["crescent", "moon", "ramadan", "space"]
+  },
+  {
+    "emoji": "🌘",
+    "tags": ["crescent", "moon", "space", "waning"]
+  },
+  {
+    "emoji": "🤞",
+    "tags": ["cross", "finger", "fingers", "crossed", "hand", "luck"]
+  },
+  {
+    "emoji": "🧘‍♂",
+    "tags": [
+      "cross",
+      "legged",
+      "legs",
+      "crossed",
+      "man",
+      "in",
+      "lotus",
+      "position",
+      "meditation",
+      "relax",
+      "yoga",
+      "yogi"
+    ]
+  },
+  {
+    "emoji": "🧘‍♀",
+    "tags": [
+      "cross",
+      "legged",
+      "legs",
+      "crossed",
+      "meditation",
+      "relax",
+      "woman",
+      "in",
+      "lotus",
+      "position",
+      "yoga",
+      "yogi"
+    ]
+  },
+  {
+    "emoji": "❎",
+    "tags": ["cross", "mark", "button", "multiplication", "multiply", "x"]
+  },
+  {
+    "emoji": "⚔",
+    "tags": ["crossed", "swords", "weapon"]
+  },
+  {
+    "emoji": "👸",
+    "tags": [
+      "crown",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "princess",
+      "queen"
+    ]
+  },
+  {
+    "emoji": "😪",
+    "tags": ["crying", "face", "sad", "sleep", "sleeping", "sleepy", "tired"]
+  },
+  {
+    "emoji": "😩",
+    "tags": [
+      "crying",
+      "face",
+      "fail",
+      "feels",
+      "hungry",
+      "mad",
+      "nooo",
+      "sad",
+      "sleepy",
+      "tired",
+      "unhappy",
+      "weary"
+    ]
+  },
+  {
+    "emoji": "😂",
+    "tags": [
+      "crying",
+      "laughing",
+      "face",
+      "with",
+      "tears",
+      "joy",
+      "feels",
+      "funny",
+      "haha",
+      "happy",
+      "hehe",
+      "hilarious",
+      "laugh",
+      "laughter",
+      "lmao",
+      "lmfao",
+      "lol",
+      "lolol",
+      "lololol",
+      "rofl",
+      "roflmao",
+      "tear"
+    ]
+  },
+  {
+    "emoji": "🤣",
+    "tags": [
+      "crying\nlaughing",
+      "crying",
+      "laughing",
+      "face",
+      "floor",
+      "funny",
+      "haha",
+      "happy",
+      "hehe",
+      "hilarious",
+      "joy",
+      "laugh",
+      "laughter",
+      "lmao",
+      "lmfao",
+      "lol",
+      "lolol",
+      "lololol",
+      "rofl",
+      "roflmao",
+      "rolling",
+      "tear",
+      "tears"
+    ]
+  },
+  {
+    "emoji": "🥞",
+    "tags": ["crêpe", "food", "hotcake", "pancake"]
+  },
+  {
+    "emoji": "🥒",
+    "tags": ["cucumber", "food", "pickle", "vegetable"]
+  },
+  {
+    "emoji": "🥤",
+    "tags": [
+      "cup",
+      "with",
+      "straw",
+      "juice",
+      "malt",
+      "soda",
+      "soft",
+      "drink",
+      "water"
+    ]
+  },
+  {
+    "emoji": "🤲",
+    "tags": [
+      "cupped",
+      "hands",
+      "dua",
+      "palms",
+      "up",
+      "together",
+      "pray",
+      "prayer",
+      "wish"
+    ]
+  },
+  {
+    "emoji": "➰",
+    "tags": ["curl", "curly", "loop"]
+  },
+  {
+    "emoji": "📃",
+    "tags": ["curl", "document", "page", "with"]
+  },
+  {
+    "emoji": "➿",
+    "tags": ["curl", "double", "curly", "loop"]
+  },
+  {
+    "emoji": "🥌",
+    "tags": ["curling", "stone", "game", "rock"]
+  },
+  {
+    "emoji": "🍛",
+    "tags": ["curry", "rice", "food"]
+  },
+  {
+    "emoji": "🍮",
+    "tags": ["custard", "dessert", "pudding", "sweet"]
+  },
+  {
+    "emoji": "🛃",
+    "tags": ["customs", "packing"]
+  },
+  {
+    "emoji": "✂",
+    "tags": ["cut", "cutting", "paper", "scissors", "tool"]
+  },
+  {
+    "emoji": "🌀",
+    "tags": ["cyclone", "dizzy", "twister", "typhoon", "weather"]
+  },
+  {
+    "emoji": "🗡",
+    "tags": ["dagger", "knife", "weapon"]
+  },
+  {
+    "emoji": "🕺",
+    "tags": [
+      "dance",
+      "dancer",
+      "dancing",
+      "elegant",
+      "festive",
+      "flair",
+      "flamenco",
+      "groove",
+      "let's",
+      "man",
+      "salsa",
+      "tango",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "💃",
+    "tags": [
+      "dance",
+      "dancer",
+      "dancing",
+      "elegant",
+      "festive",
+      "flair",
+      "flamenco",
+      "groove",
+      "let's",
+      "salsa",
+      "tango",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "⚡",
+    "tags": [
+      "danger",
+      "electric",
+      "electricity",
+      "high",
+      "voltage",
+      "lightning",
+      "messenger",
+      "nature",
+      "thunder",
+      "thunderbolt",
+      "zap"
+    ]
+  },
+  {
+    "emoji": "🕶",
+    "tags": ["dark", "eye", "eyewear", "glasses", "sunglasses"]
+  },
+  {
+    "emoji": "🌑",
+    "tags": ["dark", "moon", "new", "space"]
+  },
+  {
+    "emoji": "〰",
+    "tags": ["dash", "punctuation", "wavy"]
+  },
+  {
+    "emoji": "💋",
+    "tags": [
+      "dating",
+      "emotion",
+      "heart",
+      "kiss",
+      "mark",
+      "kissing",
+      "lips",
+      "romance",
+      "sexy"
+    ]
+  },
+  {
+    "emoji": "😵",
+    "tags": ["dead", "dizzy", "face", "feels", "sick", "tired"]
+  },
+  {
+    "emoji": "🌳",
+    "tags": ["deciduous", "tree", "forest", "green", "habitat", "shedding"]
+  },
+  {
+    "emoji": "😋",
+    "tags": [
+      "delicious",
+      "eat",
+      "face",
+      "savouring",
+      "food",
+      "full",
+      "hungry",
+      "savour",
+      "smile",
+      "smiling",
+      "tasty",
+      "um",
+      "yum",
+      "yummy"
+    ]
+  },
+  {
+    "emoji": "📨",
+    "tags": [
+      "delivering",
+      "e-mail",
+      "email",
+      "envelope",
+      "incoming",
+      "letter",
+      "mail",
+      "receive",
+      "sent"
+    ]
+  },
+  {
+    "emoji": "🦷",
+    "tags": ["dentist", "pearly", "teeth", "tooth", "white"]
+  },
+  {
+    "emoji": "🏚",
+    "tags": ["derelict", "house", "home"]
+  },
+  {
+    "emoji": "🏝",
+    "tags": ["desert", "island"]
+  },
+  {
+    "emoji": "🏜",
+    "tags": ["desert"]
+  },
+  {
+    "emoji": "🍧",
+    "tags": ["dessert", "ice", "restaurant", "shaved", "sweet"]
+  },
+  {
+    "emoji": "🍩",
+    "tags": ["dessert", "donut", "doughnut", "food", "sweet"]
+  },
+  {
+    "emoji": "🕵",
+    "tags": ["detective", "man", "sleuth", "spy"]
+  },
+  {
+    "emoji": "🕵‍♀",
+    "tags": ["detective"]
+  },
+  {
+    "emoji": "🗨",
+    "tags": ["dialog", "left", "speech", "bubble"]
+  },
+  {
+    "emoji": "🔸",
+    "tags": ["diamond", "geometric", "orange", "small"]
+  },
+  {
+    "emoji": "💎",
+    "tags": [
+      "diamond",
+      "engagement",
+      "gem",
+      "stone",
+      "jewel",
+      "money",
+      "romance",
+      "wedding"
+    ]
+  },
+  {
+    "emoji": "🔶",
+    "tags": ["diamond", "geometric", "large", "orange"]
+  },
+  {
+    "emoji": "🎲",
+    "tags": ["dice", "die", "entertainment", "game"]
+  },
+  {
+    "emoji": "☯",
+    "tags": [
+      "difficult",
+      "lives",
+      "neither",
+      "religion",
+      "tao",
+      "taoist",
+      "total",
+      "yang",
+      "yin",
+      "yinyang"
+    ]
+  },
+  {
+    "emoji": "🍇",
+    "tags": ["dionyses", "fruit", "grape", "grapes"]
+  },
+  {
+    "emoji": "🤦‍♂",
+    "tags": ["disbelief", "exasperation", "facepalm", "man", "smh"]
+  },
+  {
+    "emoji": "🤦‍♀",
+    "tags": ["disbelief", "exasperation", "facepalm", "smh", "woman"]
+  },
+  {
+    "emoji": "🥏",
+    "tags": ["disc", "flying", "frisbee", "ultimate"]
+  },
+  {
+    "emoji": "🙍",
+    "tags": [
+      "disgruntled",
+      "frown",
+      "gesture",
+      "person",
+      "frowning",
+      "upset",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🙍‍♂",
+    "tags": ["disgruntled", "frown", "gesture", "man", "frowning", "upset"]
+  },
+  {
+    "emoji": "💁",
+    "tags": [
+      "diva",
+      "fetch",
+      "gossip",
+      "hair",
+      "flick",
+      "flip",
+      "hand",
+      "help",
+      "information",
+      "person",
+      "tipping",
+      "sarcasm",
+      "sarcastic",
+      "sassy",
+      "whatever",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "💁‍♂",
+    "tags": [
+      "diva",
+      "fetch",
+      "gossip",
+      "hair",
+      "flick",
+      "flip",
+      "hand",
+      "help",
+      "information",
+      "man",
+      "tipping",
+      "sarcasm",
+      "sarcastic",
+      "sassy",
+      "whatever"
+    ]
+  },
+  {
+    "emoji": "🥽",
+    "tags": [
+      "dive",
+      "eye",
+      "protection",
+      "goggles",
+      "scuba",
+      "swimming",
+      "welding"
+    ]
+  },
+  {
+    "emoji": "➗",
+    "tags": ["division", "heavy", "sign", "math"]
+  },
+  {
+    "emoji": "🥴",
+    "tags": [
+      "dizzy",
+      "drunk",
+      "intoxicated",
+      "tipsy",
+      "uneven",
+      "eyes",
+      "wavy",
+      "mouth",
+      "woozy",
+      "face"
+    ]
+  },
+  {
+    "emoji": "🧞‍♀",
+    "tags": ["djinn", "genie", "jinn", "woman"]
+  },
+  {
+    "emoji": "🧞‍♂",
+    "tags": ["djinn", "genie", "jinn", "man"]
+  },
+  {
+    "emoji": "⛔",
+    "tags": [
+      "do",
+      "not",
+      "pass",
+      "fail",
+      "forbidden",
+      "no",
+      "entry",
+      "prohibited",
+      "traffic"
+    ]
+  },
+  {
+    "emoji": "💉",
+    "tags": [
+      "doctor",
+      "flu",
+      "shot",
+      "medicine",
+      "needle",
+      "sick",
+      "syringe",
+      "tool",
+      "vaccination",
+      "vaccinatoins"
+    ]
+  },
+  {
+    "emoji": "💊",
+    "tags": [
+      "doctor",
+      "drugs",
+      "medicated",
+      "medicine",
+      "pill",
+      "pills",
+      "sick",
+      "vitamin"
+    ]
+  },
+  {
+    "emoji": "👩‍⚕",
+    "tags": ["doctor", "healthcare", "nurse", "therapist", "woman"]
+  },
+  {
+    "emoji": "👨‍⚕",
+    "tags": ["doctor", "healthcare", "man", "nurse", "therapist"]
+  },
+  {
+    "emoji": "📄",
+    "tags": ["document", "page", "facing", "up"]
+  },
+  {
+    "emoji": "🔯",
+    "tags": ["dotted", "six-pointed", "star", "fortune", "jewish", "judaism"]
+  },
+  {
+    "emoji": "⏸",
+    "tags": ["double", "pause", "button"]
+  },
+  {
+    "emoji": "🤷‍♂",
+    "tags": [
+      "doubt",
+      "dunno",
+      "i",
+      "idk",
+      "ignorance",
+      "indifference",
+      "man",
+      "shrug"
+    ]
+  },
+  {
+    "emoji": "🤷‍♀",
+    "tags": [
+      "doubt",
+      "dunno",
+      "i",
+      "idk",
+      "ignorance",
+      "indifference",
+      "shrug",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🔻",
+    "tags": ["down", "geometric", "red", "triangle", "pointed"]
+  },
+  {
+    "emoji": "🌜",
+    "tags": ["dreams", "face", "last", "quarter", "moon", "with"]
+  },
+  {
+    "emoji": "🥛",
+    "tags": ["drink", "glass", "milk"]
+  },
+  {
+    "emoji": "🚰",
+    "tags": ["drinking", "potable", "water"]
+  },
+  {
+    "emoji": "🤤",
+    "tags": ["drooling", "face"]
+  },
+  {
+    "emoji": "☔",
+    "tags": ["drop", "rain", "umbrella", "with", "drops", "weather"]
+  },
+  {
+    "emoji": "🚦",
+    "tags": [
+      "drove",
+      "intersection",
+      "light",
+      "signal",
+      "stop",
+      "stoplight",
+      "traffic",
+      "vertical"
+    ]
+  },
+  {
+    "emoji": "🛢",
+    "tags": ["drum", "oil"]
+  },
+  {
+    "emoji": "🥁",
+    "tags": ["drum", "drumsticks", "music"]
+  },
+  {
+    "emoji": "🚱",
+    "tags": ["dry", "non-drinking", "non-potable", "water", "prohibited"]
+  },
+  {
+    "emoji": "🥟",
+    "tags": ["dumpling", "empanada", "gyōza", "jiaozi", "pierogi", "potsticker"]
+  },
+  {
+    "emoji": "🤓",
+    "tags": ["dweeb", "face", "geek", "nerd"]
+  },
+  {
+    "emoji": "🥀",
+    "tags": ["dying", "flower", "wilted"]
+  },
+  {
+    "emoji": "🥵",
+    "tags": [
+      "dying",
+      "face",
+      "feverish",
+      "heat",
+      "stroke",
+      "hot",
+      "panting",
+      "red-faced",
+      "sweating",
+      "tongue",
+      "out"
+    ]
+  },
+  {
+    "emoji": "🧨",
+    "tags": [
+      "dynamite",
+      "explosive",
+      "fire",
+      "firecracker",
+      "fireworks",
+      "light",
+      "pop",
+      "popping",
+      "spark"
+    ]
+  },
+  {
+    "emoji": "✉",
+    "tags": ["e-mail", "email", "envelope", "letter"]
+  },
+  {
+    "emoji": "📧",
+    "tags": ["e-mail", "email", "letter", "mail"]
+  },
+  {
+    "emoji": "🎧",
+    "tags": ["earbud", "headphone", "sound"]
+  },
+  {
+    "emoji": "🌐",
+    "tags": [
+      "earth",
+      "globe",
+      "with",
+      "meridians",
+      "internet",
+      "world",
+      "worldwide",
+      "web"
+    ]
+  },
+  {
+    "emoji": "🥄",
+    "tags": ["eat", "spoon", "tableware"]
+  },
+  {
+    "emoji": "🥚",
+    "tags": ["egg", "food"]
+  },
+  {
+    "emoji": "✴",
+    "tags": ["eight-pointed", "star"]
+  },
+  {
+    "emoji": "🔌",
+    "tags": ["electric", "plug", "electricity"]
+  },
+  {
+    "emoji": "🔦",
+    "tags": ["electric", "flashlight", "light", "tool", "torch"]
+  },
+  {
+    "emoji": "👩‍🔧",
+    "tags": ["electrician", "mechanic", "plumber", "tradesperson", "woman"]
+  },
+  {
+    "emoji": "👨‍🔧",
+    "tags": ["electrician", "man", "mechanic", "plumber", "tradesperson"]
+  },
+  {
+    "emoji": "🧝‍♂",
+    "tags": ["elf", "magical", "man"]
+  },
+  {
+    "emoji": "❤",
+    "tags": ["emotion", "heart", "love", "red"]
+  },
+  {
+    "emoji": "🚒",
+    "tags": ["engine", "fire", "truck"]
+  },
+  {
+    "emoji": "🇽🇪",
+    "tags": ["england", "flag"]
+  },
+  {
+    "emoji": "🎣",
+    "tags": ["entertainment", "fish", "fishing", "pole", "sport"]
+  },
+  {
+    "emoji": "📻",
+    "tags": ["entertainment", "radio", "tbt", "video"]
+  },
+  {
+    "emoji": "🚫",
+    "tags": ["entry", "forbidden", "no", "not", "prohibited", "smoke"]
+  },
+  {
+    "emoji": "😯",
+    "tags": [
+      "epic",
+      "face",
+      "hushed",
+      "omg",
+      "stunned",
+      "surprised",
+      "whoa",
+      "woah"
+    ]
+  },
+  {
+    "emoji": "😱",
+    "tags": [
+      "epic",
+      "face",
+      "screaming",
+      "in",
+      "fear",
+      "fearful",
+      "munch",
+      "scared",
+      "scream",
+      "screamer",
+      "shocked",
+      "surprised",
+      "woah"
+    ]
+  },
+  {
+    "emoji": "🌋",
+    "tags": ["eruption", "mountain", "nature", "volcano"]
+  },
+  {
+    "emoji": "😈",
+    "tags": [
+      "evil",
+      "face",
+      "fairy",
+      "tale",
+      "fairytale",
+      "fantasy",
+      "horns",
+      "shade",
+      "smile",
+      "smiling",
+      "with"
+    ]
+  },
+  {
+    "emoji": "🤩",
+    "tags": [
+      "excited",
+      "eyes",
+      "face",
+      "grinning",
+      "smile",
+      "star",
+      "star-struck",
+      "starry-eyed",
+      "wow"
+    ]
+  },
+  {
+    "emoji": "⁉",
+    "tags": ["exclamation", "question", "mark", "interrobang", "punctuation"]
+  },
+  {
+    "emoji": "❣",
+    "tags": ["exclamation", "heavy", "heart", "mark", "punctuation"]
+  },
+  {
+    "emoji": "🔬",
+    "tags": ["experiment", "lab", "microscope", "science", "tool"]
+  },
+  {
+    "emoji": "🤯",
+    "tags": [
+      "explode",
+      "exploding",
+      "head",
+      "mind",
+      "blown",
+      "mindblown",
+      "no",
+      "way",
+      "shocked"
+    ]
+  },
+  {
+    "emoji": "🧯",
+    "tags": ["extinguish", "fire", "extinguisher", "quench"]
+  },
+  {
+    "emoji": "😄",
+    "tags": [
+      "eye",
+      "face",
+      "grin",
+      "happy",
+      "laugh",
+      "lol",
+      "mouth",
+      "open",
+      "smile",
+      "smiling",
+      "with",
+      "eyes"
+    ]
+  },
+  {
+    "emoji": "😁",
+    "tags": [
+      "eye",
+      "face",
+      "grin",
+      "grinning",
+      "with",
+      "smiling",
+      "eyes",
+      "happy",
+      "nice",
+      "smile",
+      "teeth"
+    ]
+  },
+  {
+    "emoji": "😝",
+    "tags": [
+      "eye",
+      "face",
+      "with",
+      "stuck-out",
+      "tongue",
+      "closed",
+      "eyes",
+      "gross",
+      "horrible",
+      "omg",
+      "taste",
+      "whatever",
+      "yolo"
+    ]
+  },
+  {
+    "emoji": "👁‍🗨",
+    "tags": ["eye", "speech", "bubble", "witness"]
+  },
+  {
+    "emoji": "🙄",
+    "tags": ["eyeroll", "eyes", "face", "with", "rolling", "shade", "whatever"]
+  },
+  {
+    "emoji": "🤑",
+    "tags": ["face", "money", "money-mouth", "mouth", "paid"]
+  },
+  {
+    "emoji": "🤐",
+    "tags": [
+      "face",
+      "keep",
+      "my",
+      "mouth",
+      "shut",
+      "not",
+      "telling",
+      "quiet",
+      "secret",
+      "zipper",
+      "zipper-mouth"
+    ]
+  },
+  {
+    "emoji": "🗣",
+    "tags": ["face", "head", "silhouette", "speak", "speaking"]
+  },
+  {
+    "emoji": "🤒",
+    "tags": ["face", "with", "thermometer", "ill", "sick"]
+  },
+  {
+    "emoji": "🤧",
+    "tags": ["face", "fever", "flu", "gesundheit", "sick", "sneeze"]
+  },
+  {
+    "emoji": "🤢",
+    "tags": ["face", "gross", "nasty", "nauseated", "sick", "vomit"]
+  },
+  {
+    "emoji": "🗿",
+    "tags": ["face", "moai", "moyai", "statue", "stoneface", "travel"]
+  },
+  {
+    "emoji": "🤥",
+    "tags": ["face", "liar", "lie", "pinocchio"]
+  },
+  {
+    "emoji": "☺",
+    "tags": ["face", "happy", "outlined", "relaxed", "smile", "smiling"]
+  },
+  {
+    "emoji": "🙃",
+    "tags": ["face", "hehe", "smile", "upside-down"]
+  },
+  {
+    "emoji": "😮",
+    "tags": [
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "forgot",
+      "i",
+      "dont",
+      "believe",
+      "you",
+      "omg",
+      "shocked",
+      "surprised",
+      "sympathy",
+      "unbelievable",
+      "unreal",
+      "whoa",
+      "woah",
+      "wow"
+    ]
+  },
+  {
+    "emoji": "☹",
+    "tags": ["face", "frown", "frowning", "sad"]
+  },
+  {
+    "emoji": "🌚",
+    "tags": ["face", "moon", "new", "space"]
+  },
+  {
+    "emoji": "🙂",
+    "tags": ["face", "happy", "slightly", "smiling", "smile"]
+  },
+  {
+    "emoji": "🙁",
+    "tags": ["face", "frown", "sad", "slightly", "frowning"]
+  },
+  {
+    "emoji": "🤖",
+    "tags": ["face", "monster", "robot"]
+  },
+  {
+    "emoji": "😉",
+    "tags": [
+      "face",
+      "flirt",
+      "heartbreaker",
+      "sexy",
+      "slide",
+      "tease",
+      "wink",
+      "winking",
+      "winks"
+    ]
+  },
+  {
+    "emoji": "🤗",
+    "tags": ["face", "hands", "hug", "hugging"]
+  },
+  {
+    "emoji": "🌛",
+    "tags": ["face", "first", "quarter", "moon", "with", "space"]
+  },
+  {
+    "emoji": "💆",
+    "tags": [
+      "face",
+      "headache",
+      "massage",
+      "person",
+      "getting",
+      "relax",
+      "relaxing",
+      "salon",
+      "soothe",
+      "tension",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "😆",
+    "tags": [
+      "face",
+      "haha",
+      "happy",
+      "laugh",
+      "lol",
+      "mouth",
+      "open",
+      "rofl",
+      "satisfied",
+      "smile",
+      "smiling",
+      "with",
+      "closed",
+      "eyes"
+    ]
+  },
+  {
+    "emoji": "🦄",
+    "tags": ["face", "unicorn"]
+  },
+  {
+    "emoji": "💆‍♂",
+    "tags": [
+      "face",
+      "headache",
+      "man",
+      "getting",
+      "massage",
+      "relax",
+      "relaxing",
+      "salon",
+      "soothe",
+      "tension"
+    ]
+  },
+  {
+    "emoji": "🤮",
+    "tags": [
+      "face",
+      "vomiting",
+      "gross",
+      "puke",
+      "sick",
+      "spew",
+      "throw",
+      "up",
+      "vomit"
+    ]
+  },
+  {
+    "emoji": "🤭",
+    "tags": [
+      "face",
+      "with",
+      "hand",
+      "over",
+      "mouth",
+      "giggle",
+      "giggling",
+      "oops",
+      "secret",
+      "shock",
+      "sudden",
+      "realization",
+      "surprise",
+      "whoops"
+    ]
+  },
+  {
+    "emoji": "🥙",
+    "tags": ["falafel", "flatbread", "food", "gyro", "kebab", "stuffed"]
+  },
+  {
+    "emoji": "🌠",
+    "tags": ["falling", "night", "shooting", "star", "space"]
+  },
+  {
+    "emoji": "🍁",
+    "tags": ["falling", "leaf", "maple"]
+  },
+  {
+    "emoji": "👨‍👩‍👧",
+    "tags": ["family", "girl", "man", "woman"]
+  },
+  {
+    "emoji": "👩‍👩‍👧‍👧",
+    "tags": ["family", "girl", "woman"]
+  },
+  {
+    "emoji": "👩‍👧",
+    "tags": ["family", "girl", "woman"]
+  },
+  {
+    "emoji": "👨‍👧‍👧",
+    "tags": ["family", "girl", "man"]
+  },
+  {
+    "emoji": "👨‍👧",
+    "tags": ["family", "girl", "man"]
+  },
+  {
+    "emoji": "👩‍👧‍👧",
+    "tags": ["family", "girl", "woman"]
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👧",
+    "tags": ["family", "girl", "man", "woman"]
+  },
+  {
+    "emoji": "👩‍🌾",
+    "tags": ["farmer", "gardener", "rancher", "woman"]
+  },
+  {
+    "emoji": "👨‍🌾",
+    "tags": ["farmer", "gardener", "man", "rancher"]
+  },
+  {
+    "emoji": "🍟",
+    "tags": ["fast", "food", "french", "fries"]
+  },
+  {
+    "emoji": "🐾",
+    "tags": ["feet", "paw", "prints", "paws", "print"]
+  },
+  {
+    "emoji": "🤺",
+    "tags": ["fencer", "fencing", "sword"]
+  },
+  {
+    "emoji": "📁",
+    "tags": ["file", "folder"]
+  },
+  {
+    "emoji": "📂",
+    "tags": ["file", "folder", "open"]
+  },
+  {
+    "emoji": "🖕",
+    "tags": ["finger", "hand", "middle"]
+  },
+  {
+    "emoji": "🖐",
+    "tags": ["finger", "hand", "raised", "with", "fingers", "splayed", "stop"]
+  },
+  {
+    "emoji": "☝",
+    "tags": ["finger", "hand", "index", "pointing", "up", "point", "this"]
+  },
+  {
+    "emoji": "🖖",
+    "tags": [
+      "finger",
+      "hand",
+      "hands",
+      "spock",
+      "star",
+      "trek",
+      "vulcan",
+      "salute"
+    ]
+  },
+  {
+    "emoji": "🤘",
+    "tags": ["finger", "h", "town", "hand", "horns", "rock-on", "sign", "the"]
+  },
+  {
+    "emoji": "👩‍🚒",
+    "tags": ["firefighter", "firetruck", "woman"]
+  },
+  {
+    "emoji": "👨‍🚒",
+    "tags": ["firefighter", "firetruck", "man"]
+  },
+  {
+    "emoji": "🥇",
+    "tags": ["first", "gold", "medal"]
+  },
+  {
+    "emoji": "🌓",
+    "tags": ["first", "quarter", "moon", "space"]
+  },
+  {
+    "emoji": "🤛",
+    "tags": ["fist", "leftwards"]
+  },
+  {
+    "emoji": "🤜",
+    "tags": ["fist", "rightwards"]
+  },
+  {
+    "emoji": "✋",
+    "tags": ["five", "hand", "high", "raised", "stop"]
+  },
+  {
+    "emoji": "🇦🇽",
+    "tags": ["flag", "åland", "islands"]
+  },
+  {
+    "emoji": "🇽🇼",
+    "tags": ["flag", "wales"]
+  },
+  {
+    "emoji": "🇽🇹",
+    "tags": ["flag", "texas"]
+  },
+  {
+    "emoji": "🇽🇸",
+    "tags": ["flag", "scotland"]
+  },
+  {
+    "emoji": "⛳",
+    "tags": ["flag", "in", "hole", "golf", "sport"]
+  },
+  {
+    "emoji": "⚜",
+    "tags": ["fleur-de-lis", "knights"]
+  },
+  {
+    "emoji": "🌺",
+    "tags": ["flower", "hibiscus", "plant"]
+  },
+  {
+    "emoji": "🌻",
+    "tags": ["flower", "outdoors", "plant", "sun", "sunflower"]
+  },
+  {
+    "emoji": "💮",
+    "tags": ["flower", "white"]
+  },
+  {
+    "emoji": "🌁",
+    "tags": ["fog", "foggy"]
+  },
+  {
+    "emoji": "🍢",
+    "tags": [
+      "food",
+      "kebab",
+      "oden",
+      "restaurant",
+      "seafood",
+      "skewer",
+      "stick"
+    ]
+  },
+  {
+    "emoji": "🦐",
+    "tags": ["food", "shellfish", "shrimp", "small"]
+  },
+  {
+    "emoji": "🍠",
+    "tags": ["food", "potato", "roasted", "sweet"]
+  },
+  {
+    "emoji": "🥔",
+    "tags": ["food", "potato", "vegetable"]
+  },
+  {
+    "emoji": "🍣",
+    "tags": ["food", "sushi"]
+  },
+  {
+    "emoji": "🥝",
+    "tags": ["food", "fruit", "kiwi"]
+  },
+  {
+    "emoji": "🥜",
+    "tags": ["food", "nut", "peanut", "vegetable"]
+  },
+  {
+    "emoji": "🍅",
+    "tags": ["food", "fruit", "tomato", "vegetable"]
+  },
+  {
+    "emoji": "🍲",
+    "tags": ["food", "pot", "soup", "stew"]
+  },
+  {
+    "emoji": "🍝",
+    "tags": ["food", "italian", "meatballs", "pasta", "restaurant", "spaghetti"]
+  },
+  {
+    "emoji": "🥗",
+    "tags": ["food", "green", "salad"]
+  },
+  {
+    "emoji": "🥭",
+    "tags": ["food", "fruit", "mango", "shaker", "tropical"]
+  },
+  {
+    "emoji": "🚷",
+    "tags": [
+      "forbidden",
+      "no",
+      "pedestrians",
+      "not",
+      "pedestrian",
+      "prohibited"
+    ]
+  },
+  {
+    "emoji": "🙅",
+    "tags": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "no",
+      "nope",
+      "not",
+      "person",
+      "gesturing",
+      "prohibited",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🚯",
+    "tags": ["forbidden", "litter", "no", "littering", "not", "prohibited"]
+  },
+  {
+    "emoji": "🚭",
+    "tags": ["forbidden", "no", "smoking", "not", "prohibited", "smoke"]
+  },
+  {
+    "emoji": "🙅‍♂",
+    "tags": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "man",
+      "gesturing",
+      "no",
+      "nope",
+      "not",
+      "prohibited"
+    ]
+  },
+  {
+    "emoji": "♾",
+    "tags": ["forever", "infinity", "unbounded", "universal"]
+  },
+  {
+    "emoji": "🤵",
+    "tags": ["formal", "groom", "man", "tuxedo"]
+  },
+  {
+    "emoji": "🥠",
+    "tags": ["fortune", "cookie", "prophecy"]
+  },
+  {
+    "emoji": "🖋",
+    "tags": ["fountain", "pen"]
+  },
+  {
+    "emoji": "⛲",
+    "tags": ["fountain"]
+  },
+  {
+    "emoji": "🌭",
+    "tags": ["frankfurter", "hot", "dog", "hotdog", "sausage"]
+  },
+  {
+    "emoji": "🍤",
+    "tags": ["fried", "shrimp", "prawn", "tempura"]
+  },
+  {
+    "emoji": "🍑",
+    "tags": ["fruit", "peach"]
+  },
+  {
+    "emoji": "🍐",
+    "tags": ["fruit", "pear"]
+  },
+  {
+    "emoji": "🍉",
+    "tags": ["fruit", "watermelon"]
+  },
+  {
+    "emoji": "⛽",
+    "tags": ["fuel", "pump", "gas", "station", "gasoline"]
+  },
+  {
+    "emoji": "🗻",
+    "tags": ["fuji", "mount", "mountain", "nature"]
+  },
+  {
+    "emoji": "🌕",
+    "tags": ["full", "moon", "space"]
+  },
+  {
+    "emoji": "🍄",
+    "tags": ["fungus", "mario", "mushroom", "toadstool"]
+  },
+  {
+    "emoji": "🕹",
+    "tags": ["game", "joystick", "videogame"]
+  },
+  {
+    "emoji": "🏒",
+    "tags": ["game", "hockey", "ice", "puck", "stick"]
+  },
+  {
+    "emoji": "🀄",
+    "tags": ["game", "mahjong", "red", "dragon"]
+  },
+  {
+    "emoji": "👨‍❤‍💋‍👨",
+    "tags": ["gay"]
+  },
+  {
+    "emoji": "⚙",
+    "tags": ["gear", "tool"]
+  },
+  {
+    "emoji": "🧓",
+    "tags": ["gender-neutral", "old", "older", "adult"]
+  },
+  {
+    "emoji": "⬜",
+    "tags": ["geometric", "square", "white", "large"]
+  },
+  {
+    "emoji": "🔺",
+    "tags": ["geometric", "red", "triangle", "pointed", "up"]
+  },
+  {
+    "emoji": "▫",
+    "tags": ["geometric", "square", "white", "small"]
+  },
+  {
+    "emoji": "◻",
+    "tags": ["geometric", "square", "white", "medium"]
+  },
+  {
+    "emoji": "◽",
+    "tags": ["geometric", "square", "white", "medium-small"]
+  },
+  {
+    "emoji": "🙎",
+    "tags": ["gesture", "person", "pouting", "woman"]
+  },
+  {
+    "emoji": "🙋",
+    "tags": [
+      "gesture",
+      "hand",
+      "hands",
+      "i",
+      "know",
+      "me",
+      "person",
+      "raising",
+      "question",
+      "raised",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "🙎‍♂",
+    "tags": ["gesture", "man", "pouting"]
+  },
+  {
+    "emoji": "🙋‍♂",
+    "tags": [
+      "gesture",
+      "hand",
+      "hands",
+      "i",
+      "know",
+      "man",
+      "raising",
+      "me",
+      "person",
+      "question",
+      "raised"
+    ]
+  },
+  {
+    "emoji": "🌔",
+    "tags": ["gibbous", "moon", "space", "waxing"]
+  },
+  {
+    "emoji": "🌖",
+    "tags": ["gibbous", "moon", "space", "waning"]
+  },
+  {
+    "emoji": "🧧",
+    "tags": [
+      "gift",
+      "good",
+      "luck",
+      "hóngbāo",
+      "lai",
+      "see",
+      "money",
+      "red",
+      "envelope"
+    ]
+  },
+  {
+    "emoji": "🦒",
+    "tags": ["giraffe", "spots"]
+  },
+  {
+    "emoji": "🔍",
+    "tags": [
+      "glass",
+      "lab",
+      "left-pointing",
+      "magnifying",
+      "science",
+      "search",
+      "tool"
+    ]
+  },
+  {
+    "emoji": "🥃",
+    "tags": ["glass", "scotch", "shot", "tumbler", "whiskey", "whisky"]
+  },
+  {
+    "emoji": "🌟",
+    "tags": [
+      "glittery",
+      "glow",
+      "glowing",
+      "star",
+      "night",
+      "shining",
+      "sparkle",
+      "win"
+    ]
+  },
+  {
+    "emoji": "🧤",
+    "tags": ["gloves", "hand"]
+  },
+  {
+    "emoji": "🥅",
+    "tags": ["goal", "net"]
+  },
+  {
+    "emoji": "🦃",
+    "tags": ["gobble", "thanksgiving", "turkey"]
+  },
+  {
+    "emoji": "👨‍🎓",
+    "tags": ["graduate", "man", "student"]
+  },
+  {
+    "emoji": "👩‍🎓",
+    "tags": ["graduate", "student", "woman"]
+  },
+  {
+    "emoji": "🌾",
+    "tags": ["grain", "grains", "plant", "rice", "sheaf"]
+  },
+  {
+    "emoji": "👲",
+    "tags": ["guapimao", "hat", "man", "with", "chinese", "cap"]
+  },
+  {
+    "emoji": "🎸",
+    "tags": ["guitar", "instrument", "music", "strat", "stratocaster"]
+  },
+  {
+    "emoji": "🔫",
+    "tags": ["gun", "handgun", "pistol", "revolver", "tool", "weapon"]
+  },
+  {
+    "emoji": "🎃",
+    "tags": ["halloween", "jack", "jack-o-lantern", "lantern", "pumpkin"]
+  },
+  {
+    "emoji": "🧟‍♀",
+    "tags": [
+      "halloween",
+      "scary",
+      "undead",
+      "walking",
+      "dead",
+      "woman",
+      "zombie"
+    ]
+  },
+  {
+    "emoji": "🧟‍♂",
+    "tags": ["halloween", "man", "zombie", "scary", "undead", "walking", "dead"]
+  },
+  {
+    "emoji": "🛠",
+    "tags": ["hammer", "and", "wrench", "spanner", "tool"]
+  },
+  {
+    "emoji": "🔨",
+    "tags": ["hammer", "home", "improvement", "repairs", "tool"]
+  },
+  {
+    "emoji": "⛏",
+    "tags": ["hammer", "mining", "pick", "tool"]
+  },
+  {
+    "emoji": "⚒",
+    "tags": ["hammer", "and", "pick", "tool"]
+  },
+  {
+    "emoji": "👐",
+    "tags": ["hand", "hug", "jazz", "hands", "open", "swerve"]
+  },
+  {
+    "emoji": "✌",
+    "tags": ["hand", "peace", "v", "victory"]
+  },
+  {
+    "emoji": "✍",
+    "tags": ["hand", "write", "writing"]
+  },
+  {
+    "emoji": "🤾‍♀",
+    "tags": ["handball", "woman"]
+  },
+  {
+    "emoji": "🤾‍♂",
+    "tags": ["handball", "man"]
+  },
+  {
+    "emoji": "#⃣",
+    "tags": ["hash", "hashtag", "pound"]
+  },
+  {
+    "emoji": "☮",
+    "tags": ["healing", "peace", "symbol", "peaceful"]
+  },
+  {
+    "emoji": "💌",
+    "tags": ["heart", "letter", "love", "mail", "romance", "valentine"]
+  },
+  {
+    "emoji": "➖",
+    "tags": ["heavy", "minus", "sign", "math"]
+  },
+  {
+    "emoji": "➕",
+    "tags": ["heavy", "plus", "sign", "math"]
+  },
+  {
+    "emoji": "🦔",
+    "tags": ["hedgehog", "spiny"]
+  },
+  {
+    "emoji": "🌿",
+    "tags": ["herb", "leaf", "plant"]
+  },
+  {
+    "emoji": "🔊",
+    "tags": ["high", "loud", "music", "sound", "speaker", "volume"]
+  },
+  {
+    "emoji": "🛣",
+    "tags": ["highway", "motorway", "road"]
+  },
+  {
+    "emoji": "🕳",
+    "tags": ["hole"]
+  },
+  {
+    "emoji": "🔧",
+    "tags": ["home", "improvement", "spanner", "tool", "wrench"]
+  },
+  {
+    "emoji": "🚥",
+    "tags": [
+      "horizontal",
+      "traffic",
+      "light",
+      "intersection",
+      "signal",
+      "stop",
+      "stoplight"
+    ]
+  },
+  {
+    "emoji": "📯",
+    "tags": ["horn", "post", "postal"]
+  },
+  {
+    "emoji": "🏇",
+    "tags": [
+      "horse",
+      "racing",
+      "jockey",
+      "racehorse",
+      "riding",
+      "sport",
+      "triple",
+      "crown"
+    ]
+  },
+  {
+    "emoji": "🌶",
+    "tags": ["hot", "pepper"]
+  },
+  {
+    "emoji": "♨",
+    "tags": ["hot", "springs", "hotsprings", "steaming"]
+  },
+  {
+    "emoji": "🛌",
+    "tags": ["hotel", "person", "in", "bed", "sleep"]
+  },
+  {
+    "emoji": "⌛",
+    "tags": ["hourglass", "sand", "time", "timer"]
+  },
+  {
+    "emoji": "⏳",
+    "tags": [
+      "hourglass",
+      "with",
+      "flowing",
+      "sand",
+      "hours",
+      "timer",
+      "waiting",
+      "yolo"
+    ]
+  },
+  {
+    "emoji": "🏘",
+    "tags": ["house"]
+  },
+  {
+    "emoji": "ℹ",
+    "tags": ["i", "information"]
+  },
+  {
+    "emoji": "⛸",
+    "tags": ["ice", "skate", "skating"]
+  },
+  {
+    "emoji": "🔏",
+    "tags": ["ink", "lock", "locked", "with", "pen", "nib", "privacy"]
+  },
+  {
+    "emoji": "🔣",
+    "tags": ["input", "symbols", "〒♪&%"]
+  },
+  {
+    "emoji": "🕷",
+    "tags": ["insect", "spider"]
+  },
+  {
+    "emoji": "👨‍🏫",
+    "tags": ["instructor", "man", "professor", "teacher"]
+  },
+  {
+    "emoji": "👩‍🏫",
+    "tags": ["instructor", "professor", "teacher", "woman"]
+  },
+  {
+    "emoji": "🎷",
+    "tags": ["instrument", "music", "sax", "saxophone"]
+  },
+  {
+    "emoji": "🎺",
+    "tags": ["instrument", "music", "trumpet"]
+  },
+  {
+    "emoji": "🎹",
+    "tags": ["instrument", "keyboard", "music", "musical", "piano"]
+  },
+  {
+    "emoji": "🎻",
+    "tags": ["instrument", "music", "stradivarius", "violin"]
+  },
+  {
+    "emoji": "☘",
+    "tags": ["irish", "plant", "shamrock"]
+  },
+  {
+    "emoji": "👩‍⚖",
+    "tags": ["judge", "justice", "scales", "woman"]
+  },
+  {
+    "emoji": "👨‍⚖",
+    "tags": ["judge", "justice", "man", "scales"]
+  },
+  {
+    "emoji": "🥋",
+    "tags": ["judo", "karate", "martial", "arts", "taekwondo", "uniform"]
+  },
+  {
+    "emoji": "🤹‍♀",
+    "tags": ["juggle", "juggling", "multitask", "woman"]
+  },
+  {
+    "emoji": "🤹‍♂",
+    "tags": ["juggle", "juggling", "man", "multitask"]
+  },
+  {
+    "emoji": "🎤",
+    "tags": ["karaoke", "mic", "microphone", "music", "sing", "sound"]
+  },
+  {
+    "emoji": "🔑",
+    "tags": ["key", "keys", "lock", "major", "password", "unlock"]
+  },
+  {
+    "emoji": "*⃣",
+    "tags": ["keycap"]
+  },
+  {
+    "emoji": "🔟",
+    "tags": ["keycap", "10", "keycap10"]
+  },
+  {
+    "emoji": "🛴",
+    "tags": ["kick", "scooter"]
+  },
+  {
+    "emoji": "🏷",
+    "tags": ["label"]
+  },
+  {
+    "emoji": "🌗",
+    "tags": ["last", "quarter", "moon", "space"]
+  },
+  {
+    "emoji": "🚀",
+    "tags": ["launch", "rocket", "rockets", "space", "travel"]
+  },
+  {
+    "emoji": "🚺",
+    "tags": ["lavatory", "restroom", "wc", "woman", "women’s", "room"]
+  },
+  {
+    "emoji": "🚹",
+    "tags": ["lavatory", "man", "men’s", "room", "restroom", "wc"]
+  },
+  {
+    "emoji": "📒",
+    "tags": ["ledger", "notebook"]
+  },
+  {
+    "emoji": "🎚",
+    "tags": ["level", "slider", "music"]
+  },
+  {
+    "emoji": "🏋",
+    "tags": [
+      "lifter",
+      "man",
+      "lifting",
+      "weights",
+      "person",
+      "weight",
+      "weightlifter",
+      "workout"
+    ]
+  },
+  {
+    "emoji": "🔗",
+    "tags": ["link", "links"]
+  },
+  {
+    "emoji": "🖇",
+    "tags": ["link", "linked", "paperclips", "paperclip"]
+  },
+  {
+    "emoji": "🚮",
+    "tags": ["litter", "in", "bin", "sign", "litterbin"]
+  },
+  {
+    "emoji": "📍",
+    "tags": ["location", "map", "pin", "pushpin", "round"]
+  },
+  {
+    "emoji": "🧴",
+    "tags": ["lotion", "bottle", "moisturizer", "shampoo", "sunscreen"]
+  },
+  {
+    "emoji": "📭",
+    "tags": ["lowered", "mail", "mailbox", "open", "with", "flag", "postbox"]
+  },
+  {
+    "emoji": "🛷",
+    "tags": ["luge", "sled", "sledge", "sleigh", "snow", "toboggan"]
+  },
+  {
+    "emoji": "🧳",
+    "tags": ["luggage", "packing", "roller", "bag", "suitcase", "travel"]
+  },
+  {
+    "emoji": "🧙‍♂",
+    "tags": ["mage", "magic", "man", "sorcerer", "spell", "wizard"]
+  },
+  {
+    "emoji": "🧙‍♀",
+    "tags": ["mage", "magic", "sorceress", "spell", "witch", "woman"]
+  },
+  {
+    "emoji": "✨",
+    "tags": ["magic", "sparkle", "sparkles", "star"]
+  },
+  {
+    "emoji": "📮",
+    "tags": ["mail", "mailbox", "postbox"]
+  },
+  {
+    "emoji": "📬",
+    "tags": ["mail", "mailbox", "open", "with", "raised", "flag", "postbox"]
+  },
+  {
+    "emoji": "👨‍✈",
+    "tags": ["man", "pilot", "plane"]
+  },
+  {
+    "emoji": "🤽‍♂",
+    "tags": ["man", "water", "polo"]
+  },
+  {
+    "emoji": "🧖‍♂",
+    "tags": ["man", "in", "steamy", "room", "relax", "sauna", "steam"]
+  },
+  {
+    "emoji": "🏊",
+    "tags": ["man", "swimming", "person", "sport", "swim", "swimmer"]
+  },
+  {
+    "emoji": "👳",
+    "tags": ["man", "wearing", "turban", "person"]
+  },
+  {
+    "emoji": "🗺",
+    "tags": ["map", "world"]
+  },
+  {
+    "emoji": "〽",
+    "tags": ["mark", "part", "alternation"]
+  },
+  {
+    "emoji": "™",
+    "tags": ["mark", "tm", "trade", "trademark"]
+  },
+  {
+    "emoji": "🥈",
+    "tags": ["medal", "second", "silver"]
+  },
+  {
+    "emoji": "🔉",
+    "tags": ["medium", "sound", "speaker", "volume"]
+  },
+  {
+    "emoji": "🤼‍♂",
+    "tags": ["men", "wrestle", "wrestling"]
+  },
+  {
+    "emoji": "🧜",
+    "tags": ["mermaid", "merman", "merperson", "merwoman"]
+  },
+  {
+    "emoji": "🧜‍♀",
+    "tags": ["mermaid", "merwoman"]
+  },
+  {
+    "emoji": "🚇",
+    "tags": ["metro", "subway", "travel"]
+  },
+  {
+    "emoji": "🌮",
+    "tags": ["mexican", "taco"]
+  },
+  {
+    "emoji": "🎙",
+    "tags": ["mic", "microphone", "music", "studio"]
+  },
+  {
+    "emoji": "🌌",
+    "tags": ["milky", "way", "space"]
+  },
+  {
+    "emoji": "🚝",
+    "tags": ["monorail", "vehicle"]
+  },
+  {
+    "emoji": "🌅",
+    "tags": ["morning", "nature", "sun", "sunrise"]
+  },
+  {
+    "emoji": "🌄",
+    "tags": ["morning", "mountain", "sun", "sunrise", "over", "mountains"]
+  },
+  {
+    "emoji": "🛵",
+    "tags": ["motor", "scooter"]
+  },
+  {
+    "emoji": "🏍",
+    "tags": ["motorcycle", "racing"]
+  },
+  {
+    "emoji": "⛰",
+    "tags": ["mountain"]
+  },
+  {
+    "emoji": "🍿",
+    "tags": ["movie", "popcorn"]
+  },
+  {
+    "emoji": "✖",
+    "tags": ["multiplication", "multiply", "x"]
+  },
+  {
+    "emoji": "❌",
+    "tags": ["multiplication", "multiply", "x"]
+  },
+  {
+    "emoji": "🎶",
+    "tags": ["music", "musical", "notes", "note", "sound"]
+  },
+  {
+    "emoji": "🎼",
+    "tags": ["music", "musical", "score", "note"]
+  },
+  {
+    "emoji": "🎵",
+    "tags": ["music", "musical", "note", "sound"]
+  },
+  {
+    "emoji": "🔇",
+    "tags": ["mute", "muted", "speaker", "quiet", "silent", "sound"]
+  },
+  {
+    "emoji": "🏞",
+    "tags": ["national", "park"]
+  },
+  {
+    "emoji": "🧵",
+    "tags": ["needle", "sewing", "spool", "string", "thread"]
+  },
+  {
+    "emoji": "🗞",
+    "tags": ["news", "newspaper", "paper", "rolled", "rolled-up"]
+  },
+  {
+    "emoji": "🌃",
+    "tags": ["night", "with", "stars", "star"]
+  },
+  {
+    "emoji": "🗒",
+    "tags": ["note", "pad", "spiral", "notepad"]
+  },
+  {
+    "emoji": "📓",
+    "tags": ["notebook"]
+  },
+  {
+    "emoji": "🛑",
+    "tags": ["octagonal", "sign", "stop"]
+  },
+  {
+    "emoji": "📼",
+    "tags": ["old", "school", "tape", "vcr", "vhs", "video", "videocassette"]
+  },
+  {
+    "emoji": "🧡",
+    "tags": ["orange", "heart"]
+  },
+  {
+    "emoji": "🖌",
+    "tags": ["paintbrush", "painting"]
+  },
+  {
+    "emoji": "📜",
+    "tags": ["paper", "scroll"]
+  },
+  {
+    "emoji": "🧻",
+    "tags": ["paper", "towels", "roll", "toilet"]
+  },
+  {
+    "emoji": "📎",
+    "tags": ["paperclip"]
+  },
+  {
+    "emoji": "🛳",
+    "tags": ["passenger", "ship"]
+  },
+  {
+    "emoji": "✏",
+    "tags": ["pencil"]
+  },
+  {
+    "emoji": "☎",
+    "tags": ["phone", "telephone"]
+  },
+  {
+    "emoji": "👩‍✈",
+    "tags": ["pilot", "plane", "woman"]
+  },
+  {
+    "emoji": "🛐",
+    "tags": ["place", "worship", "pray", "religion"]
+  },
+  {
+    "emoji": "🌱",
+    "tags": ["plant", "sapling", "seedling", "sprout", "young"]
+  },
+  {
+    "emoji": "🏵",
+    "tags": ["plant", "rosette"]
+  },
+  {
+    "emoji": "🤰",
+    "tags": ["pregnant", "woman"]
+  },
+  {
+    "emoji": "🤴",
+    "tags": ["prince", "royal", "royalty"]
+  },
+  {
+    "emoji": "☢",
+    "tags": ["radioactive", "sign"]
+  },
+  {
+    "emoji": "🛤",
+    "tags": ["railway", "track", "train"]
+  },
+  {
+    "emoji": "🚟",
+    "tags": ["railway", "suspension"]
+  },
+  {
+    "emoji": "☂",
+    "tags": ["rain", "umbrella"]
+  },
+  {
+    "emoji": "⛱",
+    "tags": ["rain", "sun", "umbrella", "on", "ground"]
+  },
+  {
+    "emoji": "♻",
+    "tags": ["recycle", "recycling", "symbol"]
+  },
+  {
+    "emoji": "®",
+    "tags": ["registered"]
+  },
+  {
+    "emoji": "🧖‍♀",
+    "tags": ["relax", "sauna", "steam", "room", "steamy", "woman", "in"]
+  },
+  {
+    "emoji": "⛩",
+    "tags": ["religion", "shinto", "shrine"]
+  },
+  {
+    "emoji": "🧷",
+    "tags": ["safety", "pin"]
+  },
+  {
+    "emoji": "👡",
+    "tags": ["sandal", "shoe", "woman", "woman’s"]
+  },
+  {
+    "emoji": "🛰",
+    "tags": ["satellite", "space"]
+  },
+  {
+    "emoji": "🛡",
+    "tags": ["shield", "weapon"]
+  },
+  {
+    "emoji": "🚿",
+    "tags": ["shower", "water"]
+  },
+  {
+    "emoji": "🎿",
+    "tags": ["ski", "skis", "snow", "sport"]
+  },
+  {
+    "emoji": "🏂",
+    "tags": ["ski", "snow", "snowboard", "snowboarder", "sport"]
+  },
+  {
+    "emoji": "⛷",
+    "tags": ["ski", "skier", "snow"]
+  },
+  {
+    "emoji": "🧦",
+    "tags": ["socks", "stocking"]
+  },
+  {
+    "emoji": "🔈",
+    "tags": ["soft", "sound", "speaker", "low", "volume"]
+  },
+  {
+    "emoji": "❇",
+    "tags": ["sparkle"]
+  },
+  {
+    "emoji": "🕸",
+    "tags": ["spider", "web"]
+  },
+  {
+    "emoji": "🏊‍♀",
+    "tags": ["sport", "swim", "swimmer", "swimming", "woman"]
+  },
+  {
+    "emoji": "⏹",
+    "tags": ["square", "stop", "button"]
+  },
+  {
+    "emoji": "🏟",
+    "tags": ["stadium"]
+  },
+  {
+    "emoji": "🦓",
+    "tags": ["stripe", "zebra"]
+  },
+  {
+    "emoji": "📺",
+    "tags": ["television", "tv", "video"]
+  },
+  {
+    "emoji": "🌡",
+    "tags": ["thermometer", "weather"]
+  },
+  {
+    "emoji": "🚜",
+    "tags": ["tractor", "vehicle"]
+  },
+  {
+    "emoji": "👳‍♀",
+    "tags": ["turban", "woman", "wearing"]
+  },
+  {
+    "emoji": "🗑",
+    "tags": ["wastebasket"]
+  },
+  {
+    "emoji": "🤽‍♀",
+    "tags": ["water", "polo", "woman"]
+  },
+  {
+    "emoji": "🏳",
+    "tags": ["waving", "white", "flag"]
+  },
+  {
+    "emoji": "🏋‍♀",
+    "tags": ["woman", "lifting", "weights"]
+  },
+  {
+    "emoji": "🤼‍♀",
+    "tags": ["women", "wrestle", "wrestling"]
+  }
+]

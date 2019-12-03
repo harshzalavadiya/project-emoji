@@ -1,0 +1,12 @@
+{
+  "name": "emoji-dataset",
+  "version": "0.0.0",
+  "description": "Emoji JSON dataset generator",
+  "author": "Harsh Zalavadiya <harsh@foobars.in>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  }
+}
